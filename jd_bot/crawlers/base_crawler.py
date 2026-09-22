@@ -27,6 +27,12 @@ class JobItem:
     def to_dict(self) -> Dict[str, Any]:
         return asdict(self)
 
+    @classmethod
+    def from_dict(cls, data: Dict[str, Any]) -> "JobItem":
+        valid_fields = set(cls.__dataclass_fields__.keys())
+        filtered = {k: v for k, v in data.items() if k in valid_fields}
+        return cls(**filtered)
+
 class BaseCrawler:
     def __init__(self, delay_range=(1.0, 2.5), timeout=15):
         self.delay_range = delay_range

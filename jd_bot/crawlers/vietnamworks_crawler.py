@@ -78,6 +78,7 @@ class VietnamWorksCrawler(BaseCrawler):
 
                     # Skills
                     raw_skills = item.get("skills", [])
+                    skill_tags = [s.get("skillName") for s in raw_skills if isinstance(s, dict) and s.get("skillName")]
                     # Posted date
                     posted_date = str(item.get("approvedOn") or item.get("createdOn") or item.get("startDate") or "")
 

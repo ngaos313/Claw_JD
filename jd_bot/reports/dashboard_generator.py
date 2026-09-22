@@ -515,14 +515,14 @@ class DashboardGenerator:
 
             <div class="stat-card">
                 <div class="stat-label">Nền tảng tuyển dụng tích hợp</div>
-                <div class="stat-value" style="color: var(--primary);">5 Nguồn</div>
+                <div class="stat-value" style="color: var(--primary);">{len(source_counts)} Nguồn</div>
                 <div class="stat-subtext">LinkedIn &bull; ITviec &bull; CareerViet &bull; VietnamWorks &bull; CISSP FB</div>
             </div>
 
             <div class="stat-card">
                 <div class="stat-label">Nhóm ngành có nhu cầu lớn nhất</div>
                 <div class="stat-value" style="font-size: 1.25rem; color: var(--accent-green);">{top_track.split('/')[0]}</div>
-                <div class="stat-subtext">Dựa trên phân tích 350+ tin tuyển dụng</div>
+                <div class="stat-subtext">Dựa trên phân tích {total_jobs}+ tin tuyển dụng</div>
             </div>
 
             <div class="stat-card">
@@ -555,7 +555,7 @@ class DashboardGenerator:
                         <div class="card-title">
                             🌐 Phân Bổ Nguồn Dữ Liệu Tuyển Dụng
                         </div>
-                        <span class="badge badge-green">6 Nền tảng</span>
+                        <span class="badge badge-green">{len(source_counts)} Nền tảng</span>
                     </div>
                     <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem;">
                         Số lượng bài tuyển dụng thu thập từ từng nguồn kênh (Mạng xã hội, sàn IT chuyên nghiệp, sàn việc làm chung).

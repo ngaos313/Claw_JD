@@ -55,6 +55,19 @@ def run_crawlers(sources: List[str] = None, max_per_source: int = 30) -> List[Jo
     os.makedirs(DATA_DIR, exist_ok=True)
     all_jobs: List[JobItem] = []
 
+    # Load existing jobs to ensure cumulative merging (preserving previously fetched sources)
+    existing_jobs_map: Dict[str, JobItem] = {}
+    if os.path.exists(RAW_JDS_PATH):
+        try:
+            with open(RAW_JDS_PATH, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                for item in data:
+                    j = JobItem.from_dict(item)
+                    existing_jobs_map[j.id] = j
+            print(f"[*] Loaded {len(existing_jobs_map)} existing jobs from database.")
+        except Exception as e:
+            print(f"[!] Warning reading existing {RAW_JDS_PATH}: {e}")
+
     if "linkedin" in sources:
         print("\n[1/5] Running LinkedIn Crawler...")
         lic = LinkedInCrawler()
@@ -111,18 +124,16 @@ def run_crawlers(sources: List[str] = None, max_per_source: int = 30) -> List[Jo
         except Exception as e:
             print(f"[!] Error in CISSP Facebook Crawler: {e}")
 
-    print(f"\n[+] Enriching, classifying and deduplicating {len(all_jobs)} jobs across 5 platforms...")
-    enriched_jobs = []
-    seen_ids = set()
+    print(f"\n[+] Enriching, classifying and merging {len(all_jobs)} newly crawled jobs into database...")
     for job in all_jobs:
-        if job.id in seen_ids:
-            continue
-        seen_ids.add(job.id)
         enriched = JDExtractor.enrich_job(job)
-        enriched_jobs.append(enriched)
+        existing_jobs_map[enriched.id] = enriched
+
+    merged_jobs = list(existing_jobs_map.values())
+    print(f"[+] Total cumulative jobs in database: {len(merged_jobs)}")
 
     # 1. Sort strictly from newest to oldest (thời gian gần đây nhất đến xa nhất)
-    sorted_jobs = DateUtils.sort_jobs_by_date(enriched_jobs, descending=True)
+    sorted_jobs = DateUtils.sort_jobs_by_date(merged_jobs, descending=True)
 
     # 2. Pruning guard: If dataset exceeds 100MB, prune oldest JDs
     final_jobs = DateUtils.prune_jobs_by_size(sorted_jobs, max_size_mb=100.0)

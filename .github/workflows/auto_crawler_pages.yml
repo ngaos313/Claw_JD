@@ -61,6 +61,7 @@ jobs:
       - name: 💾 Commit & Push Fresh JDs Back to Repo
         run: |
           git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add jd_bot/data/ index.html
           git commit -m "chore(bot): update crawled cybersecurity JDs [skip ci]" || echo "No changes to commit"
           git push origin main || echo "Push skipped or branch protected"
