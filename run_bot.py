@@ -27,7 +27,6 @@ from jd_bot.reports.private_gap_generator import PrivateGapGenerator
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "jd_bot", "data")
 RAW_JDS_PATH = os.path.join(DATA_DIR, "raw_jds.json")
-ANALYSIS_PATH = os.path.join(DATA_DIR, "analysis_result.json")
 
 def resolve_candidate_profile(cv_arg: str = "") -> Dict[str, Any]:
     if cv_arg and os.path.exists(cv_arg):

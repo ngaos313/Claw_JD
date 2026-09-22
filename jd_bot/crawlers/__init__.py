@@ -4,7 +4,6 @@ from .itviec_crawler import ITViecCrawler
 from .careerviet_crawler import CareerVietCrawler
 from .vietnamworks_crawler import VietnamWorksCrawler
 from .cissp_facebook_crawler import CISSPFacebookCrawler
-from .manual_importer import ManualImporter
 
 __all__ = [
     "BaseCrawler",
@@ -13,6 +12,5 @@ __all__ = [
     "ITViecCrawler",
     "CareerVietCrawler",
     "VietnamWorksCrawler",
-    "CISSPFacebookCrawler",
-    "ManualImporter"
+    "CISSPFacebookCrawler"
 ]
