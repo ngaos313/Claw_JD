@@ -191,17 +191,40 @@ def generate_public_dashboard(jobs: List[JobItem] = None):
 
     print(f"[✓] Public Dashboard ready: {os.path.abspath('index.html')}")
 
+def sync_data_from_git():
+    """Pulls latest crawled JDs and data from GitHub repository to local machine."""
+    import subprocess
+    git_cmd = os.path.expandvars(r'%LOCALAPPDATA%\Programs\MinGit\cmd\git.exe')
+    if not os.path.exists(git_cmd):
+        git_cmd = 'git'
+    print("\n[+] Pulling latest crawled JDs from GitHub (git pull origin main)...")
+    try:
+        res = subprocess.run([git_cmd, 'pull', 'origin', 'main'], capture_output=True, text=True, cwd=os.path.dirname(__file__))
+        if res.stdout:
+            print(res.stdout.strip())
+        if res.returncode == 0:
+            print("[✓] Successfully synced latest JDs from Git!")
+        else:
+            print(f"[!] Git note: {res.stderr.strip() or res.stdout.strip()}")
+    except Exception as e:
+        print(f"[!] Warning: Could not run git pull: {e}")
+
 def main():
     parser = argparse.ArgumentParser(description="Cybersecurity Job Aggregator & Market Intelligence")
-    parser.add_argument("--crawl", action="store_true", help="Crawl jobs from all 6 sources")
+    parser.add_argument("--crawl", action="store_true", help="Crawl jobs from all sources")
     parser.add_argument("--report", action="store_true", help="Generate clean public aggregator dashboard (index.html)")
     parser.add_argument("--all", action="store_true", help="Run crawler and refresh public dashboard (used on GitHub Actions)")
     parser.add_argument("--gap", action="store_true", help="Run PRIVATE personal gap analysis & roadmap locally on your machine")
+    parser.add_argument("--pull", action="store_true", help="Pull latest crawled JDs from GitHub before running local analysis")
     parser.add_argument("--cv", type=str, default="", help="Path to custom CV file for local gap analysis")
     parser.add_argument("--sources", type=str, default="", help="Comma-separated sources: linkedin,itviec,careerviet,vietnamworks,cissp_fb")
 
     args = parser.parse_args()
     selected_sources = [s.strip() for s in args.sources.split(",") if s.strip()] if args.sources else None
+
+    # Sync fresh data from GitHub if requested
+    if args.pull:
+        sync_data_from_git()
 
     # If user wants local gap analysis
     if args.gap or args.cv:
