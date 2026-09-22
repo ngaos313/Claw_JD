@@ -102,6 +102,21 @@ pip install -r requirements.txt
   python run_bot.py --report
   ```
 
+### 3. Đồng Bộ Dữ Liệu Từ Git Về Local & Phân Tích Lộ Trình CV (1-Click)
+
+Bạn có thể dễ dàng lấy toàn bộ JD mới nhất mà GitHub Actions tự động cào về máy tính, đồng thời đối sánh với CV cá nhân chỉ bằng 1 thao tác:
+
+- **Cách 1 (Nhấp đúp chuột)**: Nhấp đúp vào file [`dong_bo_va_phan_tich_cv.bat`](dong_bo_va_phan_tich_cv.bat) ngay thư mục gốc.
+- **Cách 2 (Dòng lệnh CLI)**:
+  ```bash
+  python run_bot.py --gap --pull
+  ```
+
+*Quy trình thực hiện tự động*:
+1. `git pull origin main` kéo các JD mới nhất từ GitHub Actions về máy local.
+2. Bộ đối sánh phân tích hồ sơ CV của bạn với toàn bộ tin tuyển dụng trong database.
+3. Tự động mở báo cáo giao diện trực quan `local_private/reports/private_gap_analysis.html` trên trình duyệt (100% dữ liệu CV và báo cáo cá nhân chỉ lưu tại máy bạn, không đưa lên Git).
+
 ---
 
 ## 🤖 Tự Động Hóa 24/7 Với GitHub Actions & GitHub Pages
