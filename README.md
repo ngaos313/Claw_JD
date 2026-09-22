@@ -1,6 +1,6 @@
 # 🛡️ Vietnam Cybersecurity Job Aggregator & Market Intelligence
 
-> **Hệ thống tự động thu thập và phân tích dữ liệu tuyển dụng An toàn thông tin (Cybersecurity)** tại thị trường Việt Nam từ **5 nguồn tuyển dụng hàng đầu**, tự động phân loại theo 9 chuyên ngành bảo mật và cập nhật Dashboard trực tiếp lên **GitHub Pages** 24/7 thông qua **GitHub Actions** (không cần mở máy tính).
+> **Hệ thống tự động thu thập và phân tích dữ liệu tuyển dụng An toàn thông tin (Cybersecurity)** tại thị trường Việt Nam từ **6 nguồn tuyển dụng hàng đầu**, tự động phân loại theo 9 chuyên ngành bảo mật và cập nhật Dashboard trực tiếp lên **GitHub Pages** 24/7 thông qua **GitHub Actions** (không cần mở máy tính).
 
 ---
 
@@ -8,14 +8,14 @@
 
 Dashboard được xuất bản tĩnh tại [`index.html`](index.html), cung cấp:
 - **Thống kê thị trường theo thời gian thực**: Tổng số việc làm, phân bổ theo nguồn tuyển dụng, phân bổ theo nhóm chuyên môn (Tracks).
-- **Sắp xếp thời gian thông minh (Newest-First)**: Toàn bộ công việc từ 5 nguồn được chuẩn hóa timestamp để sắp xếp từ **gần đây nhất đến xa nhất**, có tùy chọn đảo chiều hoặc lọc theo thứ tự bảng chữ cái.
-- **Bộ lọc đa chiều & tìm kiếm tức thì**: Lọc theo Chuyên môn (DFIR, Cloud Sec, SOC, Pentest, GRC...), Nguồn tuyển dụng (LinkedIn, ITviec, CareerViet, VietnamWorks, CISSP FB), và tìm kiếm tự do theo từ khóa (kỹ năng, công ty, địa điểm, công nghệ).
+- **Sắp xếp thời gian thông minh (Newest-First)**: Toàn bộ công việc từ 6 nguồn được chuẩn hóa timestamp để sắp xếp từ **gần đây nhất đến xa nhất**, có tùy chọn đảo chiều hoặc lọc theo thứ tự bảng chữ cái.
+- **Bộ lọc đa chiều & tìm kiếm tức thì**: Lọc theo Chuyên môn (DFIR, Cloud Sec, SOC, Pentest, GRC...), Nguồn tuyển dụng (LinkedIn, ITviec, CareerViet, VietnamWorks, TopCV, CISSP FB), và tìm kiếm tự do theo từ khóa (kỹ năng, công ty, địa điểm, công nghệ).
 - **Cơ chế SizeGuard (< 100MB)**: Tự động giám sát dung lượng file dữ liệu `raw_jds.json`, tự động dọn dẹp các bài đăng cũ nhất khi chạm ngưỡng 100MB để đảm bảo tuân thủ giới hạn file của GitHub và giữ repo luôn mượt mà.
 - **Thẻ việc làm chi tiết**: Hiển thị mức lương, địa điểm, ngày đăng chuẩn hóa, yêu cầu kỹ năng, chứng chỉ khuyến nghị và liên kết ứng tuyển trực tiếp.
 
 ---
 
-## 🚀 5 Nguồn Tuyển Dụng Được Tích Hợp
+## 🚀 6 Nguồn Tuyển Dụng Được Tích Hợp
 
 | Nguồn | Cơ chế thu thập | Đặc điểm vị trí |
 | :--- | :--- | :--- |
@@ -23,6 +23,7 @@ Dashboard được xuất bản tĩnh tại [`index.html`](index.html), cung c�
 | **ITviec** | Web Scraping & Semantic Tagging | Tech / Product / Fintech, DevSecOps, AppSec, Cloud |
 | **CareerViet** | Search Scraper | Khối Ngân hàng, Doanh nghiệp lớn (MB Bank, Viettel...) |
 | **VietnamWorks** | Search API | Khối Doanh nghiệp & IT Services toàn quốc |
+| **TopCV** | Scraper & Strict Cyber Filter | Hệ sinh thái tuyển dụng lớn nhất VN (Lọc chuyên sâu ATTT) |
 | **CISSP FB Group** | Standardized 32-column Dataset | Tin tuyển dụng từ cộng đồng CISSP (kèm Email, SĐT/Zalo liên hệ) |
 
 ---
@@ -49,12 +50,13 @@ Mỗi JD được hệ thống phân tích ngữ nghĩa và gán vào nhóm ngà
 │   └── workflows/
 │       └── auto_crawler_pages.yml      # CI/CD: Chạy tự động mỗi 30 phút trên GitHub Actions & deploy Pages
 ├── jd_bot/                             # Mã nguồn chính của bot
-│   ├── crawlers/                       # 5 Crawler thu thập dữ liệu
+│   ├── crawlers/                       # 6 Crawler thu thập dữ liệu
 │   │   ├── base_crawler.py             # Lớp cơ sở chuẩn hóa JobItem
 │   │   ├── linkedin_crawler.py         # Crawler LinkedIn
 │   │   ├── itviec_crawler.py           # Crawler ITViec
 │   │   ├── careerviet_crawler.py       # Crawler CareerViet
 │   │   ├── vietnamworks_crawler.py     # Crawler VietnamWorks
+│   │   ├── topcv_crawler.py            # Crawler TopCV (Bộ lọc an ninh mạng)
 │   │   └── cissp_facebook_crawler.py   # Parser dữ liệu Facebook CISSP
 │   ├── analyzer/                       # Module phân tích JD
 │   │   ├── jd_extractor.py             # Trích xuất kỹ năng, phân loại 9 nhóm ngành

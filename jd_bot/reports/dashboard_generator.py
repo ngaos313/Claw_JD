@@ -307,7 +307,7 @@ class DashboardGenerator:
         .src-itviec {{ background: #ea580c; color: #fff; }}
         .src-careerviet {{ background: #4f46e5; color: #fff; }}
         .src-vietnamworks {{ background: #0284c7; color: #fff; }}
-        .src-cyberjutsu {{ background: #cf1337; color: #fff; }}
+        .src-topcv {{ background: #00b14f; color: #fff; }}
         .src-cissp {{ background: #d97706; color: #fff; }}
 
         .track-grid {{
@@ -493,7 +493,7 @@ class DashboardGenerator:
                 <div class="brand-logo">🛡️</div>
                 <div class="brand-text">
                     <h1>Cybersecurity Job & Market Aggregator</h1>
-                    <p>Tổng hợp Việc làm ATTT từ 5 Nền tảng (LinkedIn, ITviec, CareerViet, VietnamWorks, CISSP FB)</p>
+                    <p>Tổng hợp Việc làm ATTT từ 6 Nền tảng (LinkedIn, ITviec, CareerViet, VietnamWorks, TopCV, CISSP FB)</p>
                 </div>
             </div>
 
@@ -516,7 +516,7 @@ class DashboardGenerator:
             <div class="stat-card">
                 <div class="stat-label">Nền tảng tuyển dụng tích hợp</div>
                 <div class="stat-value" style="color: var(--primary);">{len(source_counts)} Nguồn</div>
-                <div class="stat-subtext">LinkedIn &bull; ITviec &bull; CareerViet &bull; VietnamWorks &bull; CISSP FB</div>
+                <div class="stat-subtext">LinkedIn &bull; ITviec &bull; CareerViet &bull; VietnamWorks &bull; TopCV &bull; CISSP FB</div>
             </div>
 
             <div class="stat-card">
@@ -615,7 +615,7 @@ class DashboardGenerator:
 
     <!-- Footer -->
     <footer>
-        <p>Cybersecurity Job Aggregator & Market Intelligence &bull; Tích hợp LinkedIn, ITviec, CareerViet, VietnamWorks & CISSP Facebook Group &bull; Tự động cập nhật 24/7 qua GitHub Actions</p>
+        <p>Cybersecurity Job Aggregator & Market Intelligence &bull; Tích hợp LinkedIn, ITviec, CareerViet, VietnamWorks, TopCV & CISSP Facebook Group &bull; Tự động cập nhật 24/7 qua GitHub Actions</p>
     </footer>
 
     <script>
@@ -644,7 +644,7 @@ class DashboardGenerator:
             if (src.includes('ITviec')) return 'src-itviec';
             if (src.includes('CareerViet')) return 'src-careerviet';
             if (src.includes('VietnamWorks')) return 'src-vietnamworks';
-            if (src.includes('Cyberjutsu')) return 'src-cyberjutsu';
+            if (src.includes('TopCV')) return 'src-topcv';
             if (src.includes('CISSP')) return 'src-cissp';
             return 'src-linkedin';
         }}
@@ -721,7 +721,7 @@ class DashboardGenerator:
                     datasets: [{{
                         data: sourceValues,
                         backgroundColor: [
-                            '#0077b5', '#ea580c', '#4f46e5', '#0284c7', '#cf1337', '#d97706'
+                            '#0077b5', '#ea580c', '#4f46e5', '#0284c7', '#00b14f', '#d97706'
                         ],
                         borderColor: '#0a0f1d',
                         borderWidth: 2

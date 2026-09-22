@@ -15,6 +15,7 @@ from jd_bot.crawlers.linkedin_crawler import LinkedInCrawler
 from jd_bot.crawlers.itviec_crawler import ITViecCrawler
 from jd_bot.crawlers.careerviet_crawler import CareerVietCrawler
 from jd_bot.crawlers.vietnamworks_crawler import VietnamWorksCrawler
+from jd_bot.crawlers.topcv_crawler import TopCVCrawler
 from jd_bot.crawlers.cissp_facebook_crawler import CISSPFacebookCrawler
 from jd_bot.analyzer.cv_parser import CVParser
 from jd_bot.analyzer.jd_extractor import JDExtractor
@@ -50,7 +51,7 @@ def resolve_candidate_profile(cv_arg: str = "") -> Dict[str, Any]:
 
 def run_crawlers(sources: List[str] = None, max_per_source: int = 30) -> List[JobItem]:
     if not sources:
-        sources = ["linkedin", "itviec", "careerviet", "vietnamworks", "cissp_fb"]
+        sources = ["linkedin", "itviec", "careerviet", "vietnamworks", "topcv", "cissp_fb"]
 
     os.makedirs(DATA_DIR, exist_ok=True)
     all_jobs: List[JobItem] = []
@@ -69,7 +70,7 @@ def run_crawlers(sources: List[str] = None, max_per_source: int = 30) -> List[Jo
             print(f"[!] Warning reading existing {RAW_JDS_PATH}: {e}")
 
     if "linkedin" in sources:
-        print("\n[1/5] Running LinkedIn Crawler...")
+        print("\n[1/6] Running LinkedIn Crawler...")
         lic = LinkedInCrawler()
         keywords = [
             "DFIR",
@@ -89,7 +90,7 @@ def run_crawlers(sources: List[str] = None, max_per_source: int = 30) -> List[Jo
             print(f"[!] Error in LinkedIn Crawler: {e}")
 
     if "itviec" in sources:
-        print("\n[2/5] Running ITviec Crawler...")
+        print("\n[2/6] Running ITviec Crawler...")
         itv = ITViecCrawler()
         try:
             itv_jobs = itv.crawl(tags=["security", "cloud", "devops"], max_jobs=20)
@@ -98,7 +99,7 @@ def run_crawlers(sources: List[str] = None, max_per_source: int = 30) -> List[Jo
             print(f"[!] Error in ITviec Crawler: {e}")
 
     if "careerviet" in sources:
-        print("\n[3/5] Running CareerViet Crawler...")
+        print("\n[3/6] Running CareerViet Crawler...")
         cvc = CareerVietCrawler()
         try:
             cv_jobs = cvc.crawl(search_keywords=["an-toan-thong-tin", "devsecops"], max_jobs=20)
@@ -107,7 +108,7 @@ def run_crawlers(sources: List[str] = None, max_per_source: int = 30) -> List[Jo
             print(f"[!] Error in CareerViet Crawler: {e}")
 
     if "vietnamworks" in sources:
-        print("\n[4/5] Running VietnamWorks Crawler...")
+        print("\n[4/6] Running VietnamWorks Crawler...")
         vnw = VietnamWorksCrawler()
         try:
             vnw_jobs = vnw.crawl(max_results_per_query=10)
@@ -115,8 +116,17 @@ def run_crawlers(sources: List[str] = None, max_per_source: int = 30) -> List[Jo
         except Exception as e:
             print(f"[!] Error in VietnamWorks Crawler: {e}")
 
+    if "topcv" in sources:
+        print("\n[5/6] Running TopCV Crawler (Strict Cybersecurity Filter)...")
+        tcv = TopCVCrawler()
+        try:
+            tcv_jobs = tcv.crawl(max_jobs=25)
+            all_jobs.extend(tcv_jobs)
+        except Exception as e:
+            print(f"[!] Error in TopCV Crawler: {e}")
+
     if "cissp_fb" in sources:
-        print("\n[5/5] Running CISSP Facebook Group Crawler...")
+        print("\n[6/6] Running CISSP Facebook Group Crawler...")
         cfb = CISSPFacebookCrawler()
         try:
             fb_jobs = cfb.crawl(max_jobs=150)
@@ -227,7 +237,7 @@ def main():
     parser.add_argument("--gap", action="store_true", help="Run PRIVATE personal gap analysis & roadmap locally on your machine")
     parser.add_argument("--pull", action="store_true", help="Pull latest crawled JDs from GitHub before running local analysis")
     parser.add_argument("--cv", type=str, default="", help="Path to custom CV file for local gap analysis")
-    parser.add_argument("--sources", type=str, default="", help="Comma-separated sources: linkedin,itviec,careerviet,vietnamworks,cissp_fb")
+    parser.add_argument("--sources", type=str, default="", help="Comma-separated sources: linkedin,itviec,careerviet,vietnamworks,topcv,cissp_fb")
 
     args = parser.parse_args()
     selected_sources = [s.strip() for s in args.sources.split(",") if s.strip()] if args.sources else None
