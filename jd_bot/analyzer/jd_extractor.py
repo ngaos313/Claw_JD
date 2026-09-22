@@ -7,19 +7,44 @@ CAREER_TRACKS = {
     "Digital Forensics & Incident Response (DFIR)": {
         "keywords": [
             "dfir", "digital forensics", "forensic", "incident response", "điều tra số",
-            "xử lý sự cố", "ứng cứu sự cố", "malware analysis", "phân tích mã độc",
-            "reverse engineering", "volatility", "velociraptor", "memory forensics", "yara",
-            "incident commander", "forensics investigator"
+            "ứng cứu sự cố", "ứng phó sự cố", "volatility", "velociraptor", "memory forensics", "yara",
+            "incident commander", "forensics investigator", "csirt", "cert"
         ],
-        "weight": 1.3
+        "weight": 1.0
+    },
+    "Malware Analysis & Reverse Engineering": {
+        "keywords": [
+            "malware analysis", "phân tích mã độc", "reverse engineering", "mã độc",
+            "dịch ngược", "ida pro", "ghidra", "x64dbg", "unpack malware", "ransomware",
+            "binary analysis", "disassembly", "deobfuscation", "dynamic analysis", "static analysis"
+        ],
+        "weight": 1.0
+    },
+    "Security Engineering & Infrastructure": {
+        "keywords": [
+            "security engineer", "kỹ sư an ninh mạng", "kỹ sư an toàn thông tin", "kỹ sư bảo mật",
+            "network security", "bảo mật hạ tầng", "system security", "cyber defense",
+            "chuyên viên an ninh mạng", "chuyên viên an toàn thông tin", "security specialist",
+            "an ninh mạng hạ tầng", "firewall", "ips", "ids", "edr", "endpoint security",
+            "kỹ sư hệ thống an toàn thông tin", "an toàn thông tin hạ tầng"
+        ],
+        "weight": 1.0
+    },
+    "SOC Operations & Monitoring": {
+        "keywords": [
+            "soc tier", "soc analyst", "soc lead", "trực soc", "giám sát an ninh", "ca trực soc",
+            "alert monitoring", "l1 analyst", "l2 analyst", "trực ca soc", "giám sát an toàn thông tin",
+            "vận hành an ninh", "vận hành & giám sát", "siem monitoring", "blue team"
+        ],
+        "weight": 1.0
     },
     "Cloud Security / DevSecOps": {
         "keywords": [
             "cloud security", "devsecops", "aws security", "azure security", "gcp security",
             "terraform", "kubernetes security", "k8s security", "container security",
-            "ci/cd security", "pipeline security", "cspm", "cwpp", "iac", "cloud & network security"
+            "ci/cd security", "pipeline security", "cspm", "cwpp", "iac"
         ],
-        "weight": 1.2
+        "weight": 1.0
     },
     "SecOps Automation & Platform Engineering": {
         "keywords": [
@@ -27,7 +52,7 @@ CAREER_TRACKS = {
             "sigma rule", "shuffle", "tines", "cortex xsoar", "siem engineer", "siem admin",
             "security platform", "elastic engineer", "splunk engineer"
         ],
-        "weight": 1.2
+        "weight": 1.0
     },
     "AppSec / Product Security": {
         "keywords": [
@@ -35,54 +60,51 @@ CAREER_TRACKS = {
             "secure code review", "threat modeling", "stride", "ssdlc", "sonarqube",
             "checkmarx", "snyk", "owasp", "burp suite"
         ],
-        "weight": 1.2
+        "weight": 1.0
     },
     "GRC & Compliance / IT Auditor": {
         "keywords": [
             "grc", "governance", "compliance", "tuân thủ", "it audit", "kiểm toán it",
             "iso 27001", "iso/iec 27001", "pci-dss", "pci dss", "nist", "thông tư 09",
-            "thông tư 75", "nghị định 13", "risk assessment", "đánh giá rủi ro", "chính sách an toàn"
+            "thông tư 75", "nghị định 13", "risk assessment", "đánh giá rủi ro", "chính sách an toàn",
+            "privacy compliance"
         ],
-        "weight": 1.2
+        "weight": 1.0
     },
     "Pre-Sales & Security Solutions Architect": {
         "keywords": [
             "solution architect", "pre-sales", "presales", "tư vấn giải pháp", "security architect",
-            "consultant", "chuyên gia tư vấn", "kiến trúc an toàn", "boq", "rfp", "poc"
+            "consultant", "chuyên gia tư vấn", "kiến trúc an toàn", "boq", "rfp", "poc",
+            "phát triển dịch vụ an ninh"
         ],
-        "weight": 1.15
+        "weight": 1.0
     },
     "Offensive Security (Pentest / Red Team)": {
         "keywords": [
             "penetration test", "pentest", "red team", "offensive security", "ethical hacker",
-            "web pentest", "mobile pentest", "kiểm thử xâm nhập", "active directory attack"
-        ],
-        "weight": 1.15
-    },
-    "SOC Operations & Monitoring": {
-        "keywords": [
-            "soc tier", "soc analyst", "soc lead", "trực soc", "giám sát an ninh", "ca trực soc",
-            "alert monitoring", "l1 analyst", "l2 analyst", "trực ca soc"
+            "web pentest", "mobile pentest", "kiểm thử xâm nhập", "active directory attack",
+            "kiểm thử an toàn thông tin", "đánh giá lỗ hổng"
         ],
         "weight": 1.0
     }
 }
 
 TAG_ROLE_MAP = {
-    "Reverse Engineering / Malware Analysis": "Digital Forensics & Incident Response (DFIR)",
+    "Reverse Engineering / Malware Analysis": "Malware Analysis & Reverse Engineering",
     "Penetration Testing / Red Team": "Offensive Security (Pentest / Red Team)",
-    "Cloud & Network Security": "Cloud Security / DevSecOps",
-    "DevSecOps / Application Security": "AppSec / Product Security",
+    "Cloud & Network Security": "Security Engineering & Infrastructure",
+    "DevSecOps / Application Security": "Cloud Security / DevSecOps",
     "GRC / Tuân thủ & Quản trị Rủi ro": "GRC & Compliance / IT Auditor",
-    "SOC / Blue Team / Threat Monitoring": "SOC Operations & Monitoring"
+    "SOC / Blue Team / Threat Monitoring": "SOC Operations & Monitoring",
+    "Incident Response / DFIR": "Digital Forensics & Incident Response (DFIR)"
 }
 
 SKILL_PATTERNS = {
     # Forensics & DFIR
     "Digital Forensics & Artifacts": r"\b(forensic|forensics|velociraptor|ez tools|mft|amcache|shimcache|registry)\b",
     "Memory Forensics (Volatility)": r"\b(volatility|winpmem|dumpit|memory analysis)\b",
-    "Malware Analysis / Reverse Engineering": r"\b(malware analysis|reverse engineering|ida pro|ghidra|x64dbg|unpack)\b",
-    "Incident Response": r"\b(incident response|dfir|ứng cứu sự cố|xử lý sự cố)\b",
+    "Malware Analysis / Reverse Engineering": r"\b(malware analysis|reverse engineering|ida pro|ghidra|x64dbg|unpack|phân tích mã độc)\b",
+    "Incident Response": r"\b(incident response|dfir|ứng cứu sự cố|xử lý sự cố|ứng phó sự cố)\b",
 
     # Cloud & DevOps
     "AWS": r"\b(aws|amazon web services)\b",
@@ -143,22 +165,56 @@ CERT_PATTERNS = {
 class JDExtractor:
     @staticmethod
     def classify_track(text: str, title: str, tags: List[str] = None) -> str:
-        # 1. Prioritize explicit Title markers
         title_lower = title.lower()
-        if "dfir" in title_lower or "ứng cứu sự cố" in title_lower or "điều tra" in title_lower or "forensic" in title_lower or "malware" in title_lower:
+
+        # 1. Precise Title Matching (Ordered from most specific to general)
+        # Malware Analysis
+        if any(w in title_lower for w in ["malware", "mã độc", "reverse engineer", "reverse engineering", "dịch ngược"]):
+            return "Malware Analysis & Reverse Engineering"
+
+        # DFIR (Forensics / Incident Response)
+        if any(w in title_lower for w in ["dfir", "digital forensic", "forensic", "điều tra số", "ứng cứu sự cố", "ứng phó sự cố", "incident response"]):
             return "Digital Forensics & Incident Response (DFIR)"
-        if "pentest" in title_lower or "penetration" in title_lower or "red team" in title_lower or "kiểm thử xâm nhập" in title_lower:
+
+        # Pentest / Offensive Security
+        if any(w in title_lower for w in ["pentest", "penetration", "red team", "kiểm thử xâm nhập", "kiểm thử an toàn", "đánh giá và kiểm thử", "ethical hack"]):
             return "Offensive Security (Pentest / Red Team)"
-        if "devsecops" in title_lower or "cloud security" in title_lower:
+
+        # Cloud Security / DevSecOps
+        if any(w in title_lower for w in ["devsecops", "cloud security", "aws security", "azure security", "container security"]):
             return "Cloud Security / DevSecOps"
-        if "appsec" in title_lower or "application security" in title_lower or "product security" in title_lower:
+
+        # AppSec / Product Security
+        if any(w in title_lower for w in ["appsec", "application security", "product security", "bảo mật ứng dụng", "secure code"]):
             return "AppSec / Product Security"
-        if "grc" in title_lower or "tuân thủ" in title_lower or "compliance" in title_lower or "kiểm toán" in title_lower:
+
+        # GRC / Compliance / IT Audit
+        if any(w in title_lower for w in ["grc", "compliance", "tuân thủ", "kiểm toán it", "it audit", "iso 27001", "quản trị rủi ro", "privacy compliance"]):
             return "GRC & Compliance / IT Auditor"
-        if "pre-sales" in title_lower or "presale" in title_lower or "solution architect" in title_lower or "tư vấn giải pháp" in title_lower:
+
+        # Pre-Sales & Solution Architecture
+        if any(w in title_lower for w in ["pre-sales", "presale", "solution architect", "tư vấn giải pháp", "phát triển dịch vụ an ninh", "security consultant", "kiến trúc an toàn"]):
             return "Pre-Sales & Security Solutions Architect"
-        if "soar" in title_lower or "detection engineer" in title_lower or "secops" in title_lower:
+
+        # SOC Operations & Monitoring
+        if any(w in title_lower for w in ["soc", "giám sát an toàn thông tin", "giám sát an ninh", "vận hành & giám sát", "vận hành an ninh", "trực ca soc"]):
+            return "SOC Operations & Monitoring"
+
+        # SecOps Automation / SOAR
+        if any(w in title_lower for w in ["soar", "detection engineer", "secops", "security automation"]):
             return "SecOps Automation & Platform Engineering"
+
+        # Security Engineering & Infrastructure
+        if any(w in title_lower for w in [
+            "kỹ sư an toàn thông tin", "kỹ sư an ninh mạng", "security engineer", "kỹ sư bảo mật",
+            "kỹ sư hệ thống an toàn thông tin", "network security", "chuyên viên an ninh mạng",
+            "chuyên viên an toàn thông tin", "cyber defense", "an toàn thông tin hạ tầng", "hạ tầng an ninh"
+        ]):
+            return "Security Engineering & Infrastructure"
+
+        # Obvious generic or non-specialized roles -> Other
+        if any(w in title_lower for w in ["giảng viên", "teacher", "sales", "kinh doanh", "it officer", "senior it officer"]):
+            return "Other / An toàn Thông tin Chung"
 
         # 2. Check tag role group mappings if available
         if tags:
@@ -166,21 +222,23 @@ class JDExtractor:
                 if t in TAG_ROLE_MAP:
                     return TAG_ROLE_MAP[t]
 
-        # 3. Score-based matching on text
-        combined = f"{title} {title} {title} {text}".lower()
+        # 3. Score-based matching on text content
+        combined = f"{title} {title} {text}".lower()
         track_scores = {}
         for track, config in CAREER_TRACKS.items():
             score = 0
             for kw in config["keywords"]:
                 if kw in combined:
                     in_title = kw in title_lower
-                    weight = 5 if in_title else 1
+                    weight = 4 if in_title else 1
                     score += weight
             track_scores[track] = score * config["weight"]
 
         best_track = max(track_scores, key=track_scores.get)
-        if track_scores[best_track] == 0:
-            return "An toàn Thông tin Chung"
+        # Require a solid score threshold to avoid random false positives
+        if track_scores[best_track] < 3:
+            return "Other / An toàn Thông tin Chung"
+
         return best_track
 
     @staticmethod

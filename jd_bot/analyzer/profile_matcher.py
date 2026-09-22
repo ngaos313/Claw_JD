@@ -174,6 +174,69 @@ TRACK_REQUIREMENTS = {
         "top_certs": ["OSCP", "PNPT (TCM Security)", "CRTP (Certified Red Team Professional)"],
         "difficulty": "Khá cao (Đòi hỏi cày lab Proving Grounds / HackTheBox kiên trì)",
         "roi_rating": "Tốt nhưng cạnh tranh nhiều ở phân khúc Junior/Mid"
+    },
+    "Malware Analysis & Reverse Engineering": {
+        "priority_skills": [
+            ("Malware Analysis / Reverse Engineering", 3.0),
+            ("Digital Forensics & Artifacts", 2.5),
+            ("Memory Forensics (Volatility)", 2.5),
+            ("Python", 2.0)
+        ],
+        "transferable_from_duc": [
+            "Hiểu biết về kiến trúc hệ điều hành và phân tích mã độc cơ bản",
+            "Nền tảng Mật mã học và Hướng đối tượng từ KMA"
+        ],
+        "critical_gaps": [
+            "Phân tích dịch ngược động/tĩnh với IDA Pro, Ghidra, x64dbg",
+            "Phân tích hành vi ransomware, RAT, rootkit nâng cao",
+            "Kỹ thuật unpack, de-obfuscation và né tránh sandbox"
+        ],
+        "top_certs": ["SANS GREM (FOR610)", "OffSec OSED / OSRE"],
+        "difficulty": "Rất cao (9-12 tháng cày assembly & binary)",
+        "roi_rating": "30M - 60M+ / tháng (Chuyên gia hiếm, mức đãi ngộ top đầu thị trường)"
+    },
+    "Security Engineering & Infrastructure": {
+        "priority_skills": [
+            ("Network Protocols", 3.0),
+            ("Linux Administration", 2.5),
+            ("Security Architecture", 2.5),
+            ("Active Directory Security", 2.0),
+            ("Bash / Shell Scripting", 2.0),
+            ("Incident Response", 2.0)
+        ],
+        "transferable_from_duc": [
+            "Nền tảng mạng và hệ thống vững chắc từ VNCERT và KMA",
+            "Kinh nghiệm xử lý sự cố và cấu hình thiết bị bảo mật thực tế"
+        ],
+        "critical_gaps": [
+            "Thiết kế kiến trúc mạng Zero Trust, Micro-segmentation",
+            "Cấu hình chuyên sâu Next-Gen Firewall (Palo Alto, Fortinet) và WAF",
+            "Triển khai EDR/XDR đồng bộ cho quy mô hàng nghìn endpoint"
+        ],
+        "top_certs": ["Palo Alto PCNSE", "Fortinet NSE4+", "CCNP Security", "CompTIA Security+"],
+        "difficulty": "3 - 5 tháng (Dễ tiếp cận với dân Mạng/Sysadmin)",
+        "roi_rating": "20M - 45M / tháng (Nhu cầu tuyển dụng lớn nhất thị trường)"
+    },
+    "SOC Operations & Monitoring": {
+        "priority_skills": [
+            ("SIEM Detection Tuning", 3.0),
+            ("Log Analysis & Correlation", 3.0),
+            ("Incident Response", 2.5),
+            ("Network Protocols", 2.0),
+            ("Linux Administration", 2.0)
+        ],
+        "transferable_from_duc": [
+            "Kinh nghiệm trực ca SOC và phân tích hơn 1.000 alert tại VNCERT",
+            "Triage và lập biên bản sự cố nhanh chóng"
+        ],
+        "critical_gaps": [
+            "Xây dựng correlation rules nâng cao trên Splunk/QRadar",
+            "Tối ưu tỷ lệ False Positive / False Negative",
+            "Threat Hunting chủ động trên hạ tầng lớn"
+        ],
+        "top_certs": ["CompTIA CySA+", "Splunk Certified SOC Analyst", "Certified SOC Analyst (CSA)"],
+        "difficulty": "1 - 2 tháng (Sẵn sàng chiến đấu ngay)",
+        "roi_rating": "18M - 35M / tháng (Phù hợp làm bước đệm chuyển dịch)"
     }
 }
 
