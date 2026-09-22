@@ -22,6 +22,7 @@ user_profiles/
 career_pivot_report.md
 private_*.html
 *.pdf
+day_code_len_github_lan_dau.bat
 
 # Legacy Crawler (if ever recreated outside local_private)
 crawler/
