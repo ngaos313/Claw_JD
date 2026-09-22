@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Facebook Secrets & Browser profiles
+fb.cred
+*.cred
+chrome_debug_profile/
+chrome_user_profile/
+*.log
+
+# Local Private Directory (NEVER push candidate CV or private reports to Git)
+local_private/
+local/
+user_profiles/
+career_pivot_report.md
+private_*.html
+*.pdf
+
+# Legacy Crawler (if ever recreated outside local_private)
+crawler/
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

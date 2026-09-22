@@ -1,0 +1,78 @@
+name: 🛡️ Auto Crawler & Job Aggregator Deploy
+
+on:
+  schedule:
+    # Tự động cào định kỳ mỗi 30 phút một lần (100% Miễn phí & an toàn cho cả Repo Private lẫn Public)
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Cho phép bấm chạy thủ công trên web GitHub bất kỳ lúc nào
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  crawl-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: 🔑 Inject Facebook Secret (if configured)
+        shell: bash
+        run: |
+          if [ -n "${{ secrets.FB_CREDENTIALS }}" ]; then
+            mkdir -p crawler/crawler/01_thu_thap_du_lieu
+            echo "${{ secrets.FB_CREDENTIALS }}" > crawler/crawler/01_thu_thap_du_lieu/fb.cred
+            echo "[+] Facebook credentials loaded from GitHub Secrets"
+          else
+            echo "[!] No FB_CREDENTIALS secret found, using existing dataset"
+          fi
+
+      - name: 🚀 Crawl JDs & Refresh Public Dashboard
+        run: |
+          python run_bot.py --all
+
+      - name: 💾 Commit & Push Fresh JDs Back to Repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git add jd_bot/data/ index.html
+          git commit -m "chore(bot): update crawled cybersecurity JDs [skip ci]" || echo "No changes to commit"
+          git push origin main || echo "Push skipped or branch protected"
+
+      - name: 🌐 Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: 📤 Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: 🚀 Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
