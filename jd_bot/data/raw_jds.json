@@ -388,27 +388,6 @@
     "experience_years": "Mid-Level"
   },
   {
-    "id": "careerviet_35C882B5",
-    "title": "Phó Trưởng Phòng Tích hợp nền tảng dữ liệu",
-    "company": "NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)",
-    "location": "Hà Nội",
-    "url": "https://careerviet.vn/vi/tim-viec-lam/pho-truong-phong-tich-hop-nen-tang-du-lieu.35C882B5.html",
-    "source": "CareerViet",
-    "raw_description": "Phúc lợi",
-    "salary": "Cạnh tranh",
-    "posted_date": "07-10-2026",
-    "posted_timestamp": 1791331200,
-    "posted_date_display": "07/10/2026",
-    "tags": [
-      "an-toan-thong-tin"
-    ],
-    "track": "Other / An toàn Thông tin Chung",
-    "extracted_skills": [],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Mid-Level"
-  },
-  {
     "id": "careerviet_35C824E9",
     "title": "Chuyên Viên Sản Phẩm Ngân Hàng Đầu Tư",
     "company": "NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)",
@@ -430,6 +409,27 @@
     "experience_years": "Mid-Level"
   },
   {
+    "id": "careerviet_35C882B5",
+    "title": "Phó Trưởng Phòng Tích hợp nền tảng dữ liệu",
+    "company": "NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)",
+    "location": "Hà Nội",
+    "url": "https://careerviet.vn/vi/tim-viec-lam/pho-truong-phong-tich-hop-nen-tang-du-lieu.35C882B5.html",
+    "source": "CareerViet",
+    "raw_description": "Phúc lợi",
+    "salary": "Cạnh tranh",
+    "posted_date": "6",
+    "posted_timestamp": 1790813380,
+    "posted_date_display": "6",
+    "tags": [
+      "an-toan-thong-tin"
+    ],
+    "track": "Other / An toàn Thông tin Chung",
+    "extracted_skills": [],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Mid-Level"
+  },
+  {
     "id": "careerviet_35C7DFD6",
     "title": "DỰ ÁN COREBANKING - CHUYÊN GIA CẤP CAO CYBER SECURITY / RISK / FRAUD",
     "company": "Ngân hàng TMCP Phát triển TP.HCM (HDBank)",
@@ -439,7 +439,7 @@
     "raw_description": "Phúc lợi\nLaptop\nChế độ bảo hiểm\nDu Lịch\nPhụ cấp\nĐồng phục\nChế độ thưởng\nChăm sóc sức khỏe\nĐào tạo\nTăng lương\nCông tác phí\nNghỉ phép năm\nCLB thể thao",
     "salary": "Lương: 50 - 150 Triệu VND",
     "posted_date": "6",
-    "posted_timestamp": 1790799593,
+    "posted_timestamp": 1790813380,
     "posted_date_display": "6",
     "tags": [
       "an-toan-thong-tin"
@@ -449,27 +449,6 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Senior"
-  },
-  {
-    "id": "careerviet_35C879C1",
-    "title": "Nhân viên IT",
-    "company": "CÔNG TY CỔ PHẦN TÀ LÙNG QUANG MINH",
-    "location": "Cao Bằng",
-    "url": "https://careerviet.vn/vi/tim-viec-lam/nhan-vien-it.35C879C1.html",
-    "source": "CareerViet",
-    "raw_description": "Phúc lợi",
-    "salary": "Lương: 10 - 12 Triệu VND",
-    "posted_date": "Hôm nay",
-    "posted_timestamp": 1790799593,
-    "posted_date_display": "Hôm nay",
-    "tags": [
-      "an-toan-thong-tin"
-    ],
-    "track": "Other / An toàn Thông tin Chung",
-    "extracted_skills": [],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Mid-Level"
   },
   {
     "id": "vietnamworks_2114279",
@@ -1324,6 +1303,27 @@
     ],
     "english_level": "Not Specified",
     "experience_years": "Senior"
+  },
+  {
+    "id": "careerviet_35C879C1",
+    "title": "Nhân viên IT",
+    "company": "CÔNG TY CỔ PHẦN TÀ LÙNG QUANG MINH",
+    "location": "Cao Bằng",
+    "url": "https://careerviet.vn/vi/tim-viec-lam/nhan-vien-it.35C879C1.html",
+    "source": "CareerViet",
+    "raw_description": "Phúc lợi",
+    "salary": "Lương: 10 - 12 Triệu VND",
+    "posted_date": "24-09-2026",
+    "posted_timestamp": 1790208000,
+    "posted_date_display": "24/09/2026 (7 ngày trước)",
+    "tags": [
+      "an-toan-thong-tin"
+    ],
+    "track": "Other / An toàn Thông tin Chung",
+    "extracted_skills": [],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Mid-Level"
   },
   {
     "id": "linkedin_4469423593",
