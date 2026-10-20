@@ -391,7 +391,7 @@
     "raw_description": "Phúc lợi\nLaptop\nChế độ bảo hiểm\nDu Lịch\nPhụ cấp\nDu lịch nước ngoài\nĐồng phục\nChế độ thưởng\nChăm sóc sức khỏe\nĐào tạo\nTăng lương\nCông tác phí\nPhụ cấp thâm niên\nNghỉ phép năm\nCLB thể thao",
     "salary": "Cạnh tranh",
     "posted_date": "6",
-    "posted_timestamp": 1792448301,
+    "posted_timestamp": 1792458847,
     "posted_date_display": "6",
     "tags": [
       "an-toan-thong-tin"
@@ -411,9 +411,9 @@
     "source": "CareerViet",
     "raw_description": "Phúc lợi\nChế độ bảo hiểm\nDu Lịch\nPhụ cấp\nĐồng phục\nChế độ thưởng\nChăm sóc sức khỏe\nĐào tạo\nTăng lương\nNghỉ phép năm\nCLB thể thao",
     "salary": "Lương: 20 - 40 Triệu VND",
-    "posted_date": "5",
-    "posted_timestamp": 1792448301,
-    "posted_date_display": "5",
+    "posted_date": "4",
+    "posted_timestamp": 1792458847,
+    "posted_date_display": "4",
     "tags": [
       "an-toan-thong-tin"
     ],
@@ -432,9 +432,9 @@
     "source": "CareerViet",
     "raw_description": "Phúc lợi\nLaptop\nChế độ bảo hiểm\nDu Lịch\nPhụ cấp\nChế độ thưởng\nChăm sóc sức khỏe\nĐào tạo\nTăng lương\nCông tác phí\nNghỉ phép năm",
     "salary": "Cạnh tranh",
-    "posted_date": "3",
-    "posted_timestamp": 1792448301,
-    "posted_date_display": "3",
+    "posted_date": "2",
+    "posted_timestamp": 1792458847,
+    "posted_date_display": "2",
     "tags": [
       "an-toan-thong-tin"
     ],
@@ -564,6 +564,27 @@
       "an-toan-thong-tin"
     ],
     "track": "Other / An toàn Thông tin Chung",
+    "extracted_skills": [],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Mid-Level"
+  },
+  {
+    "id": "linkedin_4480336497",
+    "title": "DevSecOps Engineer",
+    "company": "STYL Solutions Pte. Ltd.",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/devsecops-engineer-at-styl-solutions-pte-ltd-4480336497",
+    "source": "LinkedIn",
+    "raw_description": "DevSecOps Engineer",
+    "salary": "Thỏa thuận",
+    "posted_date": "3 days ago",
+    "posted_timestamp": 1792199647,
+    "posted_date_display": "17/10/2026 (3 ngày trước)",
+    "tags": [
+      "DevSecOps"
+    ],
+    "track": "Cloud Security / DevSecOps",
     "extracted_skills": [],
     "extracted_certs": [],
     "english_level": "Not Specified",
@@ -792,40 +813,6 @@
     "experience_years": "Mid-Level"
   },
   {
-    "id": "linkedin_4480336497",
-    "title": "DevSecOps Engineer",
-    "company": "STYL Solutions Pte. Ltd.",
-    "location": "Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/devsecops-engineer-at-styl-solutions-pte-ltd-4480336497",
-    "source": "LinkedIn",
-    "raw_description": "About STYL Solutions\nRide on the wave of Industry 4.0! Join STYL Solutions in the forefront of using Fintech and IoT technologies for smart city/nation transformation. Headquartered in Singapore with an R&D center in Vietnam, STYL Solutions designs, develops, and supplies hardware, software, and integrated solutions for applications in payment, loyalty management, location tracking, self-service operation, telemetry. Our market segment coverage extends from financial services, retail, mass transit, education to social services markets in Singapore and South Asia Pacific.\nOur vision is to use Fintech and IoT to create smart and efficient cities that enhance Quality of Life through convenience and healthier living.\nJob Description\nWe are looking for a\nDevSecOps Engineer\nto help design, automate, and secure our cloud-based delivery platform.\nIn this role, you will work on cloud infrastructure, CI/CD automation, secure deployment practices, and developer enablement. You will collaborate closely with development, SRE, and cross-functional teams to improve deployment reliability, platform consistency, security, and engineering productivity.\nThis role is suitable for someone who enjoys building practical automation, improving delivery workflows, and helping teams release software faster and more safely.\nResponsibilities\nYour key responsibilities will include, but are not limited to:\nCloud Platform & Infrastructure\nDesign, build, and manage cloud infrastructure using Infrastructure-as-Code, reusable modules, and environment templates.\nEnsure consistent, scalable, secure, and cost-efficient across environments.\nAutomation & Release Engineering\nDesign, implement, and maintain CI/CD pipelines for automated build, test, deployment, and artifact promotion.\nStandardize release workflows and improve deployment reliability.\nBuild automation scripts and self-service capabilities to improve productivity and deployment efficiency.\nDevSecOps & Compliance\nIntegrate security controls into CI/CD pipelines, including SAST, DAST, and dependency scanning.\nManage secrets, access control, secure configuration, and compliance with internal/customer security policies.\nSupport continuous improvement of secure software delivery practices.\nCollaboration & Continuous Improvement\nWork with development, SRE, and cross-functional teams to improve operational readiness, scalability, observability, and maintainability.\nProvide practical recommendations and promote good DevOps and DevSecOps practices across teams.\nQualifications\nWe are looking for candidates who demonstrate:\nEducation & Experience\nBachelor’s degree in Computer Science, Information Technology, Engineering, or a related field; or equivalent practical experience.\nAt least 3 years of experience in DevOps, DevSecOps, platform engineering, cloud infrastructure, or related roles.\nRequired Technical Skills\nHands-on experience with AWS, Azure, or other cloud services, including compute, networking, storage, and security fundamentals.\nExperience with Infrastructure-as-Code tools such as Terraform, CloudFormation, or similar.\nExperience with CI/CD tools such as GitLab CI, or similar.\nGood scripting or programming skills using Python, Bash, PowerShell, or similar.\nExperience automating build, test, deployment, and operational workflows.\nFamiliarity with artifact repositories, deployment promotion, and release traceability.\nExperience with Docker and understanding of Kubernetes or container orchestration.\nUnderstanding of microservices and cloud-native deployment patterns.\nStrong Linux system administration and networking knowledge, including VPC, NAT, VPN, routing, DNS, firewall rules, and security groups.\nUnderstanding of DevSecOps practices, secure CI/CD, secrets management, access control, vulnerability scanning, and secure configuration.\nExposure to AI-assisted DevOps, AIOps, log analysis, automation assistants, or AI-based developer productivity tools.\nGood in English communication skills and ability to work with development, operations, security, and project teams.\nNice-to-have\nExperience with observability tools such as Prometheus, Grafana, ELK, CloudWatch, or similar.\nFamiliarity with SRE practices, high-availability systems, incident response, and post-incident review.\nExperience with cloud cost optimization, cloud governance, or regulated environments.\nSuccess in this role looks like\nCI/CD pipelines are stable, reliable, and adopted by development teams.\nInfrastructure is standardized, reproducible, and easier to manage.\nDeployments are automated with minimal manual intervention.\nDevelopment teams can build, test, and release applications with higher confidence.\nPlatform security, scalability, compliance, and operational readiness are continuously improved.\nBenefits\nSTYL Solutions will give you the favorable conditions you need to tackle difficult problems and learn cutting-edge technologies:\nAn international working environment with friendly and passionate colleagues\nOnsite opportunity to Japan, and Singapore for training and supporting customer\nMeaningful work with experienced & strong technical veterans\nFlat structure, simple processes & transparency\nIn addition to providing you with professional growth, STYL Solutions is also committed to taking care of our employees, personally. As a full-time employee, you are automatically enrolled in our benefits program, which includes:\nAttractive compensation, regular assessments, and salary reviews\nAnnual bonus and performance bonus\n21 paid days off per year\n100% salary & full social insurance during the probation period\nPremium health care insurance\nAnnual healthcare checkup\nWork equipment provided\nFree dinner, coffee, tea, and parking.\nSpecial celebration on 8/3, 1/6, Xmas, Tet holiday…\nOuting/team-building activities (trip, sport,…)\nIf you are ready to catapult your career to the next level, we will get you there. Please send all applications and CVs to our hiring team – hiring@styl.solutions. We look forward to working together and positioning STYL Solutions as an industry leader!",
-    "salary": "Thỏa thuận",
-    "posted_date": "3 days ago",
-    "posted_timestamp": 1792149177,
-    "posted_date_display": "16/10/2026 (3 ngày trước)",
-    "tags": [
-      "DevSecOps"
-    ],
-    "track": "Cloud Security / DevSecOps",
-    "extracted_skills": [
-      "Incident Response",
-      "AWS",
-      "Azure",
-      "Kubernetes / K8s",
-      "Docker / Containers",
-      "Terraform (IaC)",
-      "CI/CD Pipelines",
-      "SAST / DAST",
-      "Python",
-      "Bash / Shell Scripting"
-    ],
-    "extracted_certs": [
-      "AWS Certified Security"
-    ],
-    "english_level": "Not Specified",
-    "experience_years": "Lead / Manager"
-  },
-  {
     "id": "linkedin_4477073313",
     "title": "Enterprise Security Architect",
     "company": "ITviec",
@@ -893,6 +880,27 @@
     "extracted_certs": [],
     "english_level": "Intermediate",
     "experience_years": "Senior"
+  },
+  {
+    "id": "linkedin_4479768139",
+    "title": "DevSecOps & Platform Security Engineer - HN/DN/HCM",
+    "company": "FPT Software",
+    "location": "Hanoi, Hanoi, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/devsecops-platform-security-engineer-hn-dn-hcm-at-fpt-software-4479768139",
+    "source": "LinkedIn",
+    "raw_description": "DevSecOps & Platform Security Engineer - HN/DN/HCM",
+    "salary": "Thỏa thuận",
+    "posted_date": "4 days ago",
+    "posted_timestamp": 1792113247,
+    "posted_date_display": "16/10/2026 (4 ngày trước)",
+    "tags": [
+      "DevSecOps"
+    ],
+    "track": "Cloud Security / DevSecOps",
+    "extracted_skills": [],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Mid-Level"
   },
   {
     "id": "linkedin_4478845033",
@@ -1018,27 +1026,6 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Lead / Manager"
-  },
-  {
-    "id": "linkedin_4479768139",
-    "title": "DevSecOps & Platform Security Engineer - HN/DN/HCM",
-    "company": "FPT Software",
-    "location": "Hanoi, Hanoi, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/devsecops-platform-security-engineer-hn-dn-hcm-at-fpt-software-4479768139",
-    "source": "LinkedIn",
-    "raw_description": "DevSecOps & Platform Security Engineer - HN/DN/HCM",
-    "salary": "Thỏa thuận",
-    "posted_date": "4 days ago",
-    "posted_timestamp": 1792062777,
-    "posted_date_display": "15/10/2026 (4 ngày trước)",
-    "tags": [
-      "DevSecOps"
-    ],
-    "track": "Cloud Security / DevSecOps",
-    "extracted_skills": [],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Mid-Level"
   },
   {
     "id": "linkedin_4478846173",
@@ -1321,6 +1308,134 @@
     "experience_years": "Senior"
   },
   {
+    "id": "linkedin_4454365422",
+    "title": "Senior Security Engineer - Cyber Defense",
+    "company": "Kredivo Group",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/senior-security-engineer-cyber-defense-at-kredivo-group-4454365422",
+    "source": "LinkedIn",
+    "raw_description": "We are looking for a Senior Security Engineer to join Kredivo Group’s Cyber Defense team. This\nrole is designed for professionals who can bridge enterprise security engineering, threat hunting\nand incident response.\nYou will play a critical role in protecting our infrastructure, endpoints and applications from\nadvanced threats, while also proactively hunting for malicious activity and leading IR efforts.\nYou’ll collaborate with IT, engineering and other security teams based in Indonesia & India to\nbuild, monitor and evolve security defenses, while staying ahead of adversaries through threat\nintelligence and detection engineering.\nResponsibilities\nDFIR - Windows, macOS, Linux & Cloud\nLead DFIR investigations across Windows, macOS and Linux endpoints/servers,\nidentifying attack vectors, persistence mechanisms, lateral movement and root cause.\nPerform disk, memory, file-system, registry and artifact analysis to reconstruct attacker\nactivity and establish timelines.\nAnalyze Windows artifacts including Event Logs, Registry, Prefetch, Amcache,\nShimcache, SRUM, PowerShell, scheduled tasks and browser artifacts.\nInvestigate macOS artifacts including Unified Logs, LaunchAgents/LaunchDaemons,\npersistence mechanisms, shell history, browser data and file-system activity.\nPerform timeline analysis and artifact correlation to reconstruct attacker behavior and\ndetermine the scope and impact of incidents.\nThreat Hunting & Detections\nContinuous monitoring of both internal and external systems to detect threats, uncover\nvulnerabilities and ensure policy compliance.\nCorrelate IOCs/TTPs with internal activity using SIEM, EDR and custom automation.\nDeploy, configure and monitor security tools (EDR, DLP, VMDR).\nAnalyze dark web chatter, OSINT sources and intelligence platforms to identify emerging\nthreats.\nGenerate weekly/monthly hunting & intel reports with actionable recommendations.\nIncident Response\nLead incident response, perform forensics and log analysis to identify root causes.\nSupport containment, eradication and remediation efforts with cross functional teams.\nDevelop security automations and workflows using scripting languages Python or Bash.\nCollaborate with the Threat Detection team to fine tune alerts and improve detection\ncoverage.\nContribute to IR playbooks, runbooks and post incident reviews.\nQualifications\n4 to 7 years of experience in cybersecurity with exposure to enterprise security, threat\nhunting and incident response.\nHands on with security platforms like EDR, DLP, Wazuh, Vulnerability Management, and\nCloudflare WAF.\nGood understanding of adversary tactics like MITRE ATT&CK, TTPs, IOC handling.\nWorking knowledge of scripting/automation (Python, Bash, PowerShell).\nKnowledge of forensic techniques, log analysis, and security monitoring platforms.\nStrong grasp of enterprise IT & SaaS security (GSuite, VPNs, cloud security, IAM).\nPreferred certifications: Security+, CCNA/P, GIAC (GCIA/GCTI/GCIH) or equivalent.\nExperience in Fintech or financial services is a plus.\nBehavioral & Soft Skills\nOwnership mindset: can lead initiatives independently with minimal supervision.\nStrong analytical and problem solving skills in high-pressure situations.\nExcellent communicator and be able to explain technical security concepts to technical\nand non-technical stakeholders.\nTeam player that collaborates effectively across IT, engineering and security.\nPassionate about continuous learning, automation and staying current with the threat\nlandscape.",
+    "salary": "Thỏa thuận",
+    "posted_date": "1 week ago",
+    "posted_timestamp": 1791854047,
+    "posted_date_display": "13/10/2026 (1 tuần trước)",
+    "tags": [
+      "DFIR"
+    ],
+    "track": "Security Engineering & Infrastructure",
+    "extracted_skills": [
+      "Digital Forensics & Artifacts",
+      "Incident Response",
+      "Python",
+      "Bash / Shell Scripting",
+      "Detection as Code / Sigma"
+    ],
+    "extracted_certs": [
+      "SANS GCFA / GCIH / GREM"
+    ],
+    "english_level": "Not Specified",
+    "experience_years": "Lead / Manager"
+  },
+  {
+    "id": "linkedin_4475170012",
+    "title": "Digital Forensics & Incident Response (DFIR)",
+    "company": "Vietnamese Security Network J.S.C - VSEC",
+    "location": "Hanoi Capital Region",
+    "url": "https://vn.linkedin.com/jobs/view/digital-forensics-incident-response-dfir-at-vietnamese-security-network-j-s-c-vsec-4475170012",
+    "source": "LinkedIn",
+    "raw_description": "Mô tả công việc:\nThực hiện điều tra các sự cố an toàn thông tin như malware, APT, phishing, data leakage, tấn công từ chối dịch vụ (DoS/DDoS), xâm nhập trái phép,…\nPhân tích hệ thống, log, memory, và các dữ liệu liên quan để xác định nguồn gốc, phương thức và mức độ ảnh hưởng của threat, sự cố.\nThực hiện thu thập, phân tích số (digital evidence) theo đúng quy trình pháp lý và tiêu chuẩn forensics.\nCó hiểu biết về framework MITRE ATT&CK và áp dụng vào phát hiện xử lý sự cố.\nPhối hợp với các đội/nhóm khác (SOC, IT, pháp lý, quản lý rủi ro…) trong quá trình xử lý và ứng phó sự cố.\nTham gia xây dựng và cải tiến quy trình IR (Incident Response) và Playbook xử lý sự cố.\nHỗ trợ mô phỏng tấn công và diễn tập an ninh mạng (red team/blue team).\nTheo dõi các mối đe dọa mới (Threat Intelligence) để phát hiện sớm và ứng phó kịp thời.\nYêu cầu công việc:\nTừ 2- 3 năm kinh nghiệm ở vị trí tương đương\nKiến thức về hệ điều hành Windows, Linux/Unix, hệ thống mạng (TCP/IP, DNS, HTTP/S,...), Active Directory, Cloud (AWS/GCP/Azure)\nHiểu biết tốt về log hệ thống, Event log, SIEM, Firewall, Endpoint detection, Threat intelligence, IDS/IPS...\nCó kinh nghiệm sử dụng các công cụ như: Sysinternals Suite, Wireshark, Volatility, các công cụ monitor và hunting khác...\nBiết lập trình một trong các ngôn ngữ sau (Python, PowerShell, Bash, C/C++, C#, Golang, Rust, ASM)\nTốt nghiệp đại học chuyên ngành CNTT, An toàn thông tin hoặc tương đương.\nTư duy phân tích tốt, khả năng làm việc độc lập hoặc theo nhóm.\nTinh thần trách nhiệm cao, sẵn sàng làm việc onsite khách hàng và ngoài giờ khi có sự cố.\nKỹ năng viết báo cáo và trình bày kết quả phân tích rõ ràng, logic.\nCó kinh nghiệm về Security Cloud (AWS/GCP/Azure).\nCó chứng chỉ chuyên môn: GCFA. GREM, GCIH, GCTI, CHFI, OSWE, OSEP, OSCP, chứng chỉ về Cloud Security hoặc tương đương.\nCó kinh nghiệm về Reverse Engineering mã độc.\nCó kinh nghiệm thực tế trong việc Điều tra sự cố, Threat Hunting.\nCó kiến thức về tấn công web, tấn công Active Directory, phân tích lỗ hổng là lợi thế.\nQuyền lợi được hưởng:\nThử việc hưởng 100% lương. Thu nhập hấp dẫn thỏa thuận theo năng lực.\nReview lương 2 lần/năm. Lộ trình đánh giá nhân viên rõ ràng, minh bạch, dựa trên số liệu, báo cáo chi tiết.\nThưởng KPI Quý.\nThưởng tất cả các ngày Lễ, Tết; thưởng giới thiệu ứng viên nội bộ.\nThưởng thâm niên làm việc tính từ năm đầu tiên,\nThưởng ESOP (Employee Stock Ownership Plan) đối với nhân viên và quản lý xuất sắc vào cuối năm.\nĐược tham gia rất nhiều các khoá học đào tạo định kỳ về kỹ năng chuyên môn và kỹ năng mềm.\nĐược Công ty đầu tư chi phí cho việc học và thi các chứng chỉ quốc tế cần thiết cho công việc.\n12 ngày phép năm + 1 ngày nghỉ vào ngày sinh nhật. Mỗi năm thâm niên được tăng thêm 1 ngày nghỉ phép.\nĐược hưởng đầy đủ các chế độ bảo hiểm và ngày nghỉ, ngày lễ theo quy định của công ty và pháp luật hiện hành.\nĐược hưởng các chế độ phúc lợi và các hoạt động văn hóa tập thể: Team Building, Gala cuối năm, sinh nhật, các ngày lễ …;\nVăn hóa công ty đề cao sự công bằng, lắng nghe & chia sẻ, khách hàng là trọng tâm. Môi trường làm việc trẻ trung, chuyên nghiệp, văn minh.\nCơ hội làm việc với những Tập đoàn lớn/doanh nghiệp lớn/Bank\nThông tin liên hệ:\nEmail: hiepnguyen1@vsec.com.vn\nZalo/SMS/Tel: 038.205.6205 (Duy Hiệp)",
+    "salary": "Thỏa thuận",
+    "posted_date": "1 week ago",
+    "posted_timestamp": 1791854047,
+    "posted_date_display": "13/10/2026 (1 tuần trước)",
+    "tags": [
+      "DFIR"
+    ],
+    "track": "Digital Forensics & Incident Response (DFIR)",
+    "extracted_skills": [
+      "Digital Forensics & Artifacts",
+      "Memory Forensics (Volatility)",
+      "Malware Analysis / Reverse Engineering",
+      "Incident Response",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Python",
+      "Golang",
+      "Bash / Shell Scripting",
+      "SOAR / Playbooks",
+      "Risk Assessment",
+      "Active Directory Security"
+    ],
+    "extracted_certs": [
+      "SANS GCFA / GCIH / GREM",
+      "OSCP / OSDF"
+    ],
+    "english_level": "Not Specified",
+    "experience_years": "Lead / Manager"
+  },
+  {
+    "id": "linkedin_4468706669",
+    "title": "SR&T : Consultant/ Senior Consultant - Forensic Investigations, Disputes & Claims - VN",
+    "company": "Deloitte",
+    "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/sr-t-consultant-senior-consultant-forensic-investigations-disputes-claims-vn-at-deloitte-4468706669",
+    "source": "LinkedIn",
+    "raw_description": "Date: 21 Sept 2026\nType of Employment: Permanent - FullTime\nLocation:\nHo Chi Minh City, Ho Chi Minh City, VN\nAre you ready to unleash your potential?\nAt Deloitte, our purpose is to make an impact that matters for our clients, our people, and the communities we serve.\nWe believe we have a responsibility to be a force for good, and WorldImpact is our portfolio of initiatives focused on making a tangible impact on society’s biggest challenges and creating a better future. We strive to advise clients on how to deliver purpose-led growth and embed more equitable, inclusive as well as sustainable business practices.\nHence, we seek talented individuals driven to excel and innovate, working together to achieve our shared goals.\nWe are committed to creating positive work experiences that foster a culture of respect and inclusion, where diverse perspectives are celebrated, and everyone is recognised for their contributions.\nReady to unleash your potential with us? Join the winning team now!\nWhat You Will Do\nDeloitte is growing its Strategy, Risk, and Transaction (SR&T) – Forensic & Financial Crime practice in Southeast Asia. We protect brands of companies and communities by proactively advising on exposure to fraud, corruption, money laundering and other financial crime issues. Support our clients to address business disputes, regulatory concerns and actions, or sensitive internal investigations into fraud, corruption and misconduct by using next generation forensic and eDiscovery technology and analytics.\nAs a global leader in forensic, dispute and data advisory services, Deloitte Forensic & Financial Crime supports clients who are exposed to risks from financial crime, fraud and other economic crimes, as well as claims and disputes.\nWe are looking for suitably qualified professionals to be a part of our Forensic Investigations team. Our Forensic Investigations team helps clients who are facing regulatory concerns or actions, or sensitive internal investigations into fraud, corruption, misconduct and other economic crimes. We also help clients mitigate their economic crime risks.\nThe Nature Of The Work We Do Includes\nService clients in local office and potentially across Southeast Asia, in a variety of projects in the field of Forensic Investigations including Forensic Accounting, Financial Analysis and Fraud and Economic Crime.\nReview financial documents and analyse financial data to identify inaccuracies and discrepancies.\nCalculate financial impact of fraud/corruption/misconduct.\nAssist with the drafting of reports for Clients, Lawyers and Regulators.\nMaintain an awareness of emerging fraud and economic crime trends and associated regulatory requirements and guidance.\nAssist with project engagement set up and keep project engagement files organised and up-to-date.\nYour Role As Team Member\nAt Deloitte, we believe in the importance of empowering our people to be leaders at all levels. We connect our purpose and shared values to identify issues as well as to make an impact that matters to our clients, people and the communities. Additionally, Consultants across our Firm are expected to:\nActively seek out developmental opportunities for growth, act as strong brand ambassadors for the firm as well as share their knowledge and experience with others.\nRespect the needs of their colleagues and build up cooperative relationships.\nUnderstand the goals of our internal and external stakeholder to set personal priorities as well as align their teams’ work to achieve the objectives.\nConstantly challenge themselves, collaborate with others to deliver on tasks and take accountability for the results.\nBuild productive relationships and communicate effectively in order to positively influence teams and other stakeholders.\nOffer insights based on a solid understanding of what makes Deloitte successful.\nProject integrity and confidence while motivating others through team collaboration as well as recognising individual strengths, differences, and contributions.\nUnderstand disruptive trends and promote potential opportunities for improvement.\nYou Are Someone With\nPossess degree in a finance-related discipline is preferred, along with completed studies in accounting or a willingness to pursue a professional accounting qualification (e.g., CA, CPA, ACCA).\nA minimum of 2 years of professional experience, preferably in Forensic Accounting, Fraud & Financial Investigations, Corporate Intelligence, Audit, or within regulatory or law enforcement environments.\nStrong analytical, problem-solving, and data interpretation skills, with comfort in analyzing information and familiarity with data analysis tools, procedures, and technologies being an added advantage.\nAble to identify issues quickly, think critically, and present practical solutions when reporting to managers.\nHigh attention to detail and a meticulous approach to work, with the ability to manage demanding timelines effectively.\nStrong verbal and written communication skills, with excellent collaboration and adaptability in dynamic environments.\nDemonstrated ability to contribute effectively as a team member on client projects under the supervision of managers and partners.\nA high-performing, coachable team player committed to continuous development, professional excellence, and delivering client-centric outcomes.\nWilling to support practice growth initiatives and open to international travel on short notice.\nDue to volume of applications, we regret only shortlisted candidates will be notified.\nPlease note that Deloitte will never reach out to you directly via messaging platforms to offer you employment opportunities or request for money or your personal information. Kindly apply for roles that you are interested in via this official Deloitte website.\nRequisition ID: 116598\nIn Vietnam, the services are provided by Deloitte Vietnam Company Limited and other related entities in Vietnam (\"Deloitte in Vietnam\"), which are affiliates of Deloitte Southeast Asia Ltd. Deloitte Southeast Asia Ltd is a member firm of Deloitte Touche Tohmatsu Limited. Deloitte in Vietnam, which is within the Deloitte Network, is the entity that is providing this Website.",
+    "salary": "Thỏa thuận",
+    "posted_date": "1 week ago",
+    "posted_timestamp": 1791854047,
+    "posted_date_display": "13/10/2026 (1 tuần trước)",
+    "tags": [
+      "DFIR"
+    ],
+    "track": "Digital Forensics & Incident Response (DFIR)",
+    "extracted_skills": [
+      "Digital Forensics & Artifacts"
+    ],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Lead / Manager"
+  },
+  {
+    "id": "linkedin_4474008863",
+    "title": "(HCM/ HN) Senior/Intermediate DevSecOps Engineer",
+    "company": "Crossian",
+    "location": "Ho Chi Minh City Metropolitan Area",
+    "url": "https://vn.linkedin.com/jobs/view/hcm-hn-senior-intermediate-devsecops-engineer-at-crossian-4474008863",
+    "source": "LinkedIn",
+    "raw_description": "About Us\nCrossian is a high-growth technology-driven e-commerce business. As a start-up formed in 2020, we have created a fast-paced and dynamic environment, enabling our people to reach a cumulative average growth rate of over 1000% in the last 5 years.\nJob Description\nWe are seeking a talented\nDevSecOps Engineer\nto join our team. In this role, you’ll bridge the gap between development, operations, and security, ensuring our systems and applications are robust, scalable, and secure from day one. You’ll automate security checks, develop secure CI/CD pipelines, and foster a culture of collaboration and continuous improvement. Beyond core DevSecOps work, you'll help build our DevOps-as-a-Service (DaaS) platform — a multi-agent AI system that automates key parts of our DevOps workflow.\nResponsibilities\nSecure Delivery & Infrastructure\nDesign, build, and maintain secure CI/CD pipelines (GitLab CI, GitHub Actions) with automated security gates (SAST, DAST, secret scanning, dependency scanning) that block releases on critical findings.\nIntegrate security best practices into DevOps workflows and GitOps-based delivery (ArgoCD).\nCollaborate with developers, operations, and security teams to design and implement secure infrastructure.\nMaintain and enhance infrastructure as code (Terraform, Ansible, etc.), with policy checks before changes are applied.\nImplement and manage container security on Docker and Kubernetes (EKS), including image scanning, Pod Security Standards, and network policies.\nIdentity, Secrets & Cloud Security\nManage secrets end-to-end with HashiCorp Vault / AWS Secrets Manager: rotation, no hard-coded credentials, and controlled injection into workloads.\nEnforce IAM least privilege: role-based access, a dedicated identity per workload (IRSA / EKS Pod Identity), and regular access reviews.\nMonitor and improve cloud security posture using AWS GuardDuty, Security Hub, Config, and CloudTrail.\nObservability, SRE & Incident Response\nBuild and operate observability across metrics, logs, and alerting (Prometheus, Grafana, ELK / Kibana), keeping alerts actionable.\nDefine and track SLOs/SLIs, take part in on-call, and lead blameless postmortems.\nMonitor systems for security breaches, respond to incidents, and drive vulnerability management and remediation.\nAI & DevOps-as-a-Service (DaaS)\nWork with the team to build DaaS, a shared multi-agent platform that automates DevOps workflows. Agents investigate, triage, and propose changes, while humans review and approve every change before it reaches production.\nSRE / Incident investigation:\nagents triggered by alerts or Slack investigate incidents across metrics, logs, and event streams, return a root-cause analysis with every finding cited to its source, and propose fixes as merge requests.\nRequest handling & service delivery:\nturn developer requests from Slack or a self-service portal into golden-path services and GitOps configuration, delivered as merge requests for review.\nSecurity finding triage:\ntriage and prioritise findings from scanners and cloud security tools, attach evidence, and propose remediations.\nSecond Brain:\na knowledge layer over services, repositories, wiki, and runbooks that answers questions about our infrastructure with source and freshness attached, for both engineers and agents.\nAgent safety & governance:\nbuild the guardrails that make agents safe near production, including allow-listed tool access, credential isolation from the agent layer, human-in-the-loop approvals, full audit trails, per-run cost budgets, and prompt-injection defenses.\nAgent quality & LLMOps:\nmaintain evaluation sets that gate agent releases in CI, and operate the model gateway and LLM observability stack (LiteLLM, Langfuse).\nGeneral\nStay up to date with security threats, vulnerabilities, and technology trends, including AI-specific risks.\nEducate and mentor teams on secure coding and DevSecOps principles.\nRequirements\nBachelor’s degree in Computer Science, Information Security, or related field, or equivalent experience.\n3+ years of experience in DevOps (Intermediate), 5+ years (Senior).\nHands-on experience with AWS (EKS, IAM, networking) or a similar cloud.\nExpertise in CI/CD tools (GitLab CI, GitHub Actions, Jenkins).\nStrong Python skills; Bash scripting.\nExperience with Docker and Kubernetes in production.\nExperience with infrastructure as code (Terraform, Ansible, or similar).\nExperience with DevSecOps security toolchains (SAST, DAST, SonarQube, dependency and image scanning) and server hardening.\nExperience with secrets management and IAM least-privilege design.\nExperience in vulnerability management and incident response.\nHands-on experience using LLMs in real projects (APIs, prompt engineering, tool calling).\nStrong problem-solving, communication, and collaboration skills, with a proactive, continuously learning mindset.\nPreferred Qualifications\nProfessional certifications (AWS, CKA / CKS).\nExperience with GitOps (ArgoCD) and observability tooling (Prometheus, Grafana, ELK).\nExperience building LLM agents or multi-agent systems (LangGraph, LangChain, or similar), MCP, and agent evaluation.\nFamiliarity with LLM gateways and observability (LiteLLM, Langfuse).\nKnowledge of AI security risks (OWASP Top 10 for LLM Applications).\nKnowledge of compliance frameworks (PCI DSS, ISO 27001, ISO/IEC 27018, GDPR).\nWhat We Offer\nCompetitive salary and benefits.\nFlexible work environment.\nOpportunities for professional growth and training.\nCollaborative team culture.\nThe chance to make a meaningful impact on our products and security posture.",
+    "salary": "Thỏa thuận",
+    "posted_date": "1 week ago",
+    "posted_timestamp": 1791854047,
+    "posted_date_display": "13/10/2026 (1 tuần trước)",
+    "tags": [
+      "DevSecOps"
+    ],
+    "track": "Cloud Security / DevSecOps",
+    "extracted_skills": [
+      "Incident Response",
+      "AWS",
+      "Kubernetes / K8s",
+      "Docker / Containers",
+      "Terraform (IaC)",
+      "CI/CD Pipelines",
+      "SAST / DAST",
+      "SonarQube / Snyk",
+      "OWASP Top 10",
+      "Python",
+      "Bash / Shell Scripting",
+      "ISO 27001",
+      "PCI-DSS"
+    ],
+    "extracted_certs": [
+      "AWS Certified Security",
+      "CKA / CKS"
+    ],
+    "english_level": "Not Specified",
+    "experience_years": "Lead / Manager"
+  },
+  {
     "id": "careerviet_35C882B5",
     "title": "Phó Trưởng Phòng Tích hợp nền tảng dữ liệu",
     "company": "NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)",
@@ -1331,7 +1446,7 @@
     "salary": "Cạnh tranh",
     "posted_date": "13-10-2026",
     "posted_timestamp": 1791849600,
-    "posted_date_display": "13/10/2026 (6 ngày trước)",
+    "posted_date_display": "13/10/2026 (7 ngày trước)",
     "tags": [
       "an-toan-thong-tin"
     ],
@@ -1381,65 +1496,6 @@
     ],
     "english_level": "Fluent / Advanced",
     "experience_years": "Senior"
-  },
-  {
-    "id": "linkedin_4454365422",
-    "title": "Senior Security Engineer - Cyber Defense",
-    "company": "Kredivo Group",
-    "location": "Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/senior-security-engineer-cyber-defense-at-kredivo-group-4454365422",
-    "source": "LinkedIn",
-    "raw_description": "Senior Security Engineer - Cyber Defense",
-    "salary": "Thỏa thuận",
-    "posted_date": "1 week ago",
-    "posted_timestamp": 1791843501,
-    "posted_date_display": "12/10/2026 (1 tuần trước)",
-    "tags": [
-      "Incident Response"
-    ],
-    "track": "Security Engineering & Infrastructure",
-    "extracted_skills": [],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Senior"
-  },
-  {
-    "id": "linkedin_4475170012",
-    "title": "Digital Forensics & Incident Response (DFIR)",
-    "company": "Vietnamese Security Network J.S.C - VSEC",
-    "location": "Hanoi Capital Region",
-    "url": "https://vn.linkedin.com/jobs/view/digital-forensics-incident-response-dfir-at-vietnamese-security-network-j-s-c-vsec-4475170012",
-    "source": "LinkedIn",
-    "raw_description": "Mô tả công việc:\nThực hiện điều tra các sự cố an toàn thông tin như malware, APT, phishing, data leakage, tấn công từ chối dịch vụ (DoS/DDoS), xâm nhập trái phép,…\nPhân tích hệ thống, log, memory, và các dữ liệu liên quan để xác định nguồn gốc, phương thức và mức độ ảnh hưởng của threat, sự cố.\nThực hiện thu thập, phân tích số (digital evidence) theo đúng quy trình pháp lý và tiêu chuẩn forensics.\nCó hiểu biết về framework MITRE ATT&CK và áp dụng vào phát hiện xử lý sự cố.\nPhối hợp với các đội/nhóm khác (SOC, IT, pháp lý, quản lý rủi ro…) trong quá trình xử lý và ứng phó sự cố.\nTham gia xây dựng và cải tiến quy trình IR (Incident Response) và Playbook xử lý sự cố.\nHỗ trợ mô phỏng tấn công và diễn tập an ninh mạng (red team/blue team).\nTheo dõi các mối đe dọa mới (Threat Intelligence) để phát hiện sớm và ứng phó kịp thời.\nYêu cầu công việc:\nTừ 2- 3 năm kinh nghiệm ở vị trí tương đương\nKiến thức về hệ điều hành Windows, Linux/Unix, hệ thống mạng (TCP/IP, DNS, HTTP/S,...), Active Directory, Cloud (AWS/GCP/Azure)\nHiểu biết tốt về log hệ thống, Event log, SIEM, Firewall, Endpoint detection, Threat intelligence, IDS/IPS...\nCó kinh nghiệm sử dụng các công cụ như: Sysinternals Suite, Wireshark, Volatility, các công cụ monitor và hunting khác...\nBiết lập trình một trong các ngôn ngữ sau (Python, PowerShell, Bash, C/C++, C#, Golang, Rust, ASM)\nTốt nghiệp đại học chuyên ngành CNTT, An toàn thông tin hoặc tương đương.\nTư duy phân tích tốt, khả năng làm việc độc lập hoặc theo nhóm.\nTinh thần trách nhiệm cao, sẵn sàng làm việc onsite khách hàng và ngoài giờ khi có sự cố.\nKỹ năng viết báo cáo và trình bày kết quả phân tích rõ ràng, logic.\nCó kinh nghiệm về Security Cloud (AWS/GCP/Azure).\nCó chứng chỉ chuyên môn: GCFA. GREM, GCIH, GCTI, CHFI, OSWE, OSEP, OSCP, chứng chỉ về Cloud Security hoặc tương đương.\nCó kinh nghiệm về Reverse Engineering mã độc.\nCó kinh nghiệm thực tế trong việc Điều tra sự cố, Threat Hunting.\nCó kiến thức về tấn công web, tấn công Active Directory, phân tích lỗ hổng là lợi thế.\nQuyền lợi được hưởng:\nThử việc hưởng 100% lương. Thu nhập hấp dẫn thỏa thuận theo năng lực.\nReview lương 2 lần/năm. Lộ trình đánh giá nhân viên rõ ràng, minh bạch, dựa trên số liệu, báo cáo chi tiết.\nThưởng KPI Quý.\nThưởng tất cả các ngày Lễ, Tết; thưởng giới thiệu ứng viên nội bộ.\nThưởng thâm niên làm việc tính từ năm đầu tiên,\nThưởng ESOP (Employee Stock Ownership Plan) đối với nhân viên và quản lý xuất sắc vào cuối năm.\nĐược tham gia rất nhiều các khoá học đào tạo định kỳ về kỹ năng chuyên môn và kỹ năng mềm.\nĐược Công ty đầu tư chi phí cho việc học và thi các chứng chỉ quốc tế cần thiết cho công việc.\n12 ngày phép năm + 1 ngày nghỉ vào ngày sinh nhật. Mỗi năm thâm niên được tăng thêm 1 ngày nghỉ phép.\nĐược hưởng đầy đủ các chế độ bảo hiểm và ngày nghỉ, ngày lễ theo quy định của công ty và pháp luật hiện hành.\nĐược hưởng các chế độ phúc lợi và các hoạt động văn hóa tập thể: Team Building, Gala cuối năm, sinh nhật, các ngày lễ …;\nVăn hóa công ty đề cao sự công bằng, lắng nghe & chia sẻ, khách hàng là trọng tâm. Môi trường làm việc trẻ trung, chuyên nghiệp, văn minh.\nCơ hội làm việc với những Tập đoàn lớn/doanh nghiệp lớn/Bank\nThông tin liên hệ:\nEmail: hiepnguyen1@vsec.com.vn\nZalo/SMS/Tel: 038.205.6205 (Duy Hiệp)",
-    "salary": "Thỏa thuận",
-    "posted_date": "1 week ago",
-    "posted_timestamp": 1791843501,
-    "posted_date_display": "12/10/2026 (1 tuần trước)",
-    "tags": [
-      "Incident Response"
-    ],
-    "track": "Digital Forensics & Incident Response (DFIR)",
-    "extracted_skills": [
-      "Digital Forensics & Artifacts",
-      "Memory Forensics (Volatility)",
-      "Malware Analysis / Reverse Engineering",
-      "Incident Response",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Python",
-      "Golang",
-      "Bash / Shell Scripting",
-      "SOAR / Playbooks",
-      "Risk Assessment",
-      "Active Directory Security"
-    ],
-    "extracted_certs": [
-      "SANS GCFA / GCIH / GREM",
-      "OSCP / OSDF"
-    ],
-    "english_level": "Not Specified",
-    "experience_years": "Lead / Manager"
   },
   {
     "id": "linkedin_4477286390",
@@ -1510,29 +1566,6 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Mid-Level"
-  },
-  {
-    "id": "linkedin_4468706669",
-    "title": "SR&T : Consultant/ Senior Consultant - Forensic Investigations, Disputes & Claims - VN",
-    "company": "Deloitte",
-    "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/sr-t-consultant-senior-consultant-forensic-investigations-disputes-claims-vn-at-deloitte-4468706669",
-    "source": "LinkedIn",
-    "raw_description": "Date: 21 Sept 2026\nType of Employment: Permanent - FullTime\nLocation:\nHo Chi Minh City, Ho Chi Minh City, VN\nAre you ready to unleash your potential?\nAt Deloitte, our purpose is to make an impact that matters for our clients, our people, and the communities we serve.\nWe believe we have a responsibility to be a force for good, and WorldImpact is our portfolio of initiatives focused on making a tangible impact on society’s biggest challenges and creating a better future. We strive to advise clients on how to deliver purpose-led growth and embed more equitable, inclusive as well as sustainable business practices.\nHence, we seek talented individuals driven to excel and innovate, working together to achieve our shared goals.\nWe are committed to creating positive work experiences that foster a culture of respect and inclusion, where diverse perspectives are celebrated, and everyone is recognised for their contributions.\nReady to unleash your potential with us? Join the winning team now!\nWhat You Will Do\nDeloitte is growing its Strategy, Risk, and Transaction (SR&T) – Forensic & Financial Crime practice in Southeast Asia. We protect brands of companies and communities by proactively advising on exposure to fraud, corruption, money laundering and other financial crime issues. Support our clients to address business disputes, regulatory concerns and actions, or sensitive internal investigations into fraud, corruption and misconduct by using next generation forensic and eDiscovery technology and analytics.\nAs a global leader in forensic, dispute and data advisory services, Deloitte Forensic & Financial Crime supports clients who are exposed to risks from financial crime, fraud and other economic crimes, as well as claims and disputes.\nWe are looking for suitably qualified professionals to be a part of our Forensic Investigations team. Our Forensic Investigations team helps clients who are facing regulatory concerns or actions, or sensitive internal investigations into fraud, corruption, misconduct and other economic crimes. We also help clients mitigate their economic crime risks.\nThe Nature Of The Work We Do Includes\nService clients in local office and potentially across Southeast Asia, in a variety of projects in the field of Forensic Investigations including Forensic Accounting, Financial Analysis and Fraud and Economic Crime.\nReview financial documents and analyse financial data to identify inaccuracies and discrepancies.\nCalculate financial impact of fraud/corruption/misconduct.\nAssist with the drafting of reports for Clients, Lawyers and Regulators.\nMaintain an awareness of emerging fraud and economic crime trends and associated regulatory requirements and guidance.\nAssist with project engagement set up and keep project engagement files organised and up-to-date.\nYour Role As Team Member\nAt Deloitte, we believe in the importance of empowering our people to be leaders at all levels. We connect our purpose and shared values to identify issues as well as to make an impact that matters to our clients, people and the communities. Additionally, Consultants across our Firm are expected to:\nActively seek out developmental opportunities for growth, act as strong brand ambassadors for the firm as well as share their knowledge and experience with others.\nRespect the needs of their colleagues and build up cooperative relationships.\nUnderstand the goals of our internal and external stakeholder to set personal priorities as well as align their teams’ work to achieve the objectives.\nConstantly challenge themselves, collaborate with others to deliver on tasks and take accountability for the results.\nBuild productive relationships and communicate effectively in order to positively influence teams and other stakeholders.\nOffer insights based on a solid understanding of what makes Deloitte successful.\nProject integrity and confidence while motivating others through team collaboration as well as recognising individual strengths, differences, and contributions.\nUnderstand disruptive trends and promote potential opportunities for improvement.\nYou Are Someone With\nPossess degree in a finance-related discipline is preferred, along with completed studies in accounting or a willingness to pursue a professional accounting qualification (e.g., CA, CPA, ACCA).\nA minimum of 2 years of professional experience, preferably in Forensic Accounting, Fraud & Financial Investigations, Corporate Intelligence, Audit, or within regulatory or law enforcement environments.\nStrong analytical, problem-solving, and data interpretation skills, with comfort in analyzing information and familiarity with data analysis tools, procedures, and technologies being an added advantage.\nAble to identify issues quickly, think critically, and present practical solutions when reporting to managers.\nHigh attention to detail and a meticulous approach to work, with the ability to manage demanding timelines effectively.\nStrong verbal and written communication skills, with excellent collaboration and adaptability in dynamic environments.\nDemonstrated ability to contribute effectively as a team member on client projects under the supervision of managers and partners.\nA high-performing, coachable team player committed to continuous development, professional excellence, and delivering client-centric outcomes.\nWilling to support practice growth initiatives and open to international travel on short notice.\nDue to volume of applications, we regret only shortlisted candidates will be notified.\nPlease note that Deloitte will never reach out to you directly via messaging platforms to offer you employment opportunities or request for money or your personal information. Kindly apply for roles that you are interested in via this official Deloitte website.\nRequisition ID: 116598\nIn Vietnam, the services are provided by Deloitte Vietnam Company Limited and other related entities in Vietnam (\"Deloitte in Vietnam\"), which are affiliates of Deloitte Southeast Asia Ltd. Deloitte Southeast Asia Ltd is a member firm of Deloitte Touche Tohmatsu Limited. Deloitte in Vietnam, which is within the Deloitte Network, is the entity that is providing this Website.",
-    "salary": "Thỏa thuận",
-    "posted_date": "1 week ago",
-    "posted_timestamp": 1791827150,
-    "posted_date_display": "12/10/2026 (1 tuần trước)",
-    "tags": [
-      "DFIR"
-    ],
-    "track": "Digital Forensics & Incident Response (DFIR)",
-    "extracted_skills": [
-      "Digital Forensics & Artifacts"
-    ],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Lead / Manager"
   },
   {
     "id": "linkedin_4475679446",
@@ -1702,44 +1735,6 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Senior"
-  },
-  {
-    "id": "linkedin_4474008863",
-    "title": "(HCM/ HN) Senior/Intermediate DevSecOps Engineer",
-    "company": "Crossian",
-    "location": "Ho Chi Minh City Metropolitan Area",
-    "url": "https://vn.linkedin.com/jobs/view/hcm-hn-senior-intermediate-devsecops-engineer-at-crossian-4474008863",
-    "source": "LinkedIn",
-    "raw_description": "About Us\nCrossian is a high-growth technology-driven e-commerce business. As a start-up formed in 2020, we have created a fast-paced and dynamic environment, enabling our people to reach a cumulative average growth rate of over 1000% in the last 5 years.\nJob Description\nWe are seeking a talented\nDevSecOps Engineer\nto join our team. In this role, you’ll bridge the gap between development, operations, and security, ensuring our systems and applications are robust, scalable, and secure from day one. You’ll automate security checks, develop secure CI/CD pipelines, and foster a culture of collaboration and continuous improvement. Beyond core DevSecOps work, you'll help build our DevOps-as-a-Service (DaaS) platform — a multi-agent AI system that automates key parts of our DevOps workflow.\nResponsibilities\nSecure Delivery & Infrastructure\nDesign, build, and maintain secure CI/CD pipelines (GitLab CI, GitHub Actions) with automated security gates (SAST, DAST, secret scanning, dependency scanning) that block releases on critical findings.\nIntegrate security best practices into DevOps workflows and GitOps-based delivery (ArgoCD).\nCollaborate with developers, operations, and security teams to design and implement secure infrastructure.\nMaintain and enhance infrastructure as code (Terraform, Ansible, etc.), with policy checks before changes are applied.\nImplement and manage container security on Docker and Kubernetes (EKS), including image scanning, Pod Security Standards, and network policies.\nIdentity, Secrets & Cloud Security\nManage secrets end-to-end with HashiCorp Vault / AWS Secrets Manager: rotation, no hard-coded credentials, and controlled injection into workloads.\nEnforce IAM least privilege: role-based access, a dedicated identity per workload (IRSA / EKS Pod Identity), and regular access reviews.\nMonitor and improve cloud security posture using AWS GuardDuty, Security Hub, Config, and CloudTrail.\nObservability, SRE & Incident Response\nBuild and operate observability across metrics, logs, and alerting (Prometheus, Grafana, ELK / Kibana), keeping alerts actionable.\nDefine and track SLOs/SLIs, take part in on-call, and lead blameless postmortems.\nMonitor systems for security breaches, respond to incidents, and drive vulnerability management and remediation.\nAI & DevOps-as-a-Service (DaaS)\nWork with the team to build DaaS, a shared multi-agent platform that automates DevOps workflows. Agents investigate, triage, and propose changes, while humans review and approve every change before it reaches production.\nSRE / Incident investigation:\nagents triggered by alerts or Slack investigate incidents across metrics, logs, and event streams, return a root-cause analysis with every finding cited to its source, and propose fixes as merge requests.\nRequest handling & service delivery:\nturn developer requests from Slack or a self-service portal into golden-path services and GitOps configuration, delivered as merge requests for review.\nSecurity finding triage:\ntriage and prioritise findings from scanners and cloud security tools, attach evidence, and propose remediations.\nSecond Brain:\na knowledge layer over services, repositories, wiki, and runbooks that answers questions about our infrastructure with source and freshness attached, for both engineers and agents.\nAgent safety & governance:\nbuild the guardrails that make agents safe near production, including allow-listed tool access, credential isolation from the agent layer, human-in-the-loop approvals, full audit trails, per-run cost budgets, and prompt-injection defenses.\nAgent quality & LLMOps:\nmaintain evaluation sets that gate agent releases in CI, and operate the model gateway and LLM observability stack (LiteLLM, Langfuse).\nGeneral\nStay up to date with security threats, vulnerabilities, and technology trends, including AI-specific risks.\nEducate and mentor teams on secure coding and DevSecOps principles.\nRequirements\nBachelor’s degree in Computer Science, Information Security, or related field, or equivalent experience.\n3+ years of experience in DevOps (Intermediate), 5+ years (Senior).\nHands-on experience with AWS (EKS, IAM, networking) or a similar cloud.\nExpertise in CI/CD tools (GitLab CI, GitHub Actions, Jenkins).\nStrong Python skills; Bash scripting.\nExperience with Docker and Kubernetes in production.\nExperience with infrastructure as code (Terraform, Ansible, or similar).\nExperience with DevSecOps security toolchains (SAST, DAST, SonarQube, dependency and image scanning) and server hardening.\nExperience with secrets management and IAM least-privilege design.\nExperience in vulnerability management and incident response.\nHands-on experience using LLMs in real projects (APIs, prompt engineering, tool calling).\nStrong problem-solving, communication, and collaboration skills, with a proactive, continuously learning mindset.\nPreferred Qualifications\nProfessional certifications (AWS, CKA / CKS).\nExperience with GitOps (ArgoCD) and observability tooling (Prometheus, Grafana, ELK).\nExperience building LLM agents or multi-agent systems (LangGraph, LangChain, or similar), MCP, and agent evaluation.\nFamiliarity with LLM gateways and observability (LiteLLM, Langfuse).\nKnowledge of AI security risks (OWASP Top 10 for LLM Applications).\nKnowledge of compliance frameworks (PCI DSS, ISO 27001, ISO/IEC 27018, GDPR).\nWhat We Offer\nCompetitive salary and benefits.\nFlexible work environment.\nOpportunities for professional growth and training.\nCollaborative team culture.\nThe chance to make a meaningful impact on our products and security posture.",
-    "salary": "Thỏa thuận",
-    "posted_date": "1 week ago",
-    "posted_timestamp": 1791803577,
-    "posted_date_display": "12/10/2026 (1 tuần trước)",
-    "tags": [
-      "DevSecOps"
-    ],
-    "track": "Cloud Security / DevSecOps",
-    "extracted_skills": [
-      "Incident Response",
-      "AWS",
-      "Kubernetes / K8s",
-      "Docker / Containers",
-      "Terraform (IaC)",
-      "CI/CD Pipelines",
-      "SAST / DAST",
-      "SonarQube / Snyk",
-      "OWASP Top 10",
-      "Python",
-      "Bash / Shell Scripting",
-      "ISO 27001",
-      "PCI-DSS"
-    ],
-    "extracted_certs": [
-      "AWS Certified Security",
-      "CKA / CKS"
-    ],
-    "english_level": "Not Specified",
-    "experience_years": "Lead / Manager"
   },
   {
     "id": "careerviet_35C8327E",
@@ -4449,6 +4444,98 @@
     "experience_years": "Mid-Level"
   },
   {
+    "id": "linkedin_4459496194",
+    "title": "Cyber Security Engineer (SIEM/SOC)",
+    "company": "CMC Global Company Limited.",
+    "location": "Phường Chí Minh, Hai Duong, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/cyber-security-engineer-siem-soc-at-cmc-global-company-limited-4459496194",
+    "source": "LinkedIn",
+    "raw_description": "Job Description\nWe are seeking to expand our Cyber Security capabilities and are looking for an experienced Cyber Defense Center (CDC) Subject Matter Expert (SME) with expertise in SIEM, threat detection engineering, incident response, and data loss prevention. The ideal candidate will have a comprehensive understanding of various cybersecurity domains and will play a critical role in enhancing our cybersecurity posture. This role requires hands-on experience in detecting and responding to security threats, configuring detection tools, and collaborating with cross-functional teams to prevent cyber incidents.\nWe are looking for the mix of following skills and experience:\nSiem\nManage and configure SIEM to collect, analyze, and visualize security data.\nDesign and implement SIEM searches, alerts, and dashboards to detect suspicious activities and improve threat visibility.\nWork with IT and security teams to integrate SIEM with other security tools and platforms.\nThreat Detection Engineering\nDevelop, tune, and optimize threat detection mechanisms to identify potential threats in real-time.\nDesign custom detection rules, signatures, and use cases for various attack techniques and indicators of compromise (IoCs).\nPerform ongoing monitoring and analysis of threat trends, utilizing threat intelligence to enhance detection strategies.\nIncident Response\nLead incident response efforts by identifying, investigating, and responding to security incidents.\nPerform root cause analysis and implement corrective actions to prevent future occurrences.\nWork closely with IT and business teams to communicate the impact of security incidents and coordinate recovery efforts.\nData Loss Prevention (DLP)\nImplement and manage DLP solutions to monitor and prevent unauthorized access to sensitive data.\nDevelop and enforce DLP policies, ensuring compliance with industry standards and regulations.\nInvestigate DLP alerts and coordinate with teams to resolve data leakage incidents.\nCybersecurity Expertise Across Domains\nProvide guidance and expertise across multiple cybersecurity domains such as networksecurity, application security, identity and access management, and cloud security.\nStay updated on the latest security trends, vulnerabilities, and regulatory requirements.\nParticipate in risk assessments, security audits, and compliance activities.\nCollaboration And Mentorship\nCollaborate with other cybersecurity and IT teams to ensure integrated security defensesacross the organization.\nProvide mentorship and training to junior staff members, fostering a culture of continuous learning and improvement within the cybersecurity team.\nThreat Hunting\nProactively search for and identify cyber threats and malicious activities that evadetraditional detection methods.\nAnalyze security data and intelligence to uncover advanced persistent threats (APTs)and unknown threat patterns.\nDevelop and execute threat hunting playbooks and techniques using advanced tools and methodologies.\nCollaborate with security analysts and engineers to strengthen detection and prevention strategies based on threat-hunting insights.\nRequirements\nQualifications:\nEducation: Bachelor’s degree in Computer Science, Information Security, or a related field (or equivalent work experience).\nExperience: hands-on experience in cybersecurity roles, with a focus on SIEM, threatdetection engineering, incident response, and DLP.\nHands on: Fundamental understanding how security tools work instead of knowingwhich button to push.\nCertifications (not Necessary, But Nice To Have)\nGIAC Certified Incident Handler (GCIH)\nSplunk Certified Architect\nRequired Skills\nGeneral understanding of at least one SIEM architecture, queries, dashboarding, andalerting.\nKnowledge of threat detection techniques, SIEM solutions, and security operations.\nHands-on experience with incident response, root cause analysis, and forensic investigations.\nFamiliarity with DLP techniques for preventing data breaches.\nExcellent problem-solving skills, with the ability to make decisions under pressure during incidents.\nStrong communication skills to effectively collaborate with technical and non-technical stakeholders.\nPreferred Skills\nKnowledge of cloud security (AWS, Azure, GCP).\nFamiliarity with automation and scripting (e.g., Python, PowerShell).\nUnderstanding link between vulnerability management, penetration testing, and red teaming.\nBenefits\nPackage: 14 salary months + Project bonus (If any) + Extra package: 16M/year + Allowances shift working\nYoung and dynamic working environment.\nContinuous development of hard and soft skills through work and professional trainings.\nOpportunity to approach newest technology trends\nExciting leisure: sport and art events (football club, family day…)\nCompany’s labor policy completely pursuant to Vietnamese labor legislation plus other benefits offered by the company (Company trip, Holiday, etc.)\nHow To Apply\nPlease send your application via email: recruitment@cmcglobal.vn\n2+ years of experience\nBy submitting your application to recruitment@cmcglobal.vn, you acknowledge that you have read, understood, and agreed to CMC Global’s REGULATIONS ON THE PROTECTION OF CANDIDATES’ PERSONAL INFORMATION.\nYears of Experience Required\nRequired Education Level\nBachelor’s Degree\nJob Level\nMiddle/Senior\nWork Form\nFull-time\nEmail: recruitment@cmcglobal.vn",
+    "salary": "Thỏa thuận",
+    "posted_date": "1 month ago",
+    "posted_timestamp": 1789866847,
+    "posted_date_display": "20/09/2026 (1 tháng trước)",
+    "tags": [
+      "DFIR"
+    ],
+    "track": "SOC Operations & Monitoring",
+    "extracted_skills": [
+      "Digital Forensics & Artifacts",
+      "Incident Response",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Python",
+      "Bash / Shell Scripting",
+      "Detection as Code / Sigma"
+    ],
+    "extracted_certs": [
+      "SANS GCFA / GCIH / GREM"
+    ],
+    "english_level": "Not Specified",
+    "experience_years": "Lead / Manager"
+  },
+  {
+    "id": "linkedin_40001146",
+    "title": "Expert, DevSecOps (40001146)",
+    "company": "Techcombank (TCB)",
+    "location": "Hanoi, Hanoi, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/expert-devsecops-40001146-at-techcombank-tcb-4461378927",
+    "source": "LinkedIn",
+    "raw_description": "Job Purpose\nThe job holder responsible for ensuring DevOps becomes a mindset, a culture, and a set of technical practices.\nThe job holder will provide communication, integration, automation, and close cooperation among all the people needed to plan, develop, test, deploy, release, and maintain a Solution.\nThe job holder will technically lead DevOps team to design and enhance the Continuous Delivery Pipeline (CDP) that represents the workflows, activities, and automation needed to shepherd a new piece of functionality from ideation to an on-demand release of value to the end user\nKey Accountabilities (1)\nContinuous Delivery through DevSecOps Factory\nBuild, map and optimize delivery of the Continuous Delivery Pipeline (CDP) by addressing key elements like: process time, lead time, delay time and percent of complete and accurate.\nContinuous Exploration (CE) – understand the market problem / customer need by analyzing and researching to identify the solution required to meet that need, from which suggest development of new features or modification from existing architectures, define and prioritize activities in the Program Backlog.\nContinuous Integration (CI) – take features from the Program Backlog and implement them to deliver a completed work which is committed to version control, built and integrated into a full system or solution, and tested end-to-end before being validated in a staging environment.\nContinuous Deployment (CD) - take the changes from the staging environment and deploy them to production.\nRelease on Demand (RoD) - make value available to customers all at once, or in a staggered fashion based market and business needs.\nKey Accountabilities (2)\nDevSecOps Factory\nBuild, automate, enhance and measure DevSecOps factory.\nBuild, automate, enhance and integrate threat modeling.\nBuild, automate, enhance and integrate application security.\nBuild, automate, enahnce and integrate penetration testing.\nBuild, automate, enhance and integrate continious security monitoring.\nKey Accountabilities (3)\nDevSecOps Targets\nConsistently develop software systems with higher quality and accuracy of project budgeting and estimation.\nIncrease visibility and stakeholder input into features for the next release as it is being developed.\nEngage stakeholders early and consistently throughout the SDLC, leading to few defects and incorrect requirements.\nBuild trust between software development and IT, enable organic process improvement and risk mitigation.\nMaximize business value by enabling technical staff to adapt to changing requirements or environmental factors.\nKey Relationships - Direct Manager\nManager/ Senior Manager/ Director, DevSecOps\nKey Relationships - Direct Reports\nKey Relationships - Internal Stakeholders\nKey Relationships - External Stakeholders\nApplication/solution provider partners, IT departments of key customer businesses\nSuccess Profile - Qualification and Experiences\nQualifications\nBachelor's or Master’s degree in computer science, software engineering or information technology\nWork Experience\nAt least 7 years of relevant experience in software development and minimum 2 years of experience in DevSecOps setup.\nKnowledge of DevSecOps factory pipeline components and DevSecOps Metrics.\nExperience working with cloud environments is a must.\nHands-on experience on code, commit, code review, document, test, integrate, qa, monitor with front end and back end languages and technologies.\nExperience working with DevSecOps tools is a must (RE protection, SSL pinning, payload encryption, Code quality, source code analysis, SAST/DAST tools).\nForeign language\nEnglish/ according to TCB's regulations in each period",
+    "salary": "Thỏa thuận",
+    "posted_date": "1 month ago",
+    "posted_timestamp": 1789866847,
+    "posted_date_display": "20/09/2026 (1 tháng trước)",
+    "tags": [
+      "DevSecOps"
+    ],
+    "track": "Cloud Security / DevSecOps",
+    "extracted_skills": [
+      "SAST / DAST",
+      "Threat Modeling"
+    ],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Lead / Manager"
+  },
+  {
+    "id": "linkedin_4459484897",
+    "title": "DevSecOps Engineer (Hybrid HCM)",
+    "company": "Findicia",
+    "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/devsecops-engineer-hybrid-hcm-at-findicia-4459484897",
+    "source": "LinkedIn",
+    "raw_description": "Ready for the next big challenge? Grow your career, and join our experienced global team, transforming the world of M&A software. Be part of the team behind the teams behind the deals. Work with the best. Be the best.\nAccountabilities\nPosition Summary\nThe DevSecOps Engineer (Product Security Engineer) is responsible for supporting the organization's Product Security program by partnering with software engineering teams to identify, assess, and remediate application security risks throughout the Software Development Lifecycle (SDLC). This role performs application security assessments, supports secure design and development practices, and helps integrate security into modern development and DevSecOps processes.\nIn addition to product security responsibilities, the engineer will receive cross-training and provide operational support to the Security Operations team, gaining experience in areas such as security monitoring, vulnerability management, and incident response. This role offers an excellent opportunity for a security professional to develop broad technical expertise while contributing to the protection of the organization's applications, infrastructure, and information assets.\nDuties And Responsibilities\nReview and validate findings from Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Software Composition Analysis (SCA), and container security tools.\nPartner with software engineering teams to identify, prioritize, and remediate application security vulnerabilities.\nParticipate in secure architecture reviews, design reviews, and threat modeling exercises throughout the Software Development Lifecycle (SDLC).\nSupport penetration testing activities and assist with remediation tracking and validation.\nIntegrate and promote security best practices within CI/CD pipelines and DevSecOps processes.\nAssist in developing and maintaining secure coding standards, application security guidance, and security documentation.\nResearch emerging application security threats and recommend appropriate mitigations.\nCollaborate with Product Security, Engineering, DevOps, and Infrastructure teams to continuously improve the organization's application security posture.\nAssist with security monitoring, alert triage, and investigation of potential security events.\nParticipate in incident response activities, including investigation, containment, recovery, and post-incident reviews.\nSupport enterprise vulnerability management activities across applications and infrastructure.\nAssist with maintaining security tools, documentation, and operational procedures.\nParticipate in security awareness initiatives, tabletop exercises, and continuous improvement efforts.\nCrosstrain with the Security Operations team to support operational security processes and technologies.\nQualifications\nSolid understanding of secure software development lifecycle (SSDLC) principles and secure coding practices.\nWorking knowledge of common application security vulnerabilities, including the OWASP Top 10 and secure design principles.\nFamiliarity with application security testing tools, including SAST, DAST, SCA, and vulnerability management platforms.\nExperience with one or more programming or scripting languages such as Java, C#, JavaScript, Python, Go, PowerShell, or Bash.\nUnderstanding of RESTful APIs, web application architectures, and modern software development methodologies.\nFamiliarity with source code management systems (Git) and CI/CD pipelines.\nKnowledge of cloud platforms (AWS, Azure, or Google Cloud) and container technologies (Docker, Kubernetes) is preferred.\nFamiliarity with security monitoring technologies such as SIEM, EDR, or SOAR platforms is preferred.\nStrong analytical, problem-solving, and troubleshooting skills.\nExcellent communication and interpersonal skills with the ability to collaborate effectively across technical teams.\nAbility to manage multiple priorities while maintaining attention to detail.\nStrong written and verbal English communication skills.\nEducation\nBachelor's degree in Computer Science, Information Security, Cybersecurity, Information Technology, Software Engineering, or related technical discipline.\nRelevant industry certifications such as CompTIA Security+, CSSLP, GWAPT, OSWE, or similar certifications are considered a plus.\nExperience\n2–5 years of experience in Application Security, Software Development, Information Security, Software Engineering, or related technical discipline.\nRelevant industry certifications such as CompTIA Security+, CSSLP, GWAPT, OSWE, or similar certifications are considered a plus.",
+    "salary": "Thỏa thuận",
+    "posted_date": "1 month ago",
+    "posted_timestamp": 1789866847,
+    "posted_date_display": "20/09/2026 (1 tháng trước)",
+    "tags": [
+      "DevSecOps"
+    ],
+    "track": "Cloud Security / DevSecOps",
+    "extracted_skills": [
+      "Incident Response",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Kubernetes / K8s",
+      "Docker / Containers",
+      "CI/CD Pipelines",
+      "SAST / DAST",
+      "Threat Modeling",
+      "OWASP Top 10",
+      "Python",
+      "Golang",
+      "Bash / Shell Scripting",
+      "SOAR / Playbooks"
+    ],
+    "extracted_certs": [],
+    "english_level": "Fluent / Advanced",
+    "experience_years": "Senior"
+  },
+  {
     "id": "linkedin_4454601363",
     "title": "Security Architect",
     "company": "GFT Technologies",
@@ -4495,38 +4582,6 @@
     "experience_years": "Senior"
   },
   {
-    "id": "linkedin_4459496194",
-    "title": "Cyber Security Engineer (SIEM/SOC)",
-    "company": "CMC Global Company Limited.",
-    "location": "Phường Chí Minh, Hai Duong, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/cyber-security-engineer-siem-soc-at-cmc-global-company-limited-4459496194",
-    "source": "LinkedIn",
-    "raw_description": "Job Description\nWe are seeking to expand our Cyber Security capabilities and are looking for an experienced Cyber Defense Center (CDC) Subject Matter Expert (SME) with expertise in SIEM, threat detection engineering, incident response, and data loss prevention. The ideal candidate will have a comprehensive understanding of various cybersecurity domains and will play a critical role in enhancing our cybersecurity posture. This role requires hands-on experience in detecting and responding to security threats, configuring detection tools, and collaborating with cross-functional teams to prevent cyber incidents.\nWe are looking for the mix of following skills and experience:\nSiem\nManage and configure SIEM to collect, analyze, and visualize security data.\nDesign and implement SIEM searches, alerts, and dashboards to detect suspicious activities and improve threat visibility.\nWork with IT and security teams to integrate SIEM with other security tools and platforms.\nThreat Detection Engineering\nDevelop, tune, and optimize threat detection mechanisms to identify potential threats in real-time.\nDesign custom detection rules, signatures, and use cases for various attack techniques and indicators of compromise (IoCs).\nPerform ongoing monitoring and analysis of threat trends, utilizing threat intelligence to enhance detection strategies.\nIncident Response\nLead incident response efforts by identifying, investigating, and responding to security incidents.\nPerform root cause analysis and implement corrective actions to prevent future occurrences.\nWork closely with IT and business teams to communicate the impact of security incidents and coordinate recovery efforts.\nData Loss Prevention (DLP)\nImplement and manage DLP solutions to monitor and prevent unauthorized access to sensitive data.\nDevelop and enforce DLP policies, ensuring compliance with industry standards and regulations.\nInvestigate DLP alerts and coordinate with teams to resolve data leakage incidents.\nCybersecurity Expertise Across Domains\nProvide guidance and expertise across multiple cybersecurity domains such as networksecurity, application security, identity and access management, and cloud security.\nStay updated on the latest security trends, vulnerabilities, and regulatory requirements.\nParticipate in risk assessments, security audits, and compliance activities.\nCollaboration And Mentorship\nCollaborate with other cybersecurity and IT teams to ensure integrated security defensesacross the organization.\nProvide mentorship and training to junior staff members, fostering a culture of continuous learning and improvement within the cybersecurity team.\nThreat Hunting\nProactively search for and identify cyber threats and malicious activities that evadetraditional detection methods.\nAnalyze security data and intelligence to uncover advanced persistent threats (APTs)and unknown threat patterns.\nDevelop and execute threat hunting playbooks and techniques using advanced tools and methodologies.\nCollaborate with security analysts and engineers to strengthen detection and prevention strategies based on threat-hunting insights.\nRequirements\nQualifications:\nEducation: Bachelor’s degree in Computer Science, Information Security, or a related field (or equivalent work experience).\nExperience: hands-on experience in cybersecurity roles, with a focus on SIEM, threatdetection engineering, incident response, and DLP.\nHands on: Fundamental understanding how security tools work instead of knowingwhich button to push.\nCertifications (not Necessary, But Nice To Have)\nGIAC Certified Incident Handler (GCIH)\nSplunk Certified Architect\nRequired Skills\nGeneral understanding of at least one SIEM architecture, queries, dashboarding, andalerting.\nKnowledge of threat detection techniques, SIEM solutions, and security operations.\nHands-on experience with incident response, root cause analysis, and forensic investigations.\nFamiliarity with DLP techniques for preventing data breaches.\nExcellent problem-solving skills, with the ability to make decisions under pressure during incidents.\nStrong communication skills to effectively collaborate with technical and non-technical stakeholders.\nPreferred Skills\nKnowledge of cloud security (AWS, Azure, GCP).\nFamiliarity with automation and scripting (e.g., Python, PowerShell).\nUnderstanding link between vulnerability management, penetration testing, and red teaming.\nBenefits\nPackage: 14 salary months + Project bonus (If any) + Extra package: 16M/year + Allowances shift working\nYoung and dynamic working environment.\nContinuous development of hard and soft skills through work and professional trainings.\nOpportunity to approach newest technology trends\nExciting leisure: sport and art events (football club, family day…)\nCompany’s labor policy completely pursuant to Vietnamese labor legislation plus other benefits offered by the company (Company trip, Holiday, etc.)\nHow To Apply\nPlease send your application via email: recruitment@cmcglobal.vn\n2+ years of experience\nBy submitting your application to recruitment@cmcglobal.vn, you acknowledge that you have read, understood, and agreed to CMC Global’s REGULATIONS ON THE PROTECTION OF CANDIDATES’ PERSONAL INFORMATION.\nYears of Experience Required\nRequired Education Level\nBachelor’s Degree\nJob Level\nMiddle/Senior\nWork Form\nFull-time\nEmail: recruitment@cmcglobal.vn",
-    "salary": "Thỏa thuận",
-    "posted_date": "1 month ago",
-    "posted_timestamp": 1789839950,
-    "posted_date_display": "19/09/2026 (1 tháng trước)",
-    "tags": [
-      "DFIR"
-    ],
-    "track": "SOC Operations & Monitoring",
-    "extracted_skills": [
-      "Digital Forensics & Artifacts",
-      "Incident Response",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Python",
-      "Bash / Shell Scripting",
-      "Detection as Code / Sigma"
-    ],
-    "extracted_certs": [
-      "SANS GCFA / GCIH / GREM"
-    ],
-    "english_level": "Not Specified",
-    "experience_years": "Lead / Manager"
-  },
-  {
     "id": "linkedin_4476821314",
     "title": "Security Engineer (Blue Team)",
     "company": "Kinh nghiệm kinh doanh",
@@ -4563,66 +4618,6 @@
       "Application Security"
     ],
     "track": "AppSec / Product Security",
-    "extracted_skills": [
-      "Incident Response",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Kubernetes / K8s",
-      "Docker / Containers",
-      "CI/CD Pipelines",
-      "SAST / DAST",
-      "Threat Modeling",
-      "OWASP Top 10",
-      "Python",
-      "Golang",
-      "Bash / Shell Scripting",
-      "SOAR / Playbooks"
-    ],
-    "extracted_certs": [],
-    "english_level": "Fluent / Advanced",
-    "experience_years": "Senior"
-  },
-  {
-    "id": "linkedin_40001146",
-    "title": "Expert, DevSecOps (40001146)",
-    "company": "Techcombank (TCB)",
-    "location": "Hanoi, Hanoi, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/expert-devsecops-40001146-at-techcombank-tcb-4461378927",
-    "source": "LinkedIn",
-    "raw_description": "Job Purpose\nThe job holder responsible for ensuring DevOps becomes a mindset, a culture, and a set of technical practices.\nThe job holder will provide communication, integration, automation, and close cooperation among all the people needed to plan, develop, test, deploy, release, and maintain a Solution.\nThe job holder will technically lead DevOps team to design and enhance the Continuous Delivery Pipeline (CDP) that represents the workflows, activities, and automation needed to shepherd a new piece of functionality from ideation to an on-demand release of value to the end user\nKey Accountabilities (1)\nContinuous Delivery through DevSecOps Factory\nBuild, map and optimize delivery of the Continuous Delivery Pipeline (CDP) by addressing key elements like: process time, lead time, delay time and percent of complete and accurate.\nContinuous Exploration (CE) – understand the market problem / customer need by analyzing and researching to identify the solution required to meet that need, from which suggest development of new features or modification from existing architectures, define and prioritize activities in the Program Backlog.\nContinuous Integration (CI) – take features from the Program Backlog and implement them to deliver a completed work which is committed to version control, built and integrated into a full system or solution, and tested end-to-end before being validated in a staging environment.\nContinuous Deployment (CD) - take the changes from the staging environment and deploy them to production.\nRelease on Demand (RoD) - make value available to customers all at once, or in a staggered fashion based market and business needs.\nKey Accountabilities (2)\nDevSecOps Factory\nBuild, automate, enhance and measure DevSecOps factory.\nBuild, automate, enhance and integrate threat modeling.\nBuild, automate, enhance and integrate application security.\nBuild, automate, enahnce and integrate penetration testing.\nBuild, automate, enhance and integrate continious security monitoring.\nKey Accountabilities (3)\nDevSecOps Targets\nConsistently develop software systems with higher quality and accuracy of project budgeting and estimation.\nIncrease visibility and stakeholder input into features for the next release as it is being developed.\nEngage stakeholders early and consistently throughout the SDLC, leading to few defects and incorrect requirements.\nBuild trust between software development and IT, enable organic process improvement and risk mitigation.\nMaximize business value by enabling technical staff to adapt to changing requirements or environmental factors.\nKey Relationships - Direct Manager\nManager/ Senior Manager/ Director, DevSecOps\nKey Relationships - Direct Reports\nKey Relationships - Internal Stakeholders\nKey Relationships - External Stakeholders\nApplication/solution provider partners, IT departments of key customer businesses\nSuccess Profile - Qualification and Experiences\nQualifications\nBachelor's or Master’s degree in computer science, software engineering or information technology\nWork Experience\nAt least 7 years of relevant experience in software development and minimum 2 years of experience in DevSecOps setup.\nKnowledge of DevSecOps factory pipeline components and DevSecOps Metrics.\nExperience working with cloud environments is a must.\nHands-on experience on code, commit, code review, document, test, integrate, qa, monitor with front end and back end languages and technologies.\nExperience working with DevSecOps tools is a must (RE protection, SSL pinning, payload encryption, Code quality, source code analysis, SAST/DAST tools).\nForeign language\nEnglish/ according to TCB's regulations in each period",
-    "salary": "Thỏa thuận",
-    "posted_date": "1 month ago",
-    "posted_timestamp": 1789816377,
-    "posted_date_display": "19/09/2026 (1 tháng trước)",
-    "tags": [
-      "DevSecOps"
-    ],
-    "track": "Cloud Security / DevSecOps",
-    "extracted_skills": [
-      "SAST / DAST",
-      "Threat Modeling"
-    ],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Lead / Manager"
-  },
-  {
-    "id": "linkedin_4459484897",
-    "title": "DevSecOps Engineer (Hybrid HCM)",
-    "company": "Findicia",
-    "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/devsecops-engineer-hybrid-hcm-at-findicia-4459484897",
-    "source": "LinkedIn",
-    "raw_description": "Ready for the next big challenge? Grow your career, and join our experienced global team, transforming the world of M&A software. Be part of the team behind the teams behind the deals. Work with the best. Be the best.\nAccountabilities\nPosition Summary\nThe DevSecOps Engineer (Product Security Engineer) is responsible for supporting the organization's Product Security program by partnering with software engineering teams to identify, assess, and remediate application security risks throughout the Software Development Lifecycle (SDLC). This role performs application security assessments, supports secure design and development practices, and helps integrate security into modern development and DevSecOps processes.\nIn addition to product security responsibilities, the engineer will receive cross-training and provide operational support to the Security Operations team, gaining experience in areas such as security monitoring, vulnerability management, and incident response. This role offers an excellent opportunity for a security professional to develop broad technical expertise while contributing to the protection of the organization's applications, infrastructure, and information assets.\nDuties And Responsibilities\nReview and validate findings from Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Software Composition Analysis (SCA), and container security tools.\nPartner with software engineering teams to identify, prioritize, and remediate application security vulnerabilities.\nParticipate in secure architecture reviews, design reviews, and threat modeling exercises throughout the Software Development Lifecycle (SDLC).\nSupport penetration testing activities and assist with remediation tracking and validation.\nIntegrate and promote security best practices within CI/CD pipelines and DevSecOps processes.\nAssist in developing and maintaining secure coding standards, application security guidance, and security documentation.\nResearch emerging application security threats and recommend appropriate mitigations.\nCollaborate with Product Security, Engineering, DevOps, and Infrastructure teams to continuously improve the organization's application security posture.\nAssist with security monitoring, alert triage, and investigation of potential security events.\nParticipate in incident response activities, including investigation, containment, recovery, and post-incident reviews.\nSupport enterprise vulnerability management activities across applications and infrastructure.\nAssist with maintaining security tools, documentation, and operational procedures.\nParticipate in security awareness initiatives, tabletop exercises, and continuous improvement efforts.\nCrosstrain with the Security Operations team to support operational security processes and technologies.\nQualifications\nSolid understanding of secure software development lifecycle (SSDLC) principles and secure coding practices.\nWorking knowledge of common application security vulnerabilities, including the OWASP Top 10 and secure design principles.\nFamiliarity with application security testing tools, including SAST, DAST, SCA, and vulnerability management platforms.\nExperience with one or more programming or scripting languages such as Java, C#, JavaScript, Python, Go, PowerShell, or Bash.\nUnderstanding of RESTful APIs, web application architectures, and modern software development methodologies.\nFamiliarity with source code management systems (Git) and CI/CD pipelines.\nKnowledge of cloud platforms (AWS, Azure, or Google Cloud) and container technologies (Docker, Kubernetes) is preferred.\nFamiliarity with security monitoring technologies such as SIEM, EDR, or SOAR platforms is preferred.\nStrong analytical, problem-solving, and troubleshooting skills.\nExcellent communication and interpersonal skills with the ability to collaborate effectively across technical teams.\nAbility to manage multiple priorities while maintaining attention to detail.\nStrong written and verbal English communication skills.\nEducation\nBachelor's degree in Computer Science, Information Security, Cybersecurity, Information Technology, Software Engineering, or related technical discipline.\nRelevant industry certifications such as CompTIA Security+, CSSLP, GWAPT, OSWE, or similar certifications are considered a plus.\nExperience\n2–5 years of experience in Application Security, Software Development, Information Security, Software Engineering, or related technical discipline.\nRelevant industry certifications such as CompTIA Security+, CSSLP, GWAPT, OSWE, or similar certifications are considered a plus.",
-    "salary": "Thỏa thuận",
-    "posted_date": "1 month ago",
-    "posted_timestamp": 1789816377,
-    "posted_date_display": "19/09/2026 (1 tháng trước)",
-    "tags": [
-      "DevSecOps"
-    ],
-    "track": "Cloud Security / DevSecOps",
     "extracted_skills": [
       "Incident Response",
       "AWS",
@@ -10001,6 +9996,27 @@
     "experience_years": "Mid-Level"
   },
   {
+    "id": "linkedin_4449075169",
+    "title": "Tier 3 (International Client)",
+    "company": "Life at Viettel Cyber Security",
+    "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/tier-3-international-client-at-life-at-viettel-cyber-security-4449075169",
+    "source": "LinkedIn",
+    "raw_description": "Tier 3 (International Client)",
+    "salary": "Thỏa thuận",
+    "posted_date": "2 months ago",
+    "posted_timestamp": 1787274847,
+    "posted_date_display": "21/08/2026 (2 tháng trước)",
+    "tags": [
+      "DFIR"
+    ],
+    "track": "Other / An toàn Thông tin Chung",
+    "extracted_skills": [],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Junior / Entry"
+  },
+  {
     "id": "linkedin_4449069528",
     "title": "Penetration Tester",
     "company": "Life at Viettel Cyber Security",
@@ -10106,35 +10122,6 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Senior"
-  },
-  {
-    "id": "linkedin_4449075169",
-    "title": "Tier 3 (International Client)",
-    "company": "Life at Viettel Cyber Security",
-    "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/tier-3-international-client-at-life-at-viettel-cyber-security-4449075169",
-    "source": "LinkedIn",
-    "raw_description": "POSTED AT 15/07/2025 12:00:19\nTier 3 (International Client)\nDepartment\nSecurity Dept\nLocation\nHanoi, Ho Chi Minh City\nEmployment type\nFull-time\nWork experience\nExperienced, Senior\nEnd date\nApplication until 31/12/2026\nSecurity\nOverview\nViettel Cyber Security One Member Limited Liability Company (VCS) focuses on the implementation, research, and in-depth development of information security products and solutions, while also providing cybersecurity (CS) products and services to large domestic and international organizations and enterprises.\nSome Notable Achievements Of VCS\nThe Champion of Pwn2Own 2023 & 2024. Previously, VCS consistently ranked in the Top Five positions at Pwn2Own Tokyo 2020, Vancouver 2021, and Toronto 2022.\nIn addition to Pwn2Own, VCS has consistently made its mark and topped numerous prestigious cybersecurity attack rankings and competitions worldwide, including those held by Microsoft, Bugcrowd, Google, Oracle, and others.\nVCS has exploited over 400 Zero-day security vulnerabilities on major platforms and systems of Microsoft, Oracle, Jenkins, and others.\nReceived 11 awards at the Cybersecurity Excellence Awards 2023, surpassing more than 800 nominations from leading global cybersecurity solution providers.\nGlobal InfoSec Awards 2023 (Cyber Defense Magazine)\nIT World Awards 2023: https://globeeawards.com/technology/winners/\nViettel Cyber Security excelled in achieving the Gold award in the Best Cyber Security Company in Asia category for 2023.\n07 Gold awards for products: Network Security Monitoring Solution (VCS-CyM), Abnormal Behavior Analysis Solution (VCS-KIAN), Network Security Orchestration, Automation and Response Solution (VCS-CyCir), Endpoint Anomaly Detection Solution (VCS-aJiant), Secure Remote Working Solution for Enterprises (VCS M-Suite); Cyber Threat Intelligence Solution (VCS-Threat Intelligence); Network Security Vulnerability Management and Control Solution (VCS-V2S).\n03 Gold award for services: Managed Security Services (MSS), Penetration Testing Service (Pentest), IoT Security Assessment Service.\nResponsibilities\nJob Description:\n– Monitor and analyze advanced security alerts across Endpoint, Network, and Gateway layers to detect and respond to cyberattacks.\n– Proactive Threat hunting\n– Investigate and respond to complex incidents, provide expert-level triage, and escalate to response teams as needed.\n– Develop and document standard operating procedures (SOPs)\n– Create and refine automated playbooks and detection use cases to improve SOC efficiency.\n– Ensure SLA compliance for international clients, including those in regulated sectors (finance, government, etc.).\n– Collaborate with global teams to support multi-region SOC operations.\nQualifications\nEducational Background:\n– Bachelor’s degree in: Information Security; Information Technology, Computer Science, Mathematics-Informatics…\n– English proficiency equivalent to TOEIC 650 or higher\nRequirements/Competencies:\n– 5 years of experience providing SOC (Security Operations Center) services for multiple clients in Asia, US – UK…\n– Solid understanding of cybersecurity and common attack methods (CEH, Security+ certifications preferred or equivalent experience).\n– Proficient in using SOC ecosystem tools and portals (SIEM, SOAR, EDR, NSM, Email Security, WAF, Cloudrity).\n– Capable of analyzing and detecting malware components.\n– Skilled in using forensic and monitoring tools: Autoruns, Procexp, TCPView, PCHunter, and Linux command-line tools (ls, ps, netstat, cat, iptables, last, lastlog).\n– Holding a\nForensic certification (e.g., CHFI)\nor equivalent is a plus.\n– Specialized knowledge in one of the two areas:\nMalware Attack\nor\nWeb Attack\n.\n– Preferred certifications:\nCEH, OSCP\n.\nSoft Skills:\n– Strong teamwork and stress management skills.\n– Good information research and analysis capability.\nPreferred Candidate Profiles\n– Candidates currently residing in\nIndia\n,\nPhilippines\n, or\nVietnam\n.\n– Candidates with prior experience supporting clients in regulated industries (banking, telecom, government).\nBenefits & perks\nCompetitive annual total income package\nOpportunity to work with diverse domestic and international clients\nAnnual salary review in March\nMIC health and personal accident insurance (coverage up to 600 million VND/year)\nAnnual health check-up\nAwards recognizing performance and timely outstanding contributions\n100% sponsorship for in-depth international professional certification based on position (in case of unsuccessful attempt, don’t worry, VCS will support 50% of the exam fee), special bonuses for employees achieving international professional certifications\nContinuous investment in the latest and most up-to-date learning materials in the field of Information Security from leading global vendors and institutes\n100% of employees are provided with an Udemy eLearning account – learn anytime, anywhere\nFree participation in professional knowledge sharing programs and seminars from leading domestic and international speakers\nWorking in a Grade A office – Landmark 72 building with a green space complex and a private area for gym and entertainment (billiards, PES, café, reading, Pingpong)\n30-minute relaxation daily with Happy hours (4:00 PM – 4:30 PM)\nSports activities: Football, Billiards, Poker, PES clubs, etc\n12 days of annual leave according to Labor Law and 3 days of company vacation, traditional holiday on 22/12\nPersonal birthday celebrations: Gifts and birthday cake from the Company\nParticipation in company events: Quarterly team building activities, monthly birthday celebrations, Year End Party, vacations, International Women’s Day (March 8th), Vietnamese Women’s Day (October 20th) (female employees recieve ½ day off), Viettel Group birthday on June 1st, etc\nAPPLICATION FORM\nAPPLY THIS JOB\nPlease enable JavaScript in your browser to complete this form.\nPlease enable JavaScript in your browser to complete this form.\nFull name *\nEmail *\nPhone number *\nLinkedIn/GitHub\nPortfolio\nSend form *\nWebsite / URL *\nAgree to Personal Data Protection Policy\nIn accordance with the provisions of the Law on Protection of Personal Data No. 91/2025/QH15 dated June 26, 2025, by checking the boxes below, the Candidate confirms that they have read, understood, and agree to allow Viettel Cyber Security One Member Limited Liability Company (VCS) to process their personal data for each specific purpose stated below. If the Candidate does not agree, we regret that we cannot process the application. The Candidate may withdraw their consent at any time through Customer Service channels, including the hotline +84 382 360 360 or email vcs.care@viettel.com.vn.\nAcceptance of the purposes for processing the Candidate's personal data and our Statement on Processing and Protection of Personal Data of Recruitment Candidates: *\n1. Executing the full recruitment and onboarding cycle: from screening, background checks, and assessments to contract finalization, talent pool management, and internal reporting.\nView our Personal Data Protection Policy\nRelated jobs\nSOC Tier 1\nHanoi\nHo Chi Minh City Junior\nView detail SOC Tier 1\nSoc Manager ( Japan)\nHanoi\nExperienced\nView detail Soc Manager ( Japan)\nSOC Manager\nHanoi\nHo Chi Minh City Experienced\nView detail SOC Manager\nNetwork Security\nHanoi\nExperienced\nView detail Network Security\nSecurity Engineer\nHanoi\nSpecialist\nView detail Security Engineer\nSecurity Content Analyst\nHanoi\nHo Chi Minh City Experienced\nView detail Security Content Analyst\nView more jobs",
-    "salary": "Thỏa thuận",
-    "posted_date": "2 months ago",
-    "posted_timestamp": 1787247950,
-    "posted_date_display": "20/08/2026 (2 tháng trước)",
-    "tags": [
-      "DFIR"
-    ],
-    "track": "Security Engineering & Infrastructure",
-    "extracted_skills": [
-      "Digital Forensics & Artifacts",
-      "CI/CD Pipelines",
-      "SOAR / Playbooks",
-      "Penetration Testing"
-    ],
-    "extracted_certs": [
-      "OSCP / OSDF",
-      "CEH"
-    ],
-    "english_level": "Fluent / Advanced",
-    "experience_years": "Lead / Manager"
   },
   {
     "id": "vietnamworks_2080500",
