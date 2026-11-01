@@ -1,5 +1,26 @@
 [
   {
+    "id": "careerviet_35C8946A",
+    "title": "Chuyên viên cao cấp Bảo mật dữ liệu- Senior Data Security - Data Division - Khối Dữ liệu (2026TD450980)",
+    "company": "Ngân Hàng TMCP Quân Đội",
+    "location": "Hà Nội",
+    "url": "https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-cao-cap-bao-mat-du-lieu-senior-data-security-data-division-khoi-du-lieu-2026td450980.35C8946A.html",
+    "source": "CareerViet",
+    "raw_description": "Phúc lợi\nLaptop\nChế độ bảo hiểm\nDu Lịch\nPhụ cấp\nDu lịch nước ngoài\nĐồng phục\nChế độ thưởng\nChăm sóc sức khỏe\nĐào tạo\nTăng lương\nCông tác phí\nPhụ cấp thâm niên\nNghỉ phép năm\nCLB thể thao",
+    "salary": "Cạnh tranh",
+    "posted_date": "01-12-2026",
+    "posted_timestamp": 1796083200,
+    "posted_date_display": "01/12/2026",
+    "tags": [
+      "an-toan-thong-tin"
+    ],
+    "track": "Other / An toàn Thông tin Chung",
+    "extracted_skills": [],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Senior"
+  },
+  {
     "id": "careerviet_35C890D8",
     "title": "[TT CNTT] - Chuyên viên quản trị cơ sở dữ liệu (DBA)",
     "company": "Tổng Công Ty Chuyển Phát Nhanh Bưu Điện",
@@ -328,7 +349,7 @@
     "raw_description": "Phúc lợi\nChế độ bảo hiểm\nDu Lịch\nPhụ cấp\nChế độ thưởng\nChăm sóc sức khỏe\nĐào tạo\nTăng lương\nCông tác phí\nNghỉ phép năm",
     "salary": "Cạnh tranh",
     "posted_date": "6",
-    "posted_timestamp": 1793558036,
+    "posted_timestamp": 1793573052,
     "posted_date_display": "6",
     "tags": [
       "an-toan-thong-tin"
@@ -349,8 +370,29 @@
     "raw_description": "Phúc lợi",
     "salary": "Cạnh tranh",
     "posted_date": "3",
-    "posted_timestamp": 1793558036,
+    "posted_timestamp": 1793573052,
     "posted_date_display": "3",
+    "tags": [
+      "an-toan-thong-tin"
+    ],
+    "track": "Other / An toàn Thông tin Chung",
+    "extracted_skills": [],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Mid-Level"
+  },
+  {
+    "id": "careerviet_35C8569F",
+    "title": "Nhân viên IT",
+    "company": "CÔNG TY TRÁCH NHIỆM HỮU HẠN YKK VIỆT NAM - CHI NHÁNH ĐỒNG VĂN",
+    "location": "Hà Nam",
+    "url": "https://careerviet.vn/vi/tim-viec-lam/nhan-vien-it.35C8569F.html",
+    "source": "CareerViet",
+    "raw_description": "Phúc lợi\nChế độ bảo hiểm\nDu Lịch\nChế độ thưởng\nChăm sóc sức khỏe\nĐào tạo\nTăng lương",
+    "salary": "Cạnh tranh",
+    "posted_date": "1",
+    "posted_timestamp": 1793573052,
+    "posted_date_display": "1",
     "tags": [
       "an-toan-thong-tin"
     ],
@@ -382,27 +424,6 @@
     "experience_years": "Mid-Level"
   },
   {
-    "id": "careerviet_35C8946A",
-    "title": "Chuyên viên cao cấp Bảo mật dữ liệu- Senior Data Security - Data Division - Khối Dữ liệu (2026TD450980)",
-    "company": "Ngân Hàng TMCP Quân Đội",
-    "location": "Hà Nội",
-    "url": "https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-cao-cap-bao-mat-du-lieu-senior-data-security-data-division-khoi-du-lieu-2026td450980.35C8946A.html",
-    "source": "CareerViet",
-    "raw_description": "Phúc lợi\nLaptop\nChế độ bảo hiểm\nDu Lịch\nPhụ cấp\nDu lịch nước ngoài\nĐồng phục\nChế độ thưởng\nChăm sóc sức khỏe\nĐào tạo\nTăng lương\nCông tác phí\nPhụ cấp thâm niên\nNghỉ phép năm\nCLB thể thao",
-    "salary": "Cạnh tranh",
-    "posted_date": "1",
-    "posted_timestamp": 1793558036,
-    "posted_date_display": "1",
-    "tags": [
-      "an-toan-thong-tin"
-    ],
-    "track": "Other / An toàn Thông tin Chung",
-    "extracted_skills": [],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Senior"
-  },
-  {
     "id": "linkedin_4484827732",
     "title": "Senior Security Engineer (SOC)",
     "company": "Cake Digital Bank",
@@ -428,6 +449,41 @@
     "extracted_certs": [
       "SANS GCFA / GCIH / GREM"
     ],
+    "english_level": "Not Specified",
+    "experience_years": "Lead / Manager"
+  },
+  {
+    "id": "linkedin_4485285486",
+    "title": "DevSecOps Engineer",
+    "company": "OPSWAT",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/devsecops-engineer-at-opswat-4485285486",
+    "source": "LinkedIn",
+    "raw_description": "OPSWAT, a global leader in IT, OT, and ICS critical infrastructure cybersecurity, delivers an end-to-end platform that gives public and private sector organizations and enterprises the critical advantage needed to protect their complex networks, secure their devices, and ensure compliance. Over the last 20 years our commitment to innovative technology has earned the trust of more than 1,700 organizations, governments, and institutions globally, solidifying our role in protecting the world’s critical infrastructure and securing our way of life.\nThe Position\nWe are seeking a hands-on\nDevSecOps Engineer\nto embed automated security into software delivery. The role focuses on CI/CD security, security scanning, risk-based gates, Secure SDLC baselines, and vulnerability remediation across product and internal engineering teams.\nYou will partner with AppSec, Product Engineering, Platform/SRE, and Security Operations to deliver reusable controls, developer-friendly feedback, and measurable security outcomes.\nCore Responsibilities\nIntegrate secret scanning, SAST, SCA/SBOM, container, IaC, and appropriate DAST checks into pull request, build, and release workflows.\nImplement risk-based CI/CD security gates, false-positive handling, and documented exceptions.\nBuild scripts and API integrations for scan aggregation, ticketing, evidence collection, and security reporting.\nMaintain visibility into scan coverage, gate decisions, vulnerability trends, and control adoption.\nEnable Product Security, Security Champions, and SRE teams; use AI tools responsibly to accelerate analysis, scripting, and documentation while verifying outputs.\nRequired Qualifications\nBachelor's degree in Computer Science, Engineering, Cybersecurity, or equivalent practical experience.\n3+ years in DevSecOps, DevOps/platform engineering, AppSec, or software engineering with security automation.\nHands-on experience with Git and CI/CD platforms (e.g., GitHub Actions, GitLab CI, Jenkins, Azure DevOps).\nAbility to automate workflows using Python, Bash, or similar languages and work with APIs.\nExperience with security scanning (e.g., SAST, SCA, secrets, containers, IaC, DAST), finding triage, and remediation.\nWorking knowledge of Secure SDLC, Linux, containers, cloud fundamentals, and OWASP Top 10.\nStrong developer collaboration skills and ability to use AI assistants effectively, with appropriate review of generated outputs.\nPreferred Qualifications\nExperience with Kubernetes, Terraform, AWS/Azure, and container build/release workflows.\nExposure to tools such as CodeQL, Semgrep, SonarQube, Snyk, Trivy, Gitleaks, Checkov, or ZAP.\nKnowledge of SBOM, software supply-chain security, signing/attestation, or OWASP SAMM/NIST SSDF.\nExperience with AI-assisted SDLC (AI-SDLC), such as AI coding assistants, AI-driven security reviews, or remediation automation, is a plus.\nOPSWAT is an equal opportunity employer. We celebrate diversity and are committed to providing an environment where equal employment opportunities are extended to all employees and applicants, free of discrimination and harassment of any type. All employment decisions are based on individual qualifications, job requirements, and business needs without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other category protected by federal, state, or local laws.\nRecruiting Agencies: we do not accept unsolicited resumes from third party agencies for any of our open positions. To submit resumes for our jobs, there must be a recruiting contract approved by our legal team and endorsed by both parties. We are currently not accepting additional 3rd party agencies at this time.",
+    "salary": "Thỏa thuận",
+    "posted_date": "2 days ago",
+    "posted_timestamp": 1793400252,
+    "posted_date_display": "30/10/2026 (2 ngày trước)",
+    "tags": [
+      "DevSecOps"
+    ],
+    "track": "Cloud Security / DevSecOps",
+    "extracted_skills": [
+      "AWS",
+      "Azure",
+      "Kubernetes / K8s",
+      "Docker / Containers",
+      "Terraform (IaC)",
+      "CI/CD Pipelines",
+      "SAST / DAST",
+      "SonarQube / Snyk",
+      "OWASP Top 10",
+      "Python",
+      "Bash / Shell Scripting",
+      "REST API Integration",
+      "NIST CSF"
+    ],
+    "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Lead / Manager"
   },
@@ -527,27 +583,6 @@
     "posted_date_display": "30/10/2026 (2 ngày trước)",
     "tags": [
       "Cloud Security"
-    ],
-    "track": "Cloud Security / DevSecOps",
-    "extracted_skills": [],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Mid-Level"
-  },
-  {
-    "id": "linkedin_4485285486",
-    "title": "DevSecOps Engineer",
-    "company": "OPSWAT",
-    "location": "Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/devsecops-engineer-at-opswat-4485285486",
-    "source": "LinkedIn",
-    "raw_description": "DevSecOps Engineer",
-    "salary": "Thỏa thuận",
-    "posted_date": "2 days ago",
-    "posted_timestamp": 1793385236,
-    "posted_date_display": "30/10/2026 (2 ngày trước)",
-    "tags": [
-      "DevSecOps"
     ],
     "track": "Cloud Security / DevSecOps",
     "extracted_skills": [],
@@ -670,6 +705,27 @@
     "experience_years": "Lead / Manager"
   },
   {
+    "id": "linkedin_4484932453",
+    "title": "DevSecOps Engineer",
+    "company": "STYL Solutions Pte. Ltd.",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/devsecops-engineer-at-styl-solutions-pte-ltd-4484932453",
+    "source": "LinkedIn",
+    "raw_description": "DevSecOps Engineer",
+    "salary": "Thỏa thuận",
+    "posted_date": "3 days ago",
+    "posted_timestamp": 1793313852,
+    "posted_date_display": "29/10/2026 (3 ngày trước)",
+    "tags": [
+      "DevSecOps"
+    ],
+    "track": "Cloud Security / DevSecOps",
+    "extracted_skills": [],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Mid-Level"
+  },
+  {
     "id": "linkedin_4483013050",
     "title": "Security Architect",
     "company": "GFT Technologies",
@@ -691,27 +747,6 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Lead / Manager"
-  },
-  {
-    "id": "linkedin_4484932453",
-    "title": "DevSecOps Engineer",
-    "company": "STYL Solutions Pte. Ltd.",
-    "location": "Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/devsecops-engineer-at-styl-solutions-pte-ltd-4484932453",
-    "source": "LinkedIn",
-    "raw_description": "DevSecOps Engineer",
-    "salary": "Thỏa thuận",
-    "posted_date": "3 days ago",
-    "posted_timestamp": 1793298836,
-    "posted_date_display": "29/10/2026 (3 ngày trước)",
-    "tags": [
-      "DevSecOps"
-    ],
-    "track": "Cloud Security / DevSecOps",
-    "extracted_skills": [],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Mid-Level"
   },
   {
     "id": "linkedin_4484929663",
@@ -861,21 +896,21 @@
     "experience_years": "Mid-Level"
   },
   {
-    "id": "careerviet_35C8569F",
-    "title": "Nhân viên IT",
-    "company": "CÔNG TY TRÁCH NHIỆM HỮU HẠN YKK VIỆT NAM - CHI NHÁNH ĐỒNG VĂN",
-    "location": "Hà Nam",
-    "url": "https://careerviet.vn/vi/tim-viec-lam/nhan-vien-it.35C8569F.html",
-    "source": "CareerViet",
-    "raw_description": "Phúc lợi\nChế độ bảo hiểm\nDu Lịch\nChế độ thưởng\nChăm sóc sức khỏe\nĐào tạo\nTăng lương",
-    "salary": "Cạnh tranh",
-    "posted_date": "5",
-    "posted_timestamp": 1793230301,
-    "posted_date_display": "5",
+    "id": "linkedin_4476577039",
+    "title": "App Security Engineer",
+    "company": "VinSmart Future",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/app-security-engineer-at-vinsmart-future-4476577039",
+    "source": "LinkedIn",
+    "raw_description": "App Security Engineer",
+    "salary": "Thỏa thuận",
+    "posted_date": "4 days ago",
+    "posted_timestamp": 1793227452,
+    "posted_date_display": "28/10/2026 (4 ngày trước)",
     "tags": [
-      "an-toan-thong-tin"
+      "Application Security"
     ],
-    "track": "Other / An toàn Thông tin Chung",
+    "track": "Security Engineering & Infrastructure",
     "extracted_skills": [],
     "extracted_certs": [],
     "english_level": "Not Specified",
@@ -959,27 +994,6 @@
     ],
     "english_level": "Not Specified",
     "experience_years": "Lead / Manager"
-  },
-  {
-    "id": "linkedin_4476577039",
-    "title": "App Security Engineer",
-    "company": "VinSmart Future",
-    "location": "Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/app-security-engineer-at-vinsmart-future-4476577039",
-    "source": "LinkedIn",
-    "raw_description": "App Security Engineer",
-    "salary": "Thỏa thuận",
-    "posted_date": "4 days ago",
-    "posted_timestamp": 1793212436,
-    "posted_date_display": "28/10/2026 (4 ngày trước)",
-    "tags": [
-      "Application Security"
-    ],
-    "track": "Security Engineering & Infrastructure",
-    "extracted_skills": [],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Mid-Level"
   },
   {
     "id": "vietnamworks_2124643",
@@ -1941,6 +1955,88 @@
     "experience_years": "Mid-Level"
   },
   {
+    "id": "linkedin_4468519239",
+    "title": "Middle Penetration Tester (Security)",
+    "company": "HCLTech Vietnam",
+    "location": "Hanoi, Hanoi, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/middle-penetration-tester-security-at-hcltech-vietnam-4468519239",
+    "source": "LinkedIn",
+    "raw_description": "***Note: We highly appreciate your interest in this position of HCLTECH Vietnam. After reviewing all applications, only qualified candidates will be contacted for the next steps within 15 days from date of submission!!!\nABOUT HCLTECH VIETNAM COMPANY LIMITED\nHCL Vietnam Company Limited belongs to HCLTech which is a global technology company, home to 220,000+ people across 60 countries, delivering industry-leading capabilities centered around digital, engineering and cloud, powered by a broad portfolio of technology services and products. We work with clients across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life Sciences and Healthcare, Technology and Services, Telecom and Media, Retail and CPG, and Public Services. Consolidated revenues as of 12 months ending Mar 31, 2025, totaled $13.8 billion. Website:\nhttps://www.hcltech.com/\nJOB TITLE:\nMiddle Penetration Tester (Security)\nJOB LOCATION:\nHanoi, Vietnam (Hybrid working mode)\nJOB SUMMARY:\nWe are seeking motivated Senior Pen Tester (Security) to be part of a team that evaluates a wide range of group products and services – to identify security weaknesses and exposures that pose a risk to the enterprise, and work with teams to understand their risk and path to remediation.\nJOB RESPONSIBILITIES\nWorking with a diverse range of colleagues to define security testing activities (scope) across target applications and infrastructure\nContinuous improvement and best practices to promote continuous improvement of penetration testing methodologies and processes\nDelivery of technical reports and documentation\nCommunication of security vulnerabilities and exposures to internal stakeholders\nPerform penetration testing and vulnerability assessments, including the triage of findings to determine key exposures. Expanding upon this responsibility, you will also be required to perform cloud:\nTests against various technical assets (applications, networks, cloud), as expanded upon below\nSecurity Audits\nAnalyse Security Policies\nWrite Security Assessment Reports\nEXPERIENCE & QUALIFICATIONS\nMust-have:\nAt least 3+ years of experience\nExtensive experience as a penetration tester or security analyst, with experience in large organisations\nExtensive experience penetration testing various assets, including but not limited to; web applications, mobile applications, networks/infrastructure, and cloud services. You should highlight any key strengths across these disciplines.\nA clear understanding of both manual and automated penetration testing techniques, including knowledge of common penetration testing tools and the impacts they have on systems.\nFluent understanding of cloud technologies (AWS, Azure)\nA comprehensive understanding of Penetration Testing frameworks and methodologies (OWASP, OSSTTMM, WAHH).\nAdvanced problem-solving skills\nExcellent written and verbal communication skills – with experience writing and conveying complex penetration testing findings and their associated risks through reports to stakeholders; findings writeups, or verbal discussions.\nAbility to attend to the detail on multiple concurrent tasks while meeting various deadlines.\nIndustry certifications such as OSCP, OSWE, CREST (CRT, CCT), or equivalent are highly desired\nTraining on self-development platforms (i.e. HackTheBox, Pentesterlabs, wechall, etc.)\nNice-to-have:\nExperience working in large enterprise organisations e.g. banking\nExposure to Microservices, Web and Cloud technologies\nDegree in Computer Science, Information Security or similar\nBENEFITS\nInsurance plan based on full salary + 13th month salary\n100% full salary from the 1st day of working and during WFH\nMedical Benefit (Bao Viet Insurance package) for Employee and Family\nWorking in a fast paced, flexible, and multinational working environment. Chance to travel onsite (in 54 countries)\nInternal Training (Technical & Functional). Scope of English Training\n18 paid leaves per year (including 12 annual leaves + 6 personal leaves)",
+    "salary": "Thỏa thuận",
+    "posted_date": "2 weeks ago",
+    "posted_timestamp": 1792363452,
+    "posted_date_display": "18/10/2026 (2 tuần trước)",
+    "tags": [
+      "Application Security"
+    ],
+    "track": "Offensive Security (Pentest / Red Team)",
+    "extracted_skills": [
+      "AWS",
+      "Azure",
+      "OWASP Top 10"
+    ],
+    "extracted_certs": [
+      "OSCP / OSDF"
+    ],
+    "english_level": "Not Specified",
+    "experience_years": "Lead / Manager"
+  },
+  {
+    "id": "linkedin_4468510581",
+    "title": "Middle Penetration Tester (Security)",
+    "company": "HCLTech Vietnam",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/middle-penetration-tester-security-at-hcltech-vietnam-4468510581",
+    "source": "LinkedIn",
+    "raw_description": "Middle Penetration Tester (Security)",
+    "salary": "Thỏa thuận",
+    "posted_date": "2 weeks ago",
+    "posted_timestamp": 1792363452,
+    "posted_date_display": "18/10/2026 (2 tuần trước)",
+    "tags": [
+      "Application Security"
+    ],
+    "track": "Offensive Security (Pentest / Red Team)",
+    "extracted_skills": [],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Mid-Level"
+  },
+  {
+    "id": "linkedin_4475679446",
+    "title": "Senior Application Security Engineer",
+    "company": "Crossian",
+    "location": "Hanoi Capital Region",
+    "url": "https://vn.linkedin.com/jobs/view/senior-application-security-engineer-at-crossian-4475679446",
+    "source": "LinkedIn",
+    "raw_description": "About Us\nCrossian is a high-growth technology-driven e-commerce business. As a start-up formed in 2020, we have created a fast-paced and dynamic environment, enabling our people to reach a cumulative average growth rate of over 1000% in the last 5 years.\nAbout the role\nWe are looking for an Application Security Engineer to embed security into software delivery, assess applications and cloud workloads, and drive vulnerabilities through to verified resolution. You will partner with engineering and DevOps teams to implement practical controls, provide security guidance, and balance risk with business and delivery needs.\nKey responsibilities\nSecure SDLC & DevSecOps\nDefine security requirements, security gates, and design reviews across the design, development, testing, and deployment stages of the SDLC.\nIntegrate and automate SAST, DAST, SCA, secret scanning, and container/IaC scanning in CI/CD pipelines; tune findings to reduce false positives and improve developer workflows.\nSecurity assessment & penetration testing\nAssess and penetration-test web and mobile applications, APIs, and backend services using OWASP guidance, with attention to authentication, authorization, and business logic.\nPerform manual and automated security code reviews of high-risk functionality; help developers identify root causes and implement effective remediation.\nVulnerability lifecycle management\nManage application vulnerabilities from discovery, validation, and risk-based prioritization through remediation, retesting, and closure against agreed SLAs; escalate overdue findings and track approved exceptions.\nAssess risks in third-party libraries, open-source dependencies, and software components using Software Composition Analysis (SCA) and Software Bills of Materials (SBOMs).\nCloud workload security\nAssess and implement security controls for application workloads on cloud platforms such as AWS, Azure, or GCP.\nPartner with DevOps to review containers, Kubernetes, serverless services, IAM/service identities, secrets, and Infrastructure as Code (IaC) against security baselines.\nIncident response & collaboration\nSupport application security incident investigations and use lessons learned to strengthen preventive controls and development practices.\nCoordinate external penetration tests, including scope definition, findings follow-up, and remediation retesting.\nProvide practical secure coding guidance, training, and support to engineering teams.\nRequirements\nIntermediate:\nTypically 3+ years of relevant experience, able to deliver defined assessments and security improvements with guidance on complex decisions.\nSenior:\nTypically 5+ years, with demonstrated ownership of application security practices, complex assessments, and cross-team remediation.\nHands-on application/API penetration testing and security code review experience, with strong knowledge of OWASP guidance, authentication, authorization, and business-logic vulnerabilities.\nExperience integrating and tuning security testing tools in CI/CD pipelines and applying Secure SDLC practices.\nExperience validating, prioritizing, and tracking vulnerabilities through verified closure, including dependency risk management using SCA/SBOM.\nWorking knowledge of at least one major cloud platform, container/Kubernetes security, IAM, secrets management, and IaC review.\nAbility to read application code and write scripts to automate security tasks.\nClear communication and reporting skills; able to explain risk, recommend practical fixes, and collaborate with developers and stakeholders.\nPreferred qualifications\nExperience with mobile application testing, threat modeling, or application security incident investigations.\nRelevant application security, penetration testing, or cloud security certifications are welcome but not required.",
+    "salary": "Thỏa thuận",
+    "posted_date": "2 weeks ago",
+    "posted_timestamp": 1792363452,
+    "posted_date_display": "18/10/2026 (2 tuần trước)",
+    "tags": [
+      "Application Security"
+    ],
+    "track": "AppSec / Product Security",
+    "extracted_skills": [
+      "Incident Response",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Kubernetes / K8s",
+      "Docker / Containers",
+      "Terraform (IaC)",
+      "CI/CD Pipelines",
+      "SAST / DAST",
+      "Threat Modeling",
+      "OWASP Top 10",
+      "REST API Integration"
+    ],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Senior"
+  },
+  {
     "id": "careerviet_35C7FCCA",
     "title": "CV An toàn thông tin (Ít nhất 1 năm làm Pentest ứng dụng)",
     "company": "Tổng Công ty Cổ phần Công trình Viettel",
@@ -1989,60 +2085,6 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Senior"
-  },
-  {
-    "id": "linkedin_4468519239",
-    "title": "Middle Penetration Tester (Security)",
-    "company": "HCLTech Vietnam",
-    "location": "Hanoi, Hanoi, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/middle-penetration-tester-security-at-hcltech-vietnam-4468519239",
-    "source": "LinkedIn",
-    "raw_description": "***Note: We highly appreciate your interest in this position of HCLTECH Vietnam. After reviewing all applications, only qualified candidates will be contacted for the next steps within 15 days from date of submission!!!\nABOUT HCLTECH VIETNAM COMPANY LIMITED\nHCL Vietnam Company Limited belongs to HCLTech which is a global technology company, home to 220,000+ people across 60 countries, delivering industry-leading capabilities centered around digital, engineering and cloud, powered by a broad portfolio of technology services and products. We work with clients across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life Sciences and Healthcare, Technology and Services, Telecom and Media, Retail and CPG, and Public Services. Consolidated revenues as of 12 months ending Mar 31, 2025, totaled $13.8 billion. Website:\nhttps://www.hcltech.com/\nJOB TITLE:\nMiddle Penetration Tester (Security)\nJOB LOCATION:\nHanoi, Vietnam (Hybrid working mode)\nJOB SUMMARY:\nWe are seeking motivated Senior Pen Tester (Security) to be part of a team that evaluates a wide range of group products and services – to identify security weaknesses and exposures that pose a risk to the enterprise, and work with teams to understand their risk and path to remediation.\nJOB RESPONSIBILITIES\nWorking with a diverse range of colleagues to define security testing activities (scope) across target applications and infrastructure\nContinuous improvement and best practices to promote continuous improvement of penetration testing methodologies and processes\nDelivery of technical reports and documentation\nCommunication of security vulnerabilities and exposures to internal stakeholders\nPerform penetration testing and vulnerability assessments, including the triage of findings to determine key exposures. Expanding upon this responsibility, you will also be required to perform cloud:\nTests against various technical assets (applications, networks, cloud), as expanded upon below\nSecurity Audits\nAnalyse Security Policies\nWrite Security Assessment Reports\nEXPERIENCE & QUALIFICATIONS\nMust-have:\nAt least 3+ years of experience\nExtensive experience as a penetration tester or security analyst, with experience in large organisations\nExtensive experience penetration testing various assets, including but not limited to; web applications, mobile applications, networks/infrastructure, and cloud services. You should highlight any key strengths across these disciplines.\nA clear understanding of both manual and automated penetration testing techniques, including knowledge of common penetration testing tools and the impacts they have on systems.\nFluent understanding of cloud technologies (AWS, Azure)\nA comprehensive understanding of Penetration Testing frameworks and methodologies (OWASP, OSSTTMM, WAHH).\nAdvanced problem-solving skills\nExcellent written and verbal communication skills – with experience writing and conveying complex penetration testing findings and their associated risks through reports to stakeholders; findings writeups, or verbal discussions.\nAbility to attend to the detail on multiple concurrent tasks while meeting various deadlines.\nIndustry certifications such as OSCP, OSWE, CREST (CRT, CCT), or equivalent are highly desired\nTraining on self-development platforms (i.e. HackTheBox, Pentesterlabs, wechall, etc.)\nNice-to-have:\nExperience working in large enterprise organisations e.g. banking\nExposure to Microservices, Web and Cloud technologies\nDegree in Computer Science, Information Security or similar\nBENEFITS\nInsurance plan based on full salary + 13th month salary\n100% full salary from the 1st day of working and during WFH\nMedical Benefit (Bao Viet Insurance package) for Employee and Family\nWorking in a fast paced, flexible, and multinational working environment. Chance to travel onsite (in 54 countries)\nInternal Training (Technical & Functional). Scope of English Training\n18 paid leaves per year (including 12 annual leaves + 6 personal leaves)",
-    "salary": "Thỏa thuận",
-    "posted_date": "2 weeks ago",
-    "posted_timestamp": 1792348436,
-    "posted_date_display": "18/10/2026 (2 tuần trước)",
-    "tags": [
-      "Application Security"
-    ],
-    "track": "Offensive Security (Pentest / Red Team)",
-    "extracted_skills": [
-      "AWS",
-      "Azure",
-      "OWASP Top 10"
-    ],
-    "extracted_certs": [
-      "OSCP / OSDF"
-    ],
-    "english_level": "Not Specified",
-    "experience_years": "Lead / Manager"
-  },
-  {
-    "id": "linkedin_4468510581",
-    "title": "Middle Penetration Tester (Security)",
-    "company": "HCLTech Vietnam",
-    "location": "Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/middle-penetration-tester-security-at-hcltech-vietnam-4468510581",
-    "source": "LinkedIn",
-    "raw_description": "***Note: We highly appreciate your interest in this position of HCLTECH Vietnam. After reviewing all applications, only qualified candidates will be contacted for the next steps within 15 days from date of submission!!!\nABOUT HCLTECH VIETNAM COMPANY LIMITED\nHCL Vietnam Company Limited belongs to HCLTech which is a global technology company, home to 220,000+ people across 60 countries, delivering industry-leading capabilities centered around digital, engineering and cloud, powered by a broad portfolio of technology services and products. We work with clients across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life Sciences and Healthcare, Technology and Services, Telecom and Media, Retail and CPG, and Public Services. Consolidated revenues as of 12 months ending Mar 31, 2025, totaled $13.8 billion. Website:\nhttps://www.hcltech.com/\nJOB TITLE:\nMiddle Penetration Tester (Security)\nJOB LOCATION:\nHo Chi Minh City, Vietnam (Hybrid working mode)\nJOB SUMMARY:\nWe are seeking motivated Senior Pen Tester (Security) to be part of a team that evaluates a wide range of group products and services – to identify security weaknesses and exposures that pose a risk to the enterprise, and work with teams to understand their risk and path to remediation.\nJOB RESPONSIBILITIES\nWorking with a diverse range of colleagues to define security testing activities (scope) across target applications and infrastructure\nContinuous improvement and best practices to promote continuous improvement of penetration testing methodologies and processes\nDelivery of technical reports and documentation\nCommunication of security vulnerabilities and exposures to internal stakeholders\nPerform penetration testing and vulnerability assessments, including the triage of findings to determine key exposures. Expanding upon this responsibility, you will also be required to perform cloud:\nTests against various technical assets (applications, networks, cloud), as expanded upon below\nSecurity Audits\nAnalyse Security Policies\nWrite Security Assessment Reports\nEXPERIENCE & QUALIFICATIONS\nMust-have:\nAt least 3+ years of experience\nExtensive experience as a penetration tester or security analyst, with experience in large organisations\nExtensive experience penetration testing various assets, including but not limited to; web applications, mobile applications, networks/infrastructure, and cloud services. You should highlight any key strengths across these disciplines.\nA clear understanding of both manual and automated penetration testing techniques, including knowledge of common penetration testing tools and the impacts they have on systems.\nFluent understanding of cloud technologies (AWS, Azure)\nA comprehensive understanding of Penetration Testing frameworks and methodologies (OWASP, OSSTTMM, WAHH).\nAdvanced problem-solving skills\nExcellent written and verbal communication skills – with experience writing and conveying complex penetration testing findings and their associated risks through reports to stakeholders; findings writeups, or verbal discussions.\nAbility to attend to the detail on multiple concurrent tasks while meeting various deadlines.\nIndustry certifications such as OSCP, OSWE, CREST (CRT, CCT), or equivalent are highly desired\nTraining on self-development platforms (i.e. HackTheBox, Pentesterlabs, wechall, etc.)\nNice-to-have:\nExperience working in large enterprise organisations e.g. banking\nExposure to Microservices, Web and Cloud technologies\nDegree in Computer Science, Information Security or similar\nBENEFITS\nInsurance plan based on full salary + 13th month salary\n100% full salary from the 1st day of working and during WFH\nMedical Benefit (Bao Viet Insurance package) for Employee and Family\nWorking in a fast paced, flexible, and multinational working environment. Chance to travel onsite (in 54 countries)\nInternal Training (Technical & Functional). Scope of English Training\n18 paid leaves per year (including 12 annual leaves + 6 personal leaves)",
-    "salary": "Thỏa thuận",
-    "posted_date": "2 weeks ago",
-    "posted_timestamp": 1792348436,
-    "posted_date_display": "18/10/2026 (2 tuần trước)",
-    "tags": [
-      "Application Security"
-    ],
-    "track": "Offensive Security (Pentest / Red Team)",
-    "extracted_skills": [
-      "AWS",
-      "Azure",
-      "OWASP Top 10"
-    ],
-    "extracted_certs": [
-      "OSCP / OSDF"
-    ],
-    "english_level": "Not Specified",
-    "experience_years": "Lead / Manager"
   },
   {
     "id": "linkedin_4472543705",
@@ -2106,40 +2148,6 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Mid-Level"
-  },
-  {
-    "id": "linkedin_4475679446",
-    "title": "Senior Application Security Engineer",
-    "company": "Crossian",
-    "location": "Hanoi Capital Region",
-    "url": "https://vn.linkedin.com/jobs/view/senior-application-security-engineer-at-crossian-4475679446",
-    "source": "LinkedIn",
-    "raw_description": "About Us\nCrossian is a high-growth technology-driven e-commerce business. As a start-up formed in 2020, we have created a fast-paced and dynamic environment, enabling our people to reach a cumulative average growth rate of over 1000% in the last 5 years.\nAbout the role\nWe are looking for an Application Security Engineer to embed security into software delivery, assess applications and cloud workloads, and drive vulnerabilities through to verified resolution. You will partner with engineering and DevOps teams to implement practical controls, provide security guidance, and balance risk with business and delivery needs.\nKey responsibilities\nSecure SDLC & DevSecOps\nDefine security requirements, security gates, and design reviews across the design, development, testing, and deployment stages of the SDLC.\nIntegrate and automate SAST, DAST, SCA, secret scanning, and container/IaC scanning in CI/CD pipelines; tune findings to reduce false positives and improve developer workflows.\nSecurity assessment & penetration testing\nAssess and penetration-test web and mobile applications, APIs, and backend services using OWASP guidance, with attention to authentication, authorization, and business logic.\nPerform manual and automated security code reviews of high-risk functionality; help developers identify root causes and implement effective remediation.\nVulnerability lifecycle management\nManage application vulnerabilities from discovery, validation, and risk-based prioritization through remediation, retesting, and closure against agreed SLAs; escalate overdue findings and track approved exceptions.\nAssess risks in third-party libraries, open-source dependencies, and software components using Software Composition Analysis (SCA) and Software Bills of Materials (SBOMs).\nCloud workload security\nAssess and implement security controls for application workloads on cloud platforms such as AWS, Azure, or GCP.\nPartner with DevOps to review containers, Kubernetes, serverless services, IAM/service identities, secrets, and Infrastructure as Code (IaC) against security baselines.\nIncident response & collaboration\nSupport application security incident investigations and use lessons learned to strengthen preventive controls and development practices.\nCoordinate external penetration tests, including scope definition, findings follow-up, and remediation retesting.\nProvide practical secure coding guidance, training, and support to engineering teams.\nRequirements\nIntermediate:\nTypically 3+ years of relevant experience, able to deliver defined assessments and security improvements with guidance on complex decisions.\nSenior:\nTypically 5+ years, with demonstrated ownership of application security practices, complex assessments, and cross-team remediation.\nHands-on application/API penetration testing and security code review experience, with strong knowledge of OWASP guidance, authentication, authorization, and business-logic vulnerabilities.\nExperience integrating and tuning security testing tools in CI/CD pipelines and applying Secure SDLC practices.\nExperience validating, prioritizing, and tracking vulnerabilities through verified closure, including dependency risk management using SCA/SBOM.\nWorking knowledge of at least one major cloud platform, container/Kubernetes security, IAM, secrets management, and IaC review.\nAbility to read application code and write scripts to automate security tasks.\nClear communication and reporting skills; able to explain risk, recommend practical fixes, and collaborate with developers and stakeholders.\nPreferred qualifications\nExperience with mobile application testing, threat modeling, or application security incident investigations.\nRelevant application security, penetration testing, or cloud security certifications are welcome but not required.",
-    "salary": "Thỏa thuận",
-    "posted_date": "2 weeks ago",
-    "posted_timestamp": 1792348436,
-    "posted_date_display": "18/10/2026 (2 tuần trước)",
-    "tags": [
-      "Application Security"
-    ],
-    "track": "AppSec / Product Security",
-    "extracted_skills": [
-      "Incident Response",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Kubernetes / K8s",
-      "Docker / Containers",
-      "Terraform (IaC)",
-      "CI/CD Pipelines",
-      "SAST / DAST",
-      "Threat Modeling",
-      "OWASP Top 10",
-      "REST API Integration"
-    ],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Senior"
   },
   {
     "id": "linkedin_4469935379",
@@ -2979,7 +2987,7 @@
     "raw_description": "About Us\nCrossian is a high-growth technology-driven e-commerce business. As a start-up formed in 2020, we have created a fast-paced and dynamic environment, enabling our people to reach a cumulative average growth rate of over 1000% in the last 5 years.\nJob Description\nWe are seeking a talented\nDevSecOps Engineer\nto join our team. In this role, you’ll bridge the gap between development, operations, and security, ensuring our systems and applications are robust, scalable, and secure from day one. You’ll automate security checks, develop secure CI/CD pipelines, and foster a culture of collaboration and continuous improvement. Beyond core DevSecOps work, you'll help build our DevOps-as-a-Service (DaaS) platform — a multi-agent AI system that automates key parts of our DevOps workflow.\nResponsibilities\nSecure Delivery & Infrastructure\nDesign, build, and maintain secure CI/CD pipelines (GitLab CI, GitHub Actions) with automated security gates (SAST, DAST, secret scanning, dependency scanning) that block releases on critical findings.\nIntegrate security best practices into DevOps workflows and GitOps-based delivery (ArgoCD).\nCollaborate with developers, operations, and security teams to design and implement secure infrastructure.\nMaintain and enhance infrastructure as code (Terraform, Ansible, etc.), with policy checks before changes are applied.\nImplement and manage container security on Docker and Kubernetes (EKS), including image scanning, Pod Security Standards, and network policies.\nIdentity, Secrets & Cloud Security\nManage secrets end-to-end with HashiCorp Vault / AWS Secrets Manager: rotation, no hard-coded credentials, and controlled injection into workloads.\nEnforce IAM least privilege: role-based access, a dedicated identity per workload (IRSA / EKS Pod Identity), and regular access reviews.\nMonitor and improve cloud security posture using AWS GuardDuty, Security Hub, Config, and CloudTrail.\nObservability, SRE & Incident Response\nBuild and operate observability across metrics, logs, and alerting (Prometheus, Grafana, ELK / Kibana), keeping alerts actionable.\nDefine and track SLOs/SLIs, take part in on-call, and lead blameless postmortems.\nMonitor systems for security breaches, respond to incidents, and drive vulnerability management and remediation.\nAI & DevOps-as-a-Service (DaaS)\nWork with the team to build DaaS, a shared multi-agent platform that automates DevOps workflows. Agents investigate, triage, and propose changes, while humans review and approve every change before it reaches production.\nSRE / Incident investigation:\nagents triggered by alerts or Slack investigate incidents across metrics, logs, and event streams, return a root-cause analysis with every finding cited to its source, and propose fixes as merge requests.\nRequest handling & service delivery:\nturn developer requests from Slack or a self-service portal into golden-path services and GitOps configuration, delivered as merge requests for review.\nSecurity finding triage:\ntriage and prioritise findings from scanners and cloud security tools, attach evidence, and propose remediations.\nSecond Brain:\na knowledge layer over services, repositories, wiki, and runbooks that answers questions about our infrastructure with source and freshness attached, for both engineers and agents.\nAgent safety & governance:\nbuild the guardrails that make agents safe near production, including allow-listed tool access, credential isolation from the agent layer, human-in-the-loop approvals, full audit trails, per-run cost budgets, and prompt-injection defenses.\nAgent quality & LLMOps:\nmaintain evaluation sets that gate agent releases in CI, and operate the model gateway and LLM observability stack (LiteLLM, Langfuse).\nGeneral\nStay up to date with security threats, vulnerabilities, and technology trends, including AI-specific risks.\nEducate and mentor teams on secure coding and DevSecOps principles.\nRequirements\nBachelor’s degree in Computer Science, Information Security, or related field, or equivalent experience.\n3+ years of experience in DevOps (Intermediate), 5+ years (Senior).\nHands-on experience with AWS (EKS, IAM, networking) or a similar cloud.\nExpertise in CI/CD tools (GitLab CI, GitHub Actions, Jenkins).\nStrong Python skills; Bash scripting.\nExperience with Docker and Kubernetes in production.\nExperience with infrastructure as code (Terraform, Ansible, or similar).\nExperience with DevSecOps security toolchains (SAST, DAST, SonarQube, dependency and image scanning) and server hardening.\nExperience with secrets management and IAM least-privilege design.\nExperience in vulnerability management and incident response.\nHands-on experience using LLMs in real projects (APIs, prompt engineering, tool calling).\nStrong problem-solving, communication, and collaboration skills, with a proactive, continuously learning mindset.\nPreferred Qualifications\nProfessional certifications (AWS, CKA / CKS).\nExperience with GitOps (ArgoCD) and observability tooling (Prometheus, Grafana, ELK).\nExperience building LLM agents or multi-agent systems (LangGraph, LangChain, or similar), MCP, and agent evaluation.\nFamiliarity with LLM gateways and observability (LiteLLM, Langfuse).\nKnowledge of AI security risks (OWASP Top 10 for LLM Applications).\nKnowledge of compliance frameworks (PCI DSS, ISO 27001, ISO/IEC 27018, GDPR).\nWhat We Offer\nCompetitive salary and benefits.\nFlexible work environment.\nOpportunities for professional growth and training.\nCollaborative team culture.\nThe chance to make a meaningful impact on our products and security posture.",
     "salary": "Thỏa thuận",
     "posted_date": "3 weeks ago",
-    "posted_timestamp": 1791743636,
+    "posted_timestamp": 1791758652,
     "posted_date_display": "11/10/2026 (3 tuần trước)",
     "tags": [
       "DevSecOps"
@@ -4141,34 +4149,19 @@
     "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
     "url": "https://vn.linkedin.com/jobs/view/devsecops-and-platform-engineer-at-trusting-social-4467148692",
     "source": "LinkedIn",
-    "raw_description": "Trusting Social is an AI Fintech pioneer that's revolutionizing credit access in emerging markets. Our mission is \"Advancing AI to Meet the Financial Needs of Everyday Consumers with Empathy.\" We've assessed over 1 billion consumers across four countries, and we're on a mission to provide 100 million credit lines using the power of AI and Big Data.\nHow You'll Make an Impact\nThe SRE team operates the backbone of a multi-cloud, AI-driven fintech platform — running Kubernetes clusters, CI/CD pipelines, cloud infrastructure, and security tooling across GCP, AWS, and Azure at real production scale. As a DevSecOps & Platform Engineer, you own significant slices of the security, platform, and automation layers that development and AI/ML teams depend on every day. You operate independently on well-scoped problems, take end-to-end ownership of your domains, and are trusted to design and ship changes to production systems.\nWhat You'll Do\nSecurity & DevSecOps Operations\nOwn security tooling end-to-end: design, deploy, configure, and validate WAF rules, GitHub Advanced Security scans, and CI/CD security gates — verifying they catch what they’re meant to catch, then tuning them to reduce noise.\nDrive vulnerability management across applications, infrastructure, and containers; triage CVEs by real risk, track them to closure, and improve the process so nothing slips.\nBuild and maintain log collection and normalization from multiple sources (applications, infrastructure, security tools) and design alerting for SOC/SRE/DevSecOps..\nPlatform & Cloud Infrastructure\nOperate and improve Kubernetes workloads: deploy applications, diagnose pod and service issues, and go beyond the runbook — extending and authoring runbooks as you resolve novel failures.\nDesign and maintain Infrastructure as Code (Terraform) for real cloud resources across AWS, GCP, and Azure, holding DevSecOps/SRE standards as the baseline and raising it where it’s weak.\nSupport and harden the AI Platform: ensure the resources, tooling, and environments AI/ML teams need for experiments, training, and inference are provisioned, secure, and reliable.\nAutomation & CI/CD\nBuild and own automation in Python, Golang, TypeScript, or Bash that removes manual work across provisioning, health checks, security checks, billing data collection, and asset inventory — owning the outcome, not just the code.\nImprove CI/CD pipelines on GitHub Actions: add and maintain lint, SAST, and dependency-scan stages, ensuring the gates actually block bad changes rather than merely running.\nMonitoring & Incident Response\nOwn monitoring for your systems through Prometheus, Grafana, and Datadog; act on alerts, surface patterns, and cut false positives.\nTake a defined role in incident response: drive log/data collection, write accurate timelines, contribute to root-cause analysis, and update runbooks so the team learns from every event.\nWhat We're Looking For\nExperience & Background\n5+ years of hands-on experience in Cloud (AWS, GCP, or Azure), DevOps, SRE, Security, or Automation — or equivalent depth demonstrated through substantial personal projects and open-source contributions.\nDegree in Computer Science, Information Technology, Computer Engineering, Cybersecurity, or a related field, or equivalent practical experience.\nHow You Work\nYou use AI tools actively — crafting clear prompts, evaluating outputs critically, and applying AI to move faster and cover more ground across security analysis, script generation, and documentation.\nYou take initiative without being directed: when you identify a gap in a pipeline, a missing alert, or an undocumented process, you raise it and propose a fix rather than waiting for someone to assign it.\nYou connect knowledge across domains — security principles, infrastructure thinking, and scripting fluency work together in how you approach a problem, not in separate silos.\nYou invest in your own growth as a daily practice: you read documentation to answer your own questions first, test in sandboxes before asking, and bring what you learn back into the work.\nYou communicate with precision and awareness of downstream impact — in runbooks, incident notes, and async channels where clarity is not optional.\nSkills & Competencies\nDomain Expert — Builds repeatable, documented processes for security and platform tasks; doesn't leave a task \"done\" if the next person couldn't reproduce it.\nAI Operator — Monitors the quality of configurations, scripts, and pipelines under their ownership; catches drift early rather than waiting for an alert to fire.\nPlatform Guardian — Treats guardrails and audit trails as part of the deliverable, not an afterthought; security checks go into the pipeline before deployment.\nLinux command line proficiency: SSH, filesystem, basic networking commands.\nContainerization: Docker (build, run, optimize images; docker-compose is a plus).\nBasic scripting in at least one language: Python, Golang, or TypeScript/JavaScript (Bash is a plus).\nBasic understanding of at least one cloud platform: AWS, GCP, or Azure.\nFamiliarity with Kubernetes (pods, deployments, services), CI/CD tools (GitHub Actions, GitLab CI), and Git workflows is a plus; Terraform or SAST/DAST tool experience is an advantage.\nStrong English communication skills (spoken and written — professional fluency required).\nHigh adaptability and comfort operating in fast-paced, ambiguous environments.\nWhat We Offer\nJoin our vibrant team and enjoy:\nOpportunity to work and learn from one of the best and brightest technology teams in Vietnam\nBe part of a winning team with exponential growth regionally, experience recruiting world-class talents\nCompetitive compensation package, including 13th-month salary and performance bonuses\nComprehensive health care coverage for you and your dependents\nGenerous leave policies, including annual leave, sick leave, and flexible work hours\nConvenient central district 1 office location, next to a future metro station\nOn-site lunch with multiple options, including vegetarian\nGrab for work allowance and fully equipped workstations\nFun and engaging team-building activities, sponsored sports clubs, and happy hour every Thursday\nUnlimited free coffee, tea, snacks, and fruit to keep you energized\nAn opportunity to make a social impact by helping to democratize credit access in emerging markets\nAt Trusting Social, we live by ownership, integrity, and agility in execution. We believe in doing what's right, what's best, and what's innovative. If you're smart, driven, and want to make a difference in the world with the most advanced and fascinating technology, come join our team. We offer the runway to truly make an impact.\nLearn More About Us\nhttps://trustingsocial.com\nhttps://www.youtube.com/watch?v=inAEDGvOcL8&t=29s",
+    "raw_description": "DevSecOps and Platform Engineer",
     "salary": "Thỏa thuận",
     "posted_date": "1 month ago",
-    "posted_timestamp": 1790966036,
+    "posted_timestamp": 1790981052,
     "posted_date_display": "02/10/2026 (1 tháng trước)",
     "tags": [
       "DevSecOps"
     ],
     "track": "Cloud Security / DevSecOps",
-    "extracted_skills": [
-      "Incident Response",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Kubernetes / K8s",
-      "Docker / Containers",
-      "Terraform (IaC)",
-      "CI/CD Pipelines",
-      "SAST / DAST",
-      "Python",
-      "Golang",
-      "Bash / Shell Scripting"
-    ],
-    "extracted_certs": [
-      "AWS Certified Security"
-    ],
+    "extracted_skills": [],
+    "extracted_certs": [],
     "english_level": "Not Specified",
-    "experience_years": "Senior"
+    "experience_years": "Mid-Level"
   },
   {
     "id": "vietnamworks_2100245",
@@ -9237,19 +9230,34 @@
     "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
     "url": "https://vn.linkedin.com/jobs/view/devsecops-engineer-hybrid-hcm-at-findicia-4459484897",
     "source": "LinkedIn",
-    "raw_description": "DevSecOps Engineer (Hybrid HCM)",
+    "raw_description": "Ready for the next big challenge? Grow your career, and join our experienced global team, transforming the world of M&A software. Be part of the team behind the teams behind the deals. Work with the best. Be the best.\nAccountabilities\nPosition Summary\nThe DevSecOps Engineer (Product Security Engineer) is responsible for supporting the organization's Product Security program by partnering with software engineering teams to identify, assess, and remediate application security risks throughout the Software Development Lifecycle (SDLC). This role performs application security assessments, supports secure design and development practices, and helps integrate security into modern development and DevSecOps processes.\nIn addition to product security responsibilities, the engineer will receive cross-training and provide operational support to the Security Operations team, gaining experience in areas such as security monitoring, vulnerability management, and incident response. This role offers an excellent opportunity for a security professional to develop broad technical expertise while contributing to the protection of the organization's applications, infrastructure, and information assets.\nDuties And Responsibilities\nReview and validate findings from Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Software Composition Analysis (SCA), and container security tools.\nPartner with software engineering teams to identify, prioritize, and remediate application security vulnerabilities.\nParticipate in secure architecture reviews, design reviews, and threat modeling exercises throughout the Software Development Lifecycle (SDLC).\nSupport penetration testing activities and assist with remediation tracking and validation.\nIntegrate and promote security best practices within CI/CD pipelines and DevSecOps processes.\nAssist in developing and maintaining secure coding standards, application security guidance, and security documentation.\nResearch emerging application security threats and recommend appropriate mitigations.\nCollaborate with Product Security, Engineering, DevOps, and Infrastructure teams to continuously improve the organization's application security posture.\nAssist with security monitoring, alert triage, and investigation of potential security events.\nParticipate in incident response activities, including investigation, containment, recovery, and post-incident reviews.\nSupport enterprise vulnerability management activities across applications and infrastructure.\nAssist with maintaining security tools, documentation, and operational procedures.\nParticipate in security awareness initiatives, tabletop exercises, and continuous improvement efforts.\nCrosstrain with the Security Operations team to support operational security processes and technologies.\nQualifications\nSolid understanding of secure software development lifecycle (SSDLC) principles and secure coding practices.\nWorking knowledge of common application security vulnerabilities, including the OWASP Top 10 and secure design principles.\nFamiliarity with application security testing tools, including SAST, DAST, SCA, and vulnerability management platforms.\nExperience with one or more programming or scripting languages such as Java, C#, JavaScript, Python, Go, PowerShell, or Bash.\nUnderstanding of RESTful APIs, web application architectures, and modern software development methodologies.\nFamiliarity with source code management systems (Git) and CI/CD pipelines.\nKnowledge of cloud platforms (AWS, Azure, or Google Cloud) and container technologies (Docker, Kubernetes) is preferred.\nFamiliarity with security monitoring technologies such as SIEM, EDR, or SOAR platforms is preferred.\nStrong analytical, problem-solving, and troubleshooting skills.\nExcellent communication and interpersonal skills with the ability to collaborate effectively across technical teams.\nAbility to manage multiple priorities while maintaining attention to detail.\nStrong written and verbal English communication skills.\nEducation\nBachelor's degree in Computer Science, Information Security, Cybersecurity, Information Technology, Software Engineering, or related technical discipline.\nRelevant industry certifications such as CompTIA Security+, CSSLP, GWAPT, OSWE, or similar certifications are considered a plus.\nExperience\n2–5 years of experience in Application Security, Software Development, Information Security, Software Engineering, or related technical discipline.\nRelevant industry certifications such as CompTIA Security+, CSSLP, GWAPT, OSWE, or similar certifications are considered a plus.",
     "salary": "Thỏa thuận",
     "posted_date": "2 months ago",
-    "posted_timestamp": 1788374036,
+    "posted_timestamp": 1788389052,
     "posted_date_display": "02/09/2026 (2 tháng trước)",
     "tags": [
       "DevSecOps"
     ],
     "track": "Cloud Security / DevSecOps",
-    "extracted_skills": [],
+    "extracted_skills": [
+      "Incident Response",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Kubernetes / K8s",
+      "Docker / Containers",
+      "CI/CD Pipelines",
+      "SAST / DAST",
+      "Threat Modeling",
+      "OWASP Top 10",
+      "Python",
+      "Golang",
+      "Bash / Shell Scripting",
+      "SOAR / Playbooks"
+    ],
     "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Mid-Level"
+    "english_level": "Fluent / Advanced",
+    "experience_years": "Senior"
   },
   {
     "id": "linkedin_4458641206",
@@ -9258,19 +9266,34 @@
     "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
     "url": "https://vn.linkedin.com/jobs/view/security-engineer-application-security-hybrid-hcm-at-findicia-4458641206",
     "source": "LinkedIn",
-    "raw_description": "Security Engineer (Application Security | Hybrid HCM)",
+    "raw_description": "Ready for the next big challenge? Grow your career, and join our experienced global team, transforming the world of M&A software. Be part of the team behind the teams behind the deals. Work with the best. Be the best.\nAccountabilities\nPosition Summary\nThe Product Security Engineer is responsible for supporting the organization's Product Security program by partnering with software engineering teams to identify, assess, and remediate application security risks throughout the Software Development Lifecycle (SDLC). This role performs application security assessments, supports secure design and development practices, and helps integrate security into modern development and DevSecOps processes.\nIn addition to product security responsibilities, the engineer will receive cross-training and provide operational support to the Security Operations team, gaining experience in areas such as security monitoring, vulnerability management, and incident response. This role offers an excellent opportunity for a security professional to develop broad technical expertise while contributing to the protection of the organization's applications, infrastructure, and information assets.\nDuties And Responsibilities\nReview and validate findings from Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Software Composition Analysis (SCA), and container security tools.\nPartner with software engineering teams to identify, prioritize, and remediate application security vulnerabilities.\nParticipate in secure architecture reviews, design reviews, and threat modeling exercises throughout the Software Development Lifecycle (SDLC).\nSupport penetration testing activities and assist with remediation tracking and validation.\nIntegrate and promote security best practices within CI/CD pipelines and DevSecOps processes.\nAssist in developing and maintaining secure coding standards, application security guidance, and security documentation.\nResearch emerging application security threats and recommend appropriate mitigations.\nCollaborate with Product Security, Engineering, DevOps, and Infrastructure teams to continuously improve the organization's application security posture.\nAssist with security monitoring, alert triage, and investigation of potential security events.\nParticipate in incident response activities, including investigation, containment, recovery, and post-incident reviews.\nSupport enterprise vulnerability management activities across applications and infrastructure.\nAssist with maintaining security tools, documentation, and operational procedures.\nParticipate in security awareness initiatives, tabletop exercises, and continuous improvement efforts.\nCrosstrain with the Security Operations team to support operational security processes and technologies.\nQualifications\nSolid understanding of secure software development lifecycle (SSDLC) principles and secure coding practices.\nWorking knowledge of common application security vulnerabilities, including the OWASP Top 10 and secure design principles.\nFamiliarity with application security testing tools, including SAST, DAST, SCA, and vulnerability management platforms.\nExperience with one or more programming or scripting languages such as Java, C#, JavaScript, Python, Go, PowerShell, or Bash.\nUnderstanding of RESTful APIs, web application architectures, and modern software development methodologies.\nFamiliarity with source code management systems (Git) and CI/CD pipelines.\nKnowledge of cloud platforms (AWS, Azure, or Google Cloud) and container technologies (Docker, Kubernetes) is preferred.\nFamiliarity with security monitoring technologies such as SIEM, EDR, or SOAR platforms is preferred.\nStrong analytical, problem-solving, and troubleshooting skills.\nExcellent communication and interpersonal skills with the ability to collaborate effectively across technical teams.\nAbility to manage multiple priorities while maintaining attention to detail.\nStrong written and verbal English communication skills.\nEducation\nBachelor's degree in Computer Science, Information Security, Cybersecurity, Information Technology, Software Engineering, or related technical discipline.\nRelevant industry certifications such as CompTIA Security+, CSSLP, GWAPT, OSWE, or similar certifications are considered a plus.\nExperience\n2–5 years of experience in Application Security, Software Development, Information Security, Software Engineering, or related technical discipline.\nRelevant industry certifications such as CompTIA Security+, CSSLP, GWAPT, OSWE, or similar certifications are considered a plus.",
     "salary": "Thỏa thuận",
     "posted_date": "2 months ago",
-    "posted_timestamp": 1788374036,
+    "posted_timestamp": 1788389052,
     "posted_date_display": "02/09/2026 (2 tháng trước)",
     "tags": [
       "Application Security"
     ],
     "track": "AppSec / Product Security",
-    "extracted_skills": [],
+    "extracted_skills": [
+      "Incident Response",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Kubernetes / K8s",
+      "Docker / Containers",
+      "CI/CD Pipelines",
+      "SAST / DAST",
+      "Threat Modeling",
+      "OWASP Top 10",
+      "Python",
+      "Golang",
+      "Bash / Shell Scripting",
+      "SOAR / Playbooks"
+    ],
     "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Mid-Level"
+    "english_level": "Fluent / Advanced",
+    "experience_years": "Senior"
   },
   {
     "id": "linkedin_4449069528",
