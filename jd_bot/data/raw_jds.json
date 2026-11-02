@@ -348,9 +348,9 @@
     "source": "CareerViet",
     "raw_description": "Phúc lợi\nChế độ bảo hiểm\nDu Lịch\nPhụ cấp\nChế độ thưởng\nChăm sóc sức khỏe\nĐào tạo\nTăng lương\nCông tác phí\nNghỉ phép năm",
     "salary": "Cạnh tranh",
-    "posted_date": "6",
-    "posted_timestamp": 1793573052,
-    "posted_date_display": "6",
+    "posted_date": "5",
+    "posted_timestamp": 1793586021,
+    "posted_date_display": "5",
     "tags": [
       "an-toan-thong-tin"
     ],
@@ -370,7 +370,7 @@
     "raw_description": "Phúc lợi",
     "salary": "Cạnh tranh",
     "posted_date": "3",
-    "posted_timestamp": 1793573052,
+    "posted_timestamp": 1793586021,
     "posted_date_display": "3",
     "tags": [
       "an-toan-thong-tin"
@@ -391,7 +391,7 @@
     "raw_description": "Phúc lợi\nChế độ bảo hiểm\nDu Lịch\nChế độ thưởng\nChăm sóc sức khỏe\nĐào tạo\nTăng lương",
     "salary": "Cạnh tranh",
     "posted_date": "1",
-    "posted_timestamp": 1793573052,
+    "posted_timestamp": 1793586021,
     "posted_date_display": "1",
     "tags": [
       "an-toan-thong-tin"
@@ -451,6 +451,27 @@
     ],
     "english_level": "Not Specified",
     "experience_years": "Lead / Manager"
+  },
+  {
+    "id": "linkedin_4483414953",
+    "title": "Senior Security Engineer",
+    "company": "MoMo (M_Service)",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/senior-security-engineer-at-momo-m-service-4483414953",
+    "source": "LinkedIn",
+    "raw_description": "Senior Security Engineer",
+    "salary": "Thỏa thuận",
+    "posted_date": "2 days ago",
+    "posted_timestamp": 1793413221,
+    "posted_date_display": "31/10/2026 (2 ngày trước)",
+    "tags": [
+      "Security Engineer"
+    ],
+    "track": "Security Engineering & Infrastructure",
+    "extracted_skills": [],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Senior"
   },
   {
     "id": "linkedin_4485285486",
@@ -529,45 +550,6 @@
     ],
     "english_level": "Not Specified",
     "experience_years": "Lead / Manager"
-  },
-  {
-    "id": "linkedin_4483414953",
-    "title": "Senior Security Engineer",
-    "company": "MoMo (M_Service)",
-    "location": "Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/senior-security-engineer-at-momo-m-service-4483414953",
-    "source": "LinkedIn",
-    "raw_description": "About the job\nThe\nSenior Security Engineer\nis responsible for protecting the organization's entire information system against cybersecurity threats, while also spearheading the application of AI in SIEM/SOAR log analysis and forensic investigation to improve detection and incident response efficiency (reducing MTTI).\nResponsibilities\nSecurity Operations & Infrastructure\nRecommend, design, manage, and document system security requirements; configure and troubleshoot security infrastructure\nEnsure management and the BOD are notified promptly of security incidents\nRun security tests (audit/pentest) on web, mobile, and desktop applications; identify and exploit vulnerabilities\nReview code/application flows and recommend fixes; work with teams to remediate vulnerabilities and meet compliance standards\nInvestigate security incidents and produce findings reports\nKnowledge Sharing & Governance\nResearch emerging threats and techniques (hacking, malware, bug bounty, etc.)\nWrite security best-practice standards for developers; train staff to enforce security policy\nAI Integration into Security (Claude-Powered)\nDesign Claude-integrated workflows for alert triage, log analysis, and incident investigation across SIEM/SOAR platforms (Splunk, QRadar, Elastic, XSOAR)\nBuild prompt engineering pipelines to parse, correlate, and summarize logs, reducing analyst workload and MTTI\nDevelop playbooks that turn raw alerts into structured incident summaries, root-cause hypotheses, and response recommendations\nEnable natural-language log querying so analysts can investigate without deep SPL/KQL expertise\nAuto-generate incident reports, threat intel summaries, and post-mortems from raw event data\nManage Claude API integrations, context windows, and token efficiency; refine prompts via analyst feedback loops\nDigital Forensics\nApply memory analysis, disk imaging, log correlation, and timeline reconstruction to investigate breaches\nConduct malware analysis and reverse engineering to identify attack vectors and build detection signatures\nMaintain forensic chain of custody per legal/compliance requirements; produce forensic reports for management, legal, and regulators\nRequirements\nExperience & Core Knowledge\nProven experience as a System/Information Security Engineer; solid grasp of CIA principles (Confidentiality, Integrity, Availability)\nUnderstanding of complex, cross-platform system architectures; experience in risk assessment and system hardening\nNetworking & Infrastructure\nDeep networking knowledge: switching, routing, encryption/tunneling protocols (IPSec, SSL VPN, TLS, GRE)\nExperience with security systems — firewalls, IDS, anti-virus, IAM/PAM, NAC, log management, content filtering, DLP — on both commercial and open-source platforms\nIn-depth Linux knowledge (RedHat, CentOS, Debian); experience managing patches/upgrades on servers, workstations, and network hardware\nFamiliarity with web technologies (web apps, web services, SOA) and related protocols; AWS/cloud (PaaS) security\nCompliance & Governance\nExperience with PCI DSS/SOX audit processes; able to write SOPs and BCP plans\nFamiliar with ITIL/ITSM; able to work well under pressure\nTechnical Skills\nScripting proficiency: Bash, Python, or PowerShell\nCertifications (Preferred)\nCEH, CISSP, CSP, CCNP Security, or equivalent\nAI Integration (Claude-Powered)\nHands-on experience with LLM APIs, especially Claude API, for automation/analysis workflows\nPrompt engineering skills for structured security tasks (log summarization, alert triage, threat narratives)\nExperience with SIEM/SOAR query languages (SPL, KQL, AQL); strong Python for parsing log formats (CEF, LEEF, JSON, syslog) and managing context/token budgets\nUnderstanding of RAG patterns and human-in-the-loop validation workflows\nDigital Forensics\nHands-on with forensics tools (Autopsy, Volatility, FTK, Wireshark); experience with MITRE ATT&CK\nKnowledge of malware analysis (static/dynamic); GCFE/GCFA/GREM a plus",
-    "salary": "Thỏa thuận",
-    "posted_date": "2 days ago",
-    "posted_timestamp": 1793385236,
-    "posted_date_display": "30/10/2026 (2 ngày trước)",
-    "tags": [
-      "Security Engineer"
-    ],
-    "track": "Security Engineering & Infrastructure",
-    "extracted_skills": [
-      "Digital Forensics & Artifacts",
-      "Memory Forensics (Volatility)",
-      "Malware Analysis / Reverse Engineering",
-      "Incident Response",
-      "AWS",
-      "Python",
-      "Bash / Shell Scripting",
-      "SOAR / Playbooks",
-      "REST API Integration",
-      "PCI-DSS",
-      "Risk Assessment",
-      "Penetration Testing"
-    ],
-    "extracted_certs": [
-      "SANS GCFA / GCIH / GREM",
-      "AWS Certified Security",
-      "CEH",
-      "CISSP"
-    ],
-    "english_level": "Not Specified",
-    "experience_years": "Senior"
   },
   {
     "id": "linkedin_4485322193",
@@ -682,11 +664,11 @@
     "source": "LinkedIn",
     "raw_description": "JOB OVERVIEW\nWe are /looking for 03 SOC Tier 2/3 to join SAS - Cyber Security Assurance Service Teams. As a provider of cybersecurity services, SAS focuses on three key areas:\nApplication Security\n– including consulting and assessment services to ensure the security of applications;\nSecurity Engineering\n– offering consulting, design, and development of security systems, with a strong focus on cloud platforms such as AWS and Azure;\nManaged Security Services\n– delivering outsourced solutions for the operation, monitoring, threat detection, and incident response in information security.\nAt SAS, we not only deliver high-quality solutions but also create a dynamic and growth-oriented working environment:\nOpportunities to learn and develop through training programs, certifications, and real project experience\nFinancial support of up to $2,000 per year for at least two professional certificates\nWork exclusively with international clients from the EU, US, Japan, Korea, Singapore, and more\nOpportunities for onsite assignments abroad, both short-term and long-term.\nRESPONSIBILITIES\nPerform advanced log analysis and threat hunting using SIEM and related tools.\nTriage and analyze Tier 1 escalations, distinguish false/true positives, and refine detection rules.\nLead incident investigations using SIEM, EDR, XDR, SASE, etc., including evidence collection and impact assessment.\nHandle a range of security incidents from common alerts to complex/targeted attacks.\nProduce clear incident reports and communicate findings to technical and non-technical stakeholders.\nCollaborate with SOC, IR, Threat Intelligence, and IT to improve detections, playbooks, and response processes.\nMentor junior analysts and provide technical guidance on complex cases.\nREQUIREMENTS\nBachelor’s degree in Information Security, IT, Computer Science, or related field (or equivalent experience).\n3+ years in a SOC or similar cybersecurity role;\nHands-on experience with SIEM and EDR; familiarity with XDR/SASE is a plus.\nGood knowledge of MITRE ATT&CK, NIST IR, Cyber Kill Chain, OSCAR, and incident response lifecycle.\nExperience handling at least moderate-level security incidents; basic malware analysis capability.\nAbility to script in Python, Bash, PowerShell, or similar for operational support and automation.\nSolid incident handling and response skills.\nClear technical communication and presentations.\nCritical thinking and analytical mindset.\nGood English communication skills.\nPreferred\nCertifications: GMON, GCFA, CHFI, SOC-200, CDSA, or equivalent.\nExperience with APT and significant malware incidents.\nEnd-to-end incident management experience.\nWHAT COMPANY OFFERS\nSalary range: upto 800M/year\nPerformance-based bonuses up to 1–3 months' salary\nFPT Care insurance plan tailored for FPT employees\nAttractive annual summer vacation allowance\nSponsored training courses for personal growth and up to 100% coverage for certification costs\nGlobal and inclusive workplace with monthly cross-cultural events\nInternational exposure and career growth across global locations\nWork-life balance benefits with a flexible leave policy and annual health check-ups to support employee well-being",
     "salary": "Thỏa thuận",
-    "posted_date": "2 days ago",
-    "posted_timestamp": 1793339385,
-    "posted_date_display": "30/10/2026 (2 ngày trước)",
+    "posted_date": "3 days ago",
+    "posted_timestamp": 1793326821,
+    "posted_date_display": "30/10/2026 (3 ngày trước)",
     "tags": [
-      "DFIR"
+      "Incident Response"
     ],
     "track": "SOC Operations & Monitoring",
     "extracted_skills": [
@@ -703,6 +685,27 @@
     ],
     "english_level": "Intermediate",
     "experience_years": "Lead / Manager"
+  },
+  {
+    "id": "linkedin_4484929663",
+    "title": "Senior Security Engineer",
+    "company": "UrBox - Digital Rewards & Loyalty Solution",
+    "location": "Hanoi Capital Region",
+    "url": "https://vn.linkedin.com/jobs/view/senior-security-engineer-at-urbox-digital-rewards-loyalty-solution-4484929663",
+    "source": "LinkedIn",
+    "raw_description": "Senior Security Engineer",
+    "salary": "Thỏa thuận",
+    "posted_date": "3 days ago",
+    "posted_timestamp": 1793326821,
+    "posted_date_display": "30/10/2026 (3 ngày trước)",
+    "tags": [
+      "Security Engineer"
+    ],
+    "track": "Security Engineering & Infrastructure",
+    "extracted_skills": [],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Senior"
   },
   {
     "id": "linkedin_4484932453",
@@ -747,48 +750,6 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Lead / Manager"
-  },
-  {
-    "id": "linkedin_4484929663",
-    "title": "Senior Security Engineer",
-    "company": "UrBox - Digital Rewards & Loyalty Solution",
-    "location": "Hanoi Capital Region",
-    "url": "https://vn.linkedin.com/jobs/view/senior-security-engineer-at-urbox-digital-rewards-loyalty-solution-4484929663",
-    "source": "LinkedIn",
-    "raw_description": "Senior Security Engineer",
-    "salary": "Thỏa thuận",
-    "posted_date": "3 days ago",
-    "posted_timestamp": 1793298836,
-    "posted_date_display": "29/10/2026 (3 ngày trước)",
-    "tags": [
-      "Cloud Security"
-    ],
-    "track": "Security Engineering & Infrastructure",
-    "extracted_skills": [],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Senior"
-  },
-  {
-    "id": "linkedin_4484784316",
-    "title": "Middle/Senior Cyber Security Engineer",
-    "company": "Orient Software Development Corp.",
-    "location": "Da Nang City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/middle-senior-cyber-security-engineer-at-orient-software-development-corp-4484784316",
-    "source": "LinkedIn",
-    "raw_description": "Middle/Senior Cyber Security Engineer",
-    "salary": "Thỏa thuận",
-    "posted_date": "3 days ago",
-    "posted_timestamp": 1793298836,
-    "posted_date_display": "29/10/2026 (3 ngày trước)",
-    "tags": [
-      "Security Engineer"
-    ],
-    "track": "Security Engineering & Infrastructure",
-    "extracted_skills": [],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Senior"
   },
   {
     "id": "linkedin_4484170173",
@@ -894,6 +855,27 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Mid-Level"
+  },
+  {
+    "id": "linkedin_4484784316",
+    "title": "Middle/Senior Cyber Security Engineer",
+    "company": "Orient Software Development Corp.",
+    "location": "Da Nang City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/middle-senior-cyber-security-engineer-at-orient-software-development-corp-4484784316",
+    "source": "LinkedIn",
+    "raw_description": "Middle/Senior Cyber Security Engineer",
+    "salary": "Thỏa thuận",
+    "posted_date": "4 days ago",
+    "posted_timestamp": 1793240421,
+    "posted_date_display": "29/10/2026 (4 ngày trước)",
+    "tags": [
+      "Security Engineer"
+    ],
+    "track": "Security Engineering & Infrastructure",
+    "extracted_skills": [],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Senior"
   },
   {
     "id": "linkedin_4476577039",
@@ -1277,9 +1259,9 @@
     "source": "LinkedIn",
     "raw_description": "Your day at NTT DATA\nWe are looking for an experienced SOC Analyst Tier 2 to handle escalated security incidents, conduct deep-dive investigations, and drive incident containment. You will act as a bridge between frontline monitoring and advanced threat response, utilizing modern SIEM/EDR platforms to protect our enterprise environments.\nA/ Key Responsibilities\nIncident Investigation & Triage:\nInvestigate and validate security alerts escalated from SOC Tier 1 across SIEM, EDR, and network platforms.\nPerform root cause analysis, correlation, and attack chain reconstruction to determine scope and impact.\nIncident Response & Containment:\nLead containment, eradication, and recovery actions during active incidents following standard frameworks (NIST/SANS).\nAnalyze system logs (Windows/Linux), network traffic, and collect digital artifacts for evidence.\nThreat Detection & Tuning:\nMap attacker techniques using the MITRE ATT&CK framework and analyze Threat Intelligence (IOCs/IOAs).\nTune SIEM rules, optimize detection content, and reduce false positives to improve alert accuracy.\nDocumentation & Collaboration:\nWrite professional incident reports and technical documentation in English.\nCollaborate with global stakeholders, support customer audits, and mentor Tier 1 analysts.\nB/ Required Qualifications\n1. Education & Experience\nEducation: Bachelor’s Degree in Cybersecurity, IT, Computer Science, or related fields.\nExperience: 3 – 5 years of hands-on experience in a Security Operations Center (SOC) or Incident Response role.\n2. Technical Skills\nSecurity Platforms:\nProficiency with major SIEM solutions (e.g., Microsoft Sentinel, Splunk) and EDR tools (e.g., CrowdStrike Falcon, Microsoft Defender for Endpoint).\nOS & Networking:\nSolid working knowledge of Windows Event Logs, Linux Syslogs, Active Directory, TCP/IP, DNS, and Firewalls.\nFrameworks & Methodologies:\nPractical understanding of the NIST Incident Response lifecycle and MITRE ATT&CK mapping.\nScripting & Querying:\nBasic foundational skills in scripting/query languages (Python, PowerShell, KQL, or SPL) for data parsing and automation.\n3. Language & Soft Skills\nEnglish Proficiency: Strong verbal and written English communication skills for international client interaction and technical reporting.\nProblem-Solving: Strong analytical mindset to connect fragmented indicators under pressure in a fast-paced environment.\n4. Preferred Certifications\nRelevant security certifications such as:\nCompTIA CySA+, GCIH, Microsoft SC-200, or equivalent foundational/intermediate security credentials.\nWork Environment\n24x7 Security Operations Center environment in the future.\nShift-based working schedule, including night shifts and weekends based on operational requirements in the future.\nCollaboration with local, regional, and global cybersecurity teams.\nOpportunity to work with enterprise customers across multiple industries.\nBenefits:\nCompetitive salary package\nExposure to enterprise-scale infrastructure and real production systems.\nTraining and career development toward L3 / System Specialist / Cloud Engineer.\nFull social insurance coverage based on salary.\nProbation with 100% salary.\nAnnual bonuses and regular salary reviews.\nTraining sponsorship for professional courses and certification exams.\nComprehensive healthcare coverage for staff and their families.\nRegular health check-ups.\n15 days of paid annual leave, plus 1 additional day for every 3 years of service, up to 20 days.\nWork Locations:\nHanoi Office:\nGia Lam District (Client’s location)",
     "salary": "Thỏa thuận",
-    "posted_date": "5 days ago",
-    "posted_timestamp": 1793080185,
-    "posted_date_display": "27/10/2026 (5 ngày trước)",
+    "posted_date": "6 days ago",
+    "posted_timestamp": 1793067621,
+    "posted_date_display": "27/10/2026 (6 ngày trước)",
     "tags": [
       "Incident Response"
     ],
@@ -1455,6 +1437,35 @@
     "experience_years": "Lead / Manager"
   },
   {
+    "id": "linkedin_4480687420",
+    "title": "SOC Analyst Tier 2",
+    "company": "NTT DATA, Inc.",
+    "location": "Hanoi, Hanoi, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/soc-analyst-tier-2-at-ntt-data-inc-4480687420",
+    "source": "LinkedIn",
+    "raw_description": "Make an impact with NTT DATA\nJoin a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive.\nYour day at NTT DATA\nWe are looking for an experienced SOC Analyst Tier 2 to handle escalated security incidents, conduct deep-dive investigations, and drive incident containment. You will act as a bridge between frontline monitoring and advanced threat response, utilizing modern SIEM/EDR platforms to protect our enterprise environments.\nKey Responsibilities\nIncident Investigation & Triage:\nInvestigate and validate security alerts escalated from SOC Tier 1 across SIEM, EDR, and network platforms.\nPerform root cause analysis, correlation, and attack chain reconstruction to determine scope and impact.\nIncident Response & Containment:\nLead containment, eradication, and recovery actions during active incidents following standard frameworks (NIST/SANS).\nAnalyze system logs (Windows/Linux), network traffic, and collect digital artifacts for evidence.\nThreat Detection & Tuning:\nMap attacker techniques using the MITRE ATT&CK framework and analyze Threat Intelligence (IOCs/IOAs).\nTune SIEM rules, optimize detection content, and reduce false positives to improve alert accuracy.\nDocumentation & Collaboration:\nWrite professional incident reports and technical documentation in English.\nCollaborate with global stakeholders, support customer audits, and mentor Tier 1 analysts.\nRequired Qualifications\nEducation & Experience\nEducation: Bachelor’s Degree in Cybersecurity, IT, Computer Science, or related fields.\nExperience: 3 – 5 years of hands-on experience in a Security Operations Center (SOC) or Incident Response role.\nTechnical Skills\nSecurity Platforms: Proficiency with major SIEM solutions (e.g., Microsoft Sentinel, Splunk) and EDR tools (e.g., CrowdStrike Falcon, Microsoft Defender for Endpoint).\nOS & Networking: Solid working knowledge of Windows Event Logs, Linux Syslogs, Active Directory, TCP/IP, DNS, and Firewalls.\nFrameworks & Methodologies: Practical understanding of the NIST Incident Response lifecycle and MITRE ATT&CK mapping.\nScripting & Querying: Basic foundational skills in scripting/query languages (Python, PowerShell, KQL, or SPL) for data parsing and automation.\nLanguage & Soft Skills\nEnglish Proficiency: Strong verbal and written English communication skills for international client interaction and technical reporting.\nProblem-Solving: Strong analytical mindset to connect fragmented indicators under pressure in a fast-paced environment.\nPreferred Certifications\nRelevant security certifications such as: CompTIA CySA+, GCIH, Microsoft SC-200, or equivalent foundational/intermediate security credentials.\nWork Environment\n24x7 Security Operations Center environment in the future.\nShift-based working schedule, including night shifts and weekends based on operational requirements in the future.\nCollaboration with local, regional, and global cybersecurity teams.\nOpportunity to work with enterprise customers across multiple industries.\nBenefits:\nCompetitive salary package\nExposure to enterprise-scale infrastructure and real production systems.\nTraining and career development toward L3 / System Specialist / Cloud Engineer.\nFull social insurance coverage based on salary.\nProbation with 100% salary.\nAnnual bonuses and regular salary reviews.\nTraining sponsorship for professional courses and certification exams.\nComprehensive healthcare coverage for staff and their families.\nRegular health check-ups.\n15 days of paid annual leave, plus 1 additional day for every 3 years of service, up to 20 days.\nWork Locations:\nHanoi Office: Room 202, 2nd Floor, HITC Building, 239 Xuan Thuy street, Dich Vong Hau ward, Cau Giay District, Hanoi, Or Gia Lam District (Client’s location)\nWorkplace type:\nAbout NTT DATA\nNTT DATA is a $30+ billion business and technology services leader, serving 75% of the Fortune\nGlobal 100. We are committed to accelerating client success and positively impacting society through\nresponsible innovation. We are one of the world’s leading AI and digital infrastructure providers, with\nunmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and\napplication services. Our consulting and industry solutions help organizations and society move\nconfidently and sustainably into the digital future. As a Global Top Employer, we have experts in more\nthan 70 countries. We also offer clients access to a robust ecosystem of innovation centers as well as\nestablished and start-up partners. NTT DATA is part of NTT Group, which invests over $3 billion each\nyear in R&D.\nEqual Opportunity Employer\nNTT DATA is proud to be an Equal Opportunity Employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, colour, gender, sexual orientation, religion, nationality, disability, pregnancy, marital status, veteran status, or any other protected category. Join our growing global team and accelerate your career with us. Apply today.\nThird parties fraudulently posing as NTT DATA recruiters\nNTT DATA recruiters will never ask job seekers or candidates for payment or banking information during the recruitment process, for any reason. Please remain vigilant of third parties who may attempt to impersonate NTT DATA recruiters whether in writing or by phone in order to deceptively obtain personal data or money from you. All email communications from an NTT DATA recruiter will come from an\n@nttdata.com\nemail address. If you suspect any fraudulent activity, please\ncontact us\n.",
+    "salary": "Thỏa thuận",
+    "posted_date": "1 week ago",
+    "posted_timestamp": 1792981221,
+    "posted_date_display": "26/10/2026 (1 tuần trước)",
+    "tags": [
+      "Incident Response"
+    ],
+    "track": "SOC Operations & Monitoring",
+    "extracted_skills": [
+      "Incident Response",
+      "Python",
+      "Bash / Shell Scripting",
+      "NIST CSF",
+      "Active Directory Security"
+    ],
+    "extracted_certs": [
+      "SANS GCFA / GCIH / GREM"
+    ],
+    "english_level": "Fluent / Advanced",
+    "experience_years": "Lead / Manager"
+  },
+  {
     "id": "careerviet_35C8A585",
     "title": "Chuyên viên/CVCC Vận Hành Quản Trị An Toàn Thông Tin",
     "company": "Công Ty CP Chứng Khoán VNDIRECT",
@@ -1465,7 +1476,7 @@
     "salary": "Cạnh tranh",
     "posted_date": "26-10-2026",
     "posted_timestamp": 1792972800,
-    "posted_date_display": "26/10/2026 (6 ngày trước)",
+    "posted_date_display": "26/10/2026 (7 ngày trước)",
     "tags": [
       "an-toan-thong-tin"
     ],
@@ -1495,35 +1506,6 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Mid-Level"
-  },
-  {
-    "id": "linkedin_4480687420",
-    "title": "SOC Analyst Tier 2",
-    "company": "NTT DATA, Inc.",
-    "location": "Hanoi, Hanoi, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/soc-analyst-tier-2-at-ntt-data-inc-4480687420",
-    "source": "LinkedIn",
-    "raw_description": "Make an impact with NTT DATA\nJoin a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive.\nYour day at NTT DATA\nWe are looking for an experienced SOC Analyst Tier 2 to handle escalated security incidents, conduct deep-dive investigations, and drive incident containment. You will act as a bridge between frontline monitoring and advanced threat response, utilizing modern SIEM/EDR platforms to protect our enterprise environments.\nKey Responsibilities\nIncident Investigation & Triage:\nInvestigate and validate security alerts escalated from SOC Tier 1 across SIEM, EDR, and network platforms.\nPerform root cause analysis, correlation, and attack chain reconstruction to determine scope and impact.\nIncident Response & Containment:\nLead containment, eradication, and recovery actions during active incidents following standard frameworks (NIST/SANS).\nAnalyze system logs (Windows/Linux), network traffic, and collect digital artifacts for evidence.\nThreat Detection & Tuning:\nMap attacker techniques using the MITRE ATT&CK framework and analyze Threat Intelligence (IOCs/IOAs).\nTune SIEM rules, optimize detection content, and reduce false positives to improve alert accuracy.\nDocumentation & Collaboration:\nWrite professional incident reports and technical documentation in English.\nCollaborate with global stakeholders, support customer audits, and mentor Tier 1 analysts.\nRequired Qualifications\nEducation & Experience\nEducation: Bachelor’s Degree in Cybersecurity, IT, Computer Science, or related fields.\nExperience: 3 – 5 years of hands-on experience in a Security Operations Center (SOC) or Incident Response role.\nTechnical Skills\nSecurity Platforms: Proficiency with major SIEM solutions (e.g., Microsoft Sentinel, Splunk) and EDR tools (e.g., CrowdStrike Falcon, Microsoft Defender for Endpoint).\nOS & Networking: Solid working knowledge of Windows Event Logs, Linux Syslogs, Active Directory, TCP/IP, DNS, and Firewalls.\nFrameworks & Methodologies: Practical understanding of the NIST Incident Response lifecycle and MITRE ATT&CK mapping.\nScripting & Querying: Basic foundational skills in scripting/query languages (Python, PowerShell, KQL, or SPL) for data parsing and automation.\nLanguage & Soft Skills\nEnglish Proficiency: Strong verbal and written English communication skills for international client interaction and technical reporting.\nProblem-Solving: Strong analytical mindset to connect fragmented indicators under pressure in a fast-paced environment.\nPreferred Certifications\nRelevant security certifications such as: CompTIA CySA+, GCIH, Microsoft SC-200, or equivalent foundational/intermediate security credentials.\nWork Environment\n24x7 Security Operations Center environment in the future.\nShift-based working schedule, including night shifts and weekends based on operational requirements in the future.\nCollaboration with local, regional, and global cybersecurity teams.\nOpportunity to work with enterprise customers across multiple industries.\nBenefits:\nCompetitive salary package\nExposure to enterprise-scale infrastructure and real production systems.\nTraining and career development toward L3 / System Specialist / Cloud Engineer.\nFull social insurance coverage based on salary.\nProbation with 100% salary.\nAnnual bonuses and regular salary reviews.\nTraining sponsorship for professional courses and certification exams.\nComprehensive healthcare coverage for staff and their families.\nRegular health check-ups.\n15 days of paid annual leave, plus 1 additional day for every 3 years of service, up to 20 days.\nWork Locations:\nHanoi Office: Room 202, 2nd Floor, HITC Building, 239 Xuan Thuy street, Dich Vong Hau ward, Cau Giay District, Hanoi, Or Gia Lam District (Client’s location)\nWorkplace type:\nAbout NTT DATA\nNTT DATA is a $30+ billion business and technology services leader, serving 75% of the Fortune\nGlobal 100. We are committed to accelerating client success and positively impacting society through\nresponsible innovation. We are one of the world’s leading AI and digital infrastructure providers, with\nunmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and\napplication services. Our consulting and industry solutions help organizations and society move\nconfidently and sustainably into the digital future. As a Global Top Employer, we have experts in more\nthan 70 countries. We also offer clients access to a robust ecosystem of innovation centers as well as\nestablished and start-up partners. NTT DATA is part of NTT Group, which invests over $3 billion each\nyear in R&D.\nEqual Opportunity Employer\nNTT DATA is proud to be an Equal Opportunity Employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, colour, gender, sexual orientation, religion, nationality, disability, pregnancy, marital status, veteran status, or any other protected category. Join our growing global team and accelerate your career with us. Apply today.\nThird parties fraudulently posing as NTT DATA recruiters\nNTT DATA recruiters will never ask job seekers or candidates for payment or banking information during the recruitment process, for any reason. Please remain vigilant of third parties who may attempt to impersonate NTT DATA recruiters whether in writing or by phone in order to deceptively obtain personal data or money from you. All email communications from an NTT DATA recruiter will come from an\n@nttdata.com\nemail address. If you suspect any fraudulent activity, please\ncontact us\n.",
-    "salary": "Thỏa thuận",
-    "posted_date": "1 week ago",
-    "posted_timestamp": 1792907385,
-    "posted_date_display": "25/10/2026 (1 tuần trước)",
-    "tags": [
-      "Incident Response"
-    ],
-    "track": "SOC Operations & Monitoring",
-    "extracted_skills": [
-      "Incident Response",
-      "Python",
-      "Bash / Shell Scripting",
-      "NIST CSF",
-      "Active Directory Security"
-    ],
-    "extracted_certs": [
-      "SANS GCFA / GCIH / GREM"
-    ],
-    "english_level": "Fluent / Advanced",
-    "experience_years": "Lead / Manager"
   },
   {
     "id": "linkedin_4479663248",
@@ -1929,6 +1911,33 @@
     "experience_years": "Mid-Level"
   },
   {
+    "id": "linkedin_4470281936",
+    "title": "Senior Defence Security Engineer",
+    "company": "Timo Digital Bank by BVBank",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/senior-defence-security-engineer-at-timo-digital-bank-by-bvbank-4470281936",
+    "source": "LinkedIn",
+    "raw_description": "We’re looking for a Senior Cyber Defense Engineer to strengthen cyber defense across Timo and Kredivo Group. This is a hands-on role covering threat detection, incident response, endpoint and network security, vulnerability management, threat hunting, and security automation.\nYou’ll work closely with Kredivo Group’s regional Cyber Defense team and Timo’s local IT and Engineering teams to protect our banking platform and customers.\nResponsibility\n• Monitor, investigate, and respond to security alerts and incidents\n• Manage security controls including\nEDR, SIEM, WAF, IDS/IPS, DLP, and firewalls\n• Drive vulnerability assessment, patch management, and remediation\n• Implement\nCIS security hardening\nacross endpoints, servers, networks, containers, and cloud environments\n• Conduct threat hunting and investigate suspicious activities and IOCs\n• Improve threat detection rules using threat intelligence and emerging attack techniques\n• Automate repetitive security operations and workflows\n• Support security reviews and regulatory requirements such as\nPCI DSS, ISO 27001, SBV, and MPS\nQualification\n• 4+ years of Information Security experience, with hands-on experience in at least two areas: SOC, Cyber Defense, Incident Response, Threat Hunting, Threat Intelligence, or Vulnerability Management\n• Strong hands-on knowledge of\nWAF, CDN, Firewall, SIEM, EDR, and Cloud Security\n• Solid understanding of network, Windows/Linux, VM, container, and cloud security\n• Experience with vulnerability and patch management and CIS hardening\n• Knowledge of modern attack techniques such as\nMITRE ATT&CK\n• Professional working English for regional collaboration\n• Strong ownership and ability to stay calm during security incidents\n• Security certifications such as Security+, CySA+, CHFI, GIAC, or Cloud Security certifications\n• Experience in\nFintech, Banking, or other regulated industries\nis a strong plus\n•\nEfficiency in English communication",
+    "salary": "Thỏa thuận",
+    "posted_date": "2 weeks ago",
+    "posted_timestamp": 1792376421,
+    "posted_date_display": "19/10/2026 (2 tuần trước)",
+    "tags": [
+      "Security Engineer"
+    ],
+    "track": "Security Engineering & Infrastructure",
+    "extracted_skills": [
+      "Incident Response",
+      "Docker / Containers",
+      "ISO 27001",
+      "PCI-DSS",
+      "VN Regulations (TT09/TT75/NĐ13)"
+    ],
+    "extracted_certs": [],
+    "english_level": "Not Specified",
+    "experience_years": "Senior"
+  },
+  {
     "id": "linkedin_4477286390",
     "title": "Cloud security Engineer",
     "company": "Viettel Telecom",
@@ -2058,33 +2067,6 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Junior / Entry"
-  },
-  {
-    "id": "linkedin_4470281936",
-    "title": "Senior Defence Security Engineer",
-    "company": "Timo Digital Bank by BVBank",
-    "location": "Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/senior-defence-security-engineer-at-timo-digital-bank-by-bvbank-4470281936",
-    "source": "LinkedIn",
-    "raw_description": "We’re looking for a Senior Cyber Defense Engineer to strengthen cyber defense across Timo and Kredivo Group. This is a hands-on role covering threat detection, incident response, endpoint and network security, vulnerability management, threat hunting, and security automation.\nYou’ll work closely with Kredivo Group’s regional Cyber Defense team and Timo’s local IT and Engineering teams to protect our banking platform and customers.\nResponsibility\n• Monitor, investigate, and respond to security alerts and incidents\n• Manage security controls including\nEDR, SIEM, WAF, IDS/IPS, DLP, and firewalls\n• Drive vulnerability assessment, patch management, and remediation\n• Implement\nCIS security hardening\nacross endpoints, servers, networks, containers, and cloud environments\n• Conduct threat hunting and investigate suspicious activities and IOCs\n• Improve threat detection rules using threat intelligence and emerging attack techniques\n• Automate repetitive security operations and workflows\n• Support security reviews and regulatory requirements such as\nPCI DSS, ISO 27001, SBV, and MPS\nQualification\n• 4+ years of Information Security experience, with hands-on experience in at least two areas: SOC, Cyber Defense, Incident Response, Threat Hunting, Threat Intelligence, or Vulnerability Management\n• Strong hands-on knowledge of\nWAF, CDN, Firewall, SIEM, EDR, and Cloud Security\n• Solid understanding of network, Windows/Linux, VM, container, and cloud security\n• Experience with vulnerability and patch management and CIS hardening\n• Knowledge of modern attack techniques such as\nMITRE ATT&CK\n• Professional working English for regional collaboration\n• Strong ownership and ability to stay calm during security incidents\n• Security certifications such as Security+, CySA+, CHFI, GIAC, or Cloud Security certifications\n• Experience in\nFintech, Banking, or other regulated industries\nis a strong plus\n•\nEfficiency in English communication",
-    "salary": "Thỏa thuận",
-    "posted_date": "2 weeks ago",
-    "posted_timestamp": 1792348436,
-    "posted_date_display": "18/10/2026 (2 tuần trước)",
-    "tags": [
-      "Security Engineer"
-    ],
-    "track": "Security Engineering & Infrastructure",
-    "extracted_skills": [
-      "Incident Response",
-      "Docker / Containers",
-      "ISO 27001",
-      "PCI-DSS",
-      "VN Regulations (TT09/TT75/NĐ13)"
-    ],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Senior"
   },
   {
     "id": "linkedin_4472543705",
@@ -2932,6 +2914,35 @@
     "experience_years": "Senior"
   },
   {
+    "id": "linkedin_4454365422",
+    "title": "Senior Security Engineer - Cyber Defense",
+    "company": "Kredivo Group",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/senior-security-engineer-cyber-defense-at-kredivo-group-4454365422",
+    "source": "LinkedIn",
+    "raw_description": "We are looking for a Senior Security Engineer to join Kredivo Group’s Cyber Defense team. This\nrole is designed for professionals who can bridge enterprise security engineering, threat hunting\nand incident response.\nYou will play a critical role in protecting our infrastructure, endpoints and applications from\nadvanced threats, while also proactively hunting for malicious activity and leading IR efforts.\nYou’ll collaborate with IT, engineering and other security teams based in Indonesia & India to\nbuild, monitor and evolve security defenses, while staying ahead of adversaries through threat\nintelligence and detection engineering.\nResponsibilities\nDFIR - Windows, macOS, Linux & Cloud\nLead DFIR investigations across Windows, macOS and Linux endpoints/servers,\nidentifying attack vectors, persistence mechanisms, lateral movement and root cause.\nPerform disk, memory, file-system, registry and artifact analysis to reconstruct attacker\nactivity and establish timelines.\nAnalyze Windows artifacts including Event Logs, Registry, Prefetch, Amcache,\nShimcache, SRUM, PowerShell, scheduled tasks and browser artifacts.\nInvestigate macOS artifacts including Unified Logs, LaunchAgents/LaunchDaemons,\npersistence mechanisms, shell history, browser data and file-system activity.\nPerform timeline analysis and artifact correlation to reconstruct attacker behavior and\ndetermine the scope and impact of incidents.\nThreat Hunting & Detections\nContinuous monitoring of both internal and external systems to detect threats, uncover\nvulnerabilities and ensure policy compliance.\nCorrelate IOCs/TTPs with internal activity using SIEM, EDR and custom automation.\nDeploy, configure and monitor security tools (EDR, DLP, VMDR).\nAnalyze dark web chatter, OSINT sources and intelligence platforms to identify emerging\nthreats.\nGenerate weekly/monthly hunting & intel reports with actionable recommendations.\nIncident Response\nLead incident response, perform forensics and log analysis to identify root causes.\nSupport containment, eradication and remediation efforts with cross functional teams.\nDevelop security automations and workflows using scripting languages Python or Bash.\nCollaborate with the Threat Detection team to fine tune alerts and improve detection\ncoverage.\nContribute to IR playbooks, runbooks and post incident reviews.\nQualifications\n4 to 7 years of experience in cybersecurity with exposure to enterprise security, threat\nhunting and incident response.\nHands on with security platforms like EDR, DLP, Wazuh, Vulnerability Management, and\nCloudflare WAF.\nGood understanding of adversary tactics like MITRE ATT&CK, TTPs, IOC handling.\nWorking knowledge of scripting/automation (Python, Bash, PowerShell).\nKnowledge of forensic techniques, log analysis, and security monitoring platforms.\nStrong grasp of enterprise IT & SaaS security (GSuite, VPNs, cloud security, IAM).\nPreferred certifications: Security+, CCNA/P, GIAC (GCIA/GCTI/GCIH) or equivalent.\nExperience in Fintech or financial services is a plus.\nBehavioral & Soft Skills\nOwnership mindset: can lead initiatives independently with minimal supervision.\nStrong analytical and problem solving skills in high-pressure situations.\nExcellent communicator and be able to explain technical security concepts to technical\nand non-technical stakeholders.\nTeam player that collaborates effectively across IT, engineering and security.\nPassionate about continuous learning, automation and staying current with the threat\nlandscape.",
+    "salary": "Thỏa thuận",
+    "posted_date": "3 weeks ago",
+    "posted_timestamp": 1791771621,
+    "posted_date_display": "12/10/2026 (3 tuần trước)",
+    "tags": [
+      "Security Engineer"
+    ],
+    "track": "Security Engineering & Infrastructure",
+    "extracted_skills": [
+      "Digital Forensics & Artifacts",
+      "Incident Response",
+      "Python",
+      "Bash / Shell Scripting",
+      "Detection as Code / Sigma"
+    ],
+    "extracted_certs": [
+      "SANS GCFA / GCIH / GREM"
+    ],
+    "english_level": "Not Specified",
+    "experience_years": "Lead / Manager"
+  },
+  {
     "id": "careerviet_35C8327E",
     "title": "Kỹ sư Bảo mật CNTT",
     "company": "Tổng Công ty Cổ phần Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam (BIC)",
@@ -3014,27 +3025,6 @@
     ],
     "english_level": "Not Specified",
     "experience_years": "Lead / Manager"
-  },
-  {
-    "id": "linkedin_4454365422",
-    "title": "Senior Security Engineer - Cyber Defense",
-    "company": "Kredivo Group",
-    "location": "Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/senior-security-engineer-cyber-defense-at-kredivo-group-4454365422",
-    "source": "LinkedIn",
-    "raw_description": "Senior Security Engineer - Cyber Defense",
-    "salary": "Thỏa thuận",
-    "posted_date": "3 weeks ago",
-    "posted_timestamp": 1791743636,
-    "posted_date_display": "11/10/2026 (3 tuần trước)",
-    "tags": [
-      "Security Engineer"
-    ],
-    "track": "Security Engineering & Infrastructure",
-    "extracted_skills": [],
-    "extracted_certs": [],
-    "english_level": "Not Specified",
-    "experience_years": "Senior"
   },
   {
     "id": "linkedin_4476707935",
@@ -9224,6 +9214,66 @@
     "experience_years": "Senior"
   },
   {
+    "id": "linkedin_4449075169",
+    "title": "Tier 3 (International Client)",
+    "company": "Life at Viettel Cyber Security",
+    "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/tier-3-international-client-at-life-at-viettel-cyber-security-4449075169",
+    "source": "LinkedIn",
+    "raw_description": "POSTED AT 15/07/2025 12:00:19\nTier 3 (International Client)\nDepartment\nSecurity Dept\nLocation\nHanoi, Ho Chi Minh City\nEmployment type\nFull-time\nWork experience\nExperienced, Senior\nEnd date\nApplication until 31/12/2026\nSecurity\nOverview\nViettel Cyber Security One Member Limited Liability Company (VCS) focuses on the implementation, research, and in-depth development of information security products and solutions, while also providing cybersecurity (CS) products and services to large domestic and international organizations and enterprises.\nSome Notable Achievements Of VCS\nThe Champion of Pwn2Own 2023 & 2024. Previously, VCS consistently ranked in the Top Five positions at Pwn2Own Tokyo 2020, Vancouver 2021, and Toronto 2022.\nIn addition to Pwn2Own, VCS has consistently made its mark and topped numerous prestigious cybersecurity attack rankings and competitions worldwide, including those held by Microsoft, Bugcrowd, Google, Oracle, and others.\nVCS has exploited over 400 Zero-day security vulnerabilities on major platforms and systems of Microsoft, Oracle, Jenkins, and others.\nReceived 11 awards at the Cybersecurity Excellence Awards 2023, surpassing more than 800 nominations from leading global cybersecurity solution providers.\nGlobal InfoSec Awards 2023 (Cyber Defense Magazine)\nIT World Awards 2023: https://globeeawards.com/technology/winners/\nViettel Cyber Security excelled in achieving the Gold award in the Best Cyber Security Company in Asia category for 2023.\n07 Gold awards for products: Network Security Monitoring Solution (VCS-CyM), Abnormal Behavior Analysis Solution (VCS-KIAN), Network Security Orchestration, Automation and Response Solution (VCS-CyCir), Endpoint Anomaly Detection Solution (VCS-aJiant), Secure Remote Working Solution for Enterprises (VCS M-Suite); Cyber Threat Intelligence Solution (VCS-Threat Intelligence); Network Security Vulnerability Management and Control Solution (VCS-V2S).\n03 Gold award for services: Managed Security Services (MSS), Penetration Testing Service (Pentest), IoT Security Assessment Service.\nResponsibilities\nJob Description:\n– Monitor and analyze advanced security alerts across Endpoint, Network, and Gateway layers to detect and respond to cyberattacks.\n– Proactive Threat hunting\n– Investigate and respond to complex incidents, provide expert-level triage, and escalate to response teams as needed.\n– Develop and document standard operating procedures (SOPs)\n– Create and refine automated playbooks and detection use cases to improve SOC efficiency.\n– Ensure SLA compliance for international clients, including those in regulated sectors (finance, government, etc.).\n– Collaborate with global teams to support multi-region SOC operations.\nQualifications\nEducational Background:\n– Bachelor’s degree in: Information Security; Information Technology, Computer Science, Mathematics-Informatics…\n– English proficiency equivalent to TOEIC 650 or higher\nRequirements/Competencies:\n– 5 years of experience providing SOC (Security Operations Center) services for multiple clients in Asia, US – UK…\n– Solid understanding of cybersecurity and common attack methods (CEH, Security+ certifications preferred or equivalent experience).\n– Proficient in using SOC ecosystem tools and portals (SIEM, SOAR, EDR, NSM, Email Security, WAF, Cloudrity).\n– Capable of analyzing and detecting malware components.\n– Skilled in using forensic and monitoring tools: Autoruns, Procexp, TCPView, PCHunter, and Linux command-line tools (ls, ps, netstat, cat, iptables, last, lastlog).\n– Holding a\nForensic certification (e.g., CHFI)\nor equivalent is a plus.\n– Specialized knowledge in one of the two areas:\nMalware Attack\nor\nWeb Attack\n.\n– Preferred certifications:\nCEH, OSCP\n.\nSoft Skills:\n– Strong teamwork and stress management skills.\n– Good information research and analysis capability.\nPreferred Candidate Profiles\n– Candidates currently residing in\nIndia\n,\nPhilippines\n, or\nVietnam\n.\n– Candidates with prior experience supporting clients in regulated industries (banking, telecom, government).\nBenefits & perks\nCompetitive annual total income package\nOpportunity to work with diverse domestic and international clients\nAnnual salary review in March\nMIC health and personal accident insurance (coverage up to 600 million VND/year)\nAnnual health check-up\nAwards recognizing performance and timely outstanding contributions\n100% sponsorship for in-depth international professional certification based on position (in case of unsuccessful attempt, don’t worry, VCS will support 50% of the exam fee), special bonuses for employees achieving international professional certifications\nContinuous investment in the latest and most up-to-date learning materials in the field of Information Security from leading global vendors and institutes\n100% of employees are provided with an Udemy eLearning account – learn anytime, anywhere\nFree participation in professional knowledge sharing programs and seminars from leading domestic and international speakers\nWorking in a Grade A office – Landmark 72 building with a green space complex and a private area for gym and entertainment (billiards, PES, café, reading, Pingpong)\n30-minute relaxation daily with Happy hours (4:00 PM – 4:30 PM)\nSports activities: Football, Billiards, Poker, PES clubs, etc\n12 days of annual leave according to Labor Law and 3 days of company vacation, traditional holiday on 22/12\nPersonal birthday celebrations: Gifts and birthday cake from the Company\nParticipation in company events: Quarterly team building activities, monthly birthday celebrations, Year End Party, vacations, International Women’s Day (March 8th), Vietnamese Women’s Day (October 20th) (female employees recieve ½ day off), Viettel Group birthday on June 1st, etc\nAPPLICATION FORM\nAPPLY THIS JOB\nPlease enable JavaScript in your browser to complete this form.\nPlease enable JavaScript in your browser to complete this form.\nFull name *\nEmail *\nPhone number *\nLinkedIn/GitHub\nPortfolio\nSend form *\nWebsite / URL *\nAgree to Personal Data Protection Policy\nIn accordance with the provisions of the Law on Protection of Personal Data No. 91/2025/QH15 dated June 26, 2025, by checking the boxes below, the Candidate confirms that they have read, understood, and agree to allow Viettel Cyber Security One Member Limited Liability Company (VCS) to process their personal data for each specific purpose stated below. If the Candidate does not agree, we regret that we cannot process the application. The Candidate may withdraw their consent at any time through Customer Service channels, including the hotline +84 382 360 360 or email vcs.care@viettel.com.vn.\nAcceptance of the purposes for processing the Candidate's personal data and our Statement on Processing and Protection of Personal Data of Recruitment Candidates: *\n1. Executing the full recruitment and onboarding cycle: from screening, background checks, and assessments to contract finalization, talent pool management, and internal reporting.\nView our Personal Data Protection Policy\nRelated jobs\nCyber Incident Responder\nExperienced\nView detail Cyber Incident Responder\nSoc Manager ( Japan)\nHanoi\nExperienced\nView detail Soc Manager ( Japan)\nBridge System Engineer (BrSE)\nTokyo, Japan\nSenior\nView detail Bridge System Engineer (BrSE)\nAI RESEARCH\nHanoi\nSenior\nView detail AI RESEARCH\nCyber Incident Responder (Network)\nHanoi\nExperienced\nView detail Cyber Incident Responder (Network)\nSOC Tier 1\nHanoi\nHo Chi Minh City Junior\nView detail SOC Tier 1\nView more jobs",
+    "salary": "Thỏa thuận",
+    "posted_date": "2 months ago",
+    "posted_timestamp": 1788402021,
+    "posted_date_display": "03/09/2026 (2 tháng trước)",
+    "tags": [
+      "Incident Response"
+    ],
+    "track": "Security Engineering & Infrastructure",
+    "extracted_skills": [
+      "Digital Forensics & Artifacts",
+      "CI/CD Pipelines",
+      "SOAR / Playbooks",
+      "Penetration Testing"
+    ],
+    "extracted_certs": [
+      "OSCP / OSDF",
+      "CEH"
+    ],
+    "english_level": "Fluent / Advanced",
+    "experience_years": "Lead / Manager"
+  },
+  {
+    "id": "linkedin_4449066591",
+    "title": "Cyber Incident Responder",
+    "company": "Life at Viettel Cyber Security",
+    "location": "Hanoi, Hanoi, Vietnam",
+    "url": "https://vn.linkedin.com/jobs/view/cyber-incident-responder-at-life-at-viettel-cyber-security-4449066591",
+    "source": "LinkedIn",
+    "raw_description": "POSTED AT 19/04/2025 18:14:10\nCyber Incident Responder\nDepartment\nTrung tâm Giám sát và Phản ứng trên không gian mạng\nLocation\nHanoi\nEmployment type\nFull-time\nWork experience\nExperienced\nEnd date\nApplication until 31/12/2026\nSecurity\nOverview\nViettel Cyber Security One Member Limited Liability Company (VCS) focuses on the implementation, research, and in-depth development of information security products and solutions, while also providing cybersecurity (CS) products and services to large domestic and international organizations and enterprises.\nSome Notable Achievements Of VCS\nThe Champion of Pwn2Own 2023 & 2024. Previously, VCS consistently ranked in the Top Five positions at Pwn2Own Tokyo 2020, Vancouver 2021, and Toronto 2022.\nIn addition to Pwn2Own, VCS has consistently made its mark and topped numerous prestigious cybersecurity attack rankings and competitions worldwide, including those held by Microsoft, Bugcrowd, Google, Oracle, and others.\nVCS has exploited over 400 Zero-day security vulnerabilities on major platforms and systems of Microsoft, Oracle, Jenkins, and others.\nReceived 11 awards at the Cybersecurity Excellence Awards 2023, surpassing more than 800 nominations from leading global cybersecurity solution providers.\nGlobal InfoSec Awards 2023 (Cyber Defense Magazine)\nIT World Awards 2023: https://globeeawards.com/technology/winners/\nViettel Cyber Security excelled in achieving the Gold award in the Best Cyber Security Company in Asia category for 2023.\n07 Gold awards for products: Network Security Monitoring Solution (VCS-CyM), Abnormal Behavior Analysis Solution (VCS-KIAN), Network Security Orchestration, Automation and Response Solution (VCS-CyCir), Endpoint Anomaly Detection Solution (VCS-aJiant), Secure Remote Working Solution for Enterprises (VCS M-Suite); Cyber Threat Intelligence Solution (VCS-Threat Intelligence); Network Security Vulnerability Management and Control Solution (VCS-V2S).\n03 Gold award for services: Managed Security Services (MSS), Penetration Testing Service (Pentest), IoT Security Assessment Service.\nAbout Security Operation Center is responsible for monitoring and handling information security issues to detect, analyze, respond to, prevent, and investigate security incidents, ensuring cybersecurity for an organization. The SOC currently manages and provides services to nearly 100 clients, including government ministries and agencies, and multi-industry organizations and enterprises both domestically and internationally.\nResponsibilities\nJob Description:\n– Investigate, analyze, and respond to cybersecurity incidents occurring on the organization’s IT infrastructure.\n– Identify specific vulnerabilities and weaknesses and provide recommendations for quick and thorough remediation.\n– Hunt across the entire system, identifying compromised components based on the TTPs (Techniques, Tactics, Procedures) of attack groups.\n– Conduct in-depth analysis of hacker tools used in attacks (Malware, Webshell, Hacktool, etc.).\nQualifications\nEducational Background:\n– Bachelor’s degree in: Information Security; Information Technology, Computer Science, Mathematics-Informatics…\n– English proficiency equivalent to TOEIC 650 or higher\nRequirements/Competencies:\n– Knowledge and methods for incident response and handling\n– Knowledge of intrusion detection methods and techniques to identify intrusion attacks based on the host and network layers\n– Knowledge of cyber attack phases (e.g., reconnaissance, scanning, enumeration, gaining access, privilege escalation, maintaining access, covering tracks…)\n– Ability to recognize and differentiate between various types of vulnerabilities and related attacks\n– Knowledge of application security risks (e.g., OWASP Top 10)\n– Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, malware, XSS, SQLi, Injection, hijacking…)\n– Knowledge of malware analysis methods\nPreferred\n– Participation in Malware Reverse Engineering/Web Security courses.\n– Certifications such as CEH, OSCP, GREM, GCTI…\nSoft Skills\n– Good teamwork skills and ability to work well under pressure\n– Information seeking skills\n– Compliance with discipline, punctuality, and level of commitment\nBenefits & perks\nCompetitive annual total income package\nOpportunity to work with diverse domestic and international clients\nAnnual salary review in March\nMIC health and personal accident insurance (coverage up to 600 million VND/year)\nAnnual health check-up\nAwards recognizing performance and timely outstanding contributions\n100% sponsorship for in-depth international professional certification based on position (in case of unsuccessful attempt, don’t worry, VCS will support 50% of the exam fee), special bonuses for employees achieving international professional certifications\nContinuous investment in the latest and most up-to-date learning materials in the field of Information Security from leading global vendors and institutes\n100% of employees are provided with an Udemy eLearning account – learn anytime, anywhere\nFree participation in professional knowledge sharing programs and seminars from leading domestic and international speakers\nWorking in a Grade A office – Landmark 72 building with a green space complex and a private area for gym and entertainment (billiards, PES, café, reading, Pingpong)\n30-minute relaxation daily with Happy hours (4:00 PM – 4:30 PM)\nSports activities: Football, Billiards, Poker, PES clubs, etc\n12 days of annual leave according to Labor Law and 3 days of company vacation, traditional holiday on 22/12\nPersonal birthday celebrations: Gifts and birthday cake from the Company\nParticipation in company events: Quarterly team building activities, monthly birthday celebrations, Year End Party, vacations, International Women’s Day (March 8th), Vietnamese Women’s Day (October 20th) (female employees recieve ½ day off), Viettel Group birthday on June 1st, etc\nAPPLICATION FORM\nAPPLY THIS JOB\nPlease enable JavaScript in your browser to complete this form.\nPlease enable JavaScript in your browser to complete this form.\nFull name *\nEmail *\nPhone number *\nLinkedIn/GitHub\nPortfolio\nSend form *\nWebsite / URL *\nAgree to Personal Data Protection Policy\nIn accordance with the provisions of the Law on Protection of Personal Data No. 91/2025/QH15 dated June 26, 2025, by checking the boxes below, the Candidate confirms that they have read, understood, and agree to allow Viettel Cyber Security One Member Limited Liability Company (VCS) to process their personal data for each specific purpose stated below. If the Candidate does not agree, we regret that we cannot process the application. The Candidate may withdraw their consent at any time through Customer Service channels, including the hotline +84 382 360 360 or email vcs.care@viettel.com.vn.\nAcceptance of the purposes for processing the Candidate's personal data and our Statement on Processing and Protection of Personal Data of Recruitment Candidates: *\n1. Executing the full recruitment and onboarding cycle: from screening, background checks, and assessments to contract finalization, talent pool management, and internal reporting.\nView our Personal Data Protection Policy\nRelated jobs\nSOC Manager\nHanoi\nHo Chi Minh City Experienced\nView detail SOC Manager\nSecurity Content Analyst\nHanoi\nHo Chi Minh City Experienced\nView detail Security Content Analyst\nAI ENGINEER – GEN AI\nHanoi\nSenior\nView detail AI ENGINEER – GEN AI\nSoc Manager ( Japan)\nHanoi\nExperienced\nView detail Soc Manager ( Japan)\nCyber Threat Intelligence Manager\nHanoi\nExperienced\nView detail Cyber Threat Intelligence Manager\nAI RESEARCH\nHanoi\nSenior\nView detail AI RESEARCH\nView more jobs",
+    "salary": "Thỏa thuận",
+    "posted_date": "2 months ago",
+    "posted_timestamp": 1788402021,
+    "posted_date_display": "03/09/2026 (2 tháng trước)",
+    "tags": [
+      "Incident Response"
+    ],
+    "track": "Other / An toàn Thông tin Chung",
+    "extracted_skills": [
+      "Malware Analysis / Reverse Engineering",
+      "Incident Response",
+      "CI/CD Pipelines",
+      "OWASP Top 10",
+      "Penetration Testing"
+    ],
+    "extracted_certs": [
+      "SANS GCFA / GCIH / GREM",
+      "OSCP / OSDF",
+      "CEH"
+    ],
+    "english_level": "Not Specified",
+    "experience_years": "Lead / Manager"
+  },
+  {
     "id": "linkedin_4459484897",
     "title": "DevSecOps Engineer (Hybrid HCM)",
     "company": "Findicia",
@@ -9345,35 +9395,6 @@
       "OSCP / OSDF"
     ],
     "english_level": "Not Specified",
-    "experience_years": "Lead / Manager"
-  },
-  {
-    "id": "linkedin_4449075169",
-    "title": "Tier 3 (International Client)",
-    "company": "Life at Viettel Cyber Security",
-    "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/tier-3-international-client-at-life-at-viettel-cyber-security-4449075169",
-    "source": "LinkedIn",
-    "raw_description": "POSTED AT 15/07/2025 12:00:19\nTier 3 (International Client)\nDepartment\nSecurity Dept\nLocation\nHanoi, Ho Chi Minh City\nEmployment type\nFull-time\nWork experience\nExperienced, Senior\nEnd date\nApplication until 31/12/2026\nSecurity\nOverview\nViettel Cyber Security One Member Limited Liability Company (VCS) focuses on the implementation, research, and in-depth development of information security products and solutions, while also providing cybersecurity (CS) products and services to large domestic and international organizations and enterprises.\nSome Notable Achievements Of VCS\nThe Champion of Pwn2Own 2023 & 2024. Previously, VCS consistently ranked in the Top Five positions at Pwn2Own Tokyo 2020, Vancouver 2021, and Toronto 2022.\nIn addition to Pwn2Own, VCS has consistently made its mark and topped numerous prestigious cybersecurity attack rankings and competitions worldwide, including those held by Microsoft, Bugcrowd, Google, Oracle, and others.\nVCS has exploited over 400 Zero-day security vulnerabilities on major platforms and systems of Microsoft, Oracle, Jenkins, and others.\nReceived 11 awards at the Cybersecurity Excellence Awards 2023, surpassing more than 800 nominations from leading global cybersecurity solution providers.\nGlobal InfoSec Awards 2023 (Cyber Defense Magazine)\nIT World Awards 2023: https://globeeawards.com/technology/winners/\nViettel Cyber Security excelled in achieving the Gold award in the Best Cyber Security Company in Asia category for 2023.\n07 Gold awards for products: Network Security Monitoring Solution (VCS-CyM), Abnormal Behavior Analysis Solution (VCS-KIAN), Network Security Orchestration, Automation and Response Solution (VCS-CyCir), Endpoint Anomaly Detection Solution (VCS-aJiant), Secure Remote Working Solution for Enterprises (VCS M-Suite); Cyber Threat Intelligence Solution (VCS-Threat Intelligence); Network Security Vulnerability Management and Control Solution (VCS-V2S).\n03 Gold award for services: Managed Security Services (MSS), Penetration Testing Service (Pentest), IoT Security Assessment Service.\nResponsibilities\nJob Description:\n– Monitor and analyze advanced security alerts across Endpoint, Network, and Gateway layers to detect and respond to cyberattacks.\n– Proactive Threat hunting\n– Investigate and respond to complex incidents, provide expert-level triage, and escalate to response teams as needed.\n– Develop and document standard operating procedures (SOPs)\n– Create and refine automated playbooks and detection use cases to improve SOC efficiency.\n– Ensure SLA compliance for international clients, including those in regulated sectors (finance, government, etc.).\n– Collaborate with global teams to support multi-region SOC operations.\nQualifications\nEducational Background:\n– Bachelor’s degree in: Information Security; Information Technology, Computer Science, Mathematics-Informatics…\n– English proficiency equivalent to TOEIC 650 or higher\nRequirements/Competencies:\n– 5 years of experience providing SOC (Security Operations Center) services for multiple clients in Asia, US – UK…\n– Solid understanding of cybersecurity and common attack methods (CEH, Security+ certifications preferred or equivalent experience).\n– Proficient in using SOC ecosystem tools and portals (SIEM, SOAR, EDR, NSM, Email Security, WAF, Cloudrity).\n– Capable of analyzing and detecting malware components.\n– Skilled in using forensic and monitoring tools: Autoruns, Procexp, TCPView, PCHunter, and Linux command-line tools (ls, ps, netstat, cat, iptables, last, lastlog).\n– Holding a\nForensic certification (e.g., CHFI)\nor equivalent is a plus.\n– Specialized knowledge in one of the two areas:\nMalware Attack\nor\nWeb Attack\n.\n– Preferred certifications:\nCEH, OSCP\n.\nSoft Skills:\n– Strong teamwork and stress management skills.\n– Good information research and analysis capability.\nPreferred Candidate Profiles\n– Candidates currently residing in\nIndia\n,\nPhilippines\n, or\nVietnam\n.\n– Candidates with prior experience supporting clients in regulated industries (banking, telecom, government).\nBenefits & perks\nCompetitive annual total income package\nOpportunity to work with diverse domestic and international clients\nAnnual salary review in March\nMIC health and personal accident insurance (coverage up to 600 million VND/year)\nAnnual health check-up\nAwards recognizing performance and timely outstanding contributions\n100% sponsorship for in-depth international professional certification based on position (in case of unsuccessful attempt, don’t worry, VCS will support 50% of the exam fee), special bonuses for employees achieving international professional certifications\nContinuous investment in the latest and most up-to-date learning materials in the field of Information Security from leading global vendors and institutes\n100% of employees are provided with an Udemy eLearning account – learn anytime, anywhere\nFree participation in professional knowledge sharing programs and seminars from leading domestic and international speakers\nWorking in a Grade A office – Landmark 72 building with a green space complex and a private area for gym and entertainment (billiards, PES, café, reading, Pingpong)\n30-minute relaxation daily with Happy hours (4:00 PM – 4:30 PM)\nSports activities: Football, Billiards, Poker, PES clubs, etc\n12 days of annual leave according to Labor Law and 3 days of company vacation, traditional holiday on 22/12\nPersonal birthday celebrations: Gifts and birthday cake from the Company\nParticipation in company events: Quarterly team building activities, monthly birthday celebrations, Year End Party, vacations, International Women’s Day (March 8th), Vietnamese Women’s Day (October 20th) (female employees recieve ½ day off), Viettel Group birthday on June 1st, etc\nAPPLICATION FORM\nAPPLY THIS JOB\nPlease enable JavaScript in your browser to complete this form.\nPlease enable JavaScript in your browser to complete this form.\nFull name *\nEmail *\nPhone number *\nLinkedIn/GitHub\nPortfolio\nSend form *\nWebsite / URL *\nAgree to Personal Data Protection Policy\nIn accordance with the provisions of the Law on Protection of Personal Data No. 91/2025/QH15 dated June 26, 2025, by checking the boxes below, the Candidate confirms that they have read, understood, and agree to allow Viettel Cyber Security One Member Limited Liability Company (VCS) to process their personal data for each specific purpose stated below. If the Candidate does not agree, we regret that we cannot process the application. The Candidate may withdraw their consent at any time through Customer Service channels, including the hotline +84 382 360 360 or email vcs.care@viettel.com.vn.\nAcceptance of the purposes for processing the Candidate's personal data and our Statement on Processing and Protection of Personal Data of Recruitment Candidates: *\n1. Executing the full recruitment and onboarding cycle: from screening, background checks, and assessments to contract finalization, talent pool management, and internal reporting.\nView our Personal Data Protection Policy\nRelated jobs\nCyber Incident Responder\nHanoi\nExperienced\nView detail Cyber Incident Responder\nSecurity Content Analyst\nHanoi\nHo Chi Minh City Experienced\nView detail Security Content Analyst\nBusiness Planning and Operations Specialist\nHanoi\nSpecialist\nView detail Business Planning and Operations Specialist\nNetwork Security\nHanoi\nExperienced\nView detail Network Security\nSOC Manager\nHanoi\nHo Chi Minh City Experienced\nView detail SOC Manager\nAI ENGINEER – GEN AI\nHanoi\nSenior\nView detail AI ENGINEER – GEN AI\nView more jobs",
-    "salary": "Thỏa thuận",
-    "posted_date": "2 months ago",
-    "posted_timestamp": 1788328185,
-    "posted_date_display": "02/09/2026 (2 tháng trước)",
-    "tags": [
-      "DFIR"
-    ],
-    "track": "Security Engineering & Infrastructure",
-    "extracted_skills": [
-      "Digital Forensics & Artifacts",
-      "CI/CD Pipelines",
-      "SOAR / Playbooks",
-      "Penetration Testing"
-    ],
-    "extracted_certs": [
-      "OSCP / OSDF",
-      "CEH"
-    ],
-    "english_level": "Fluent / Advanced",
     "experience_years": "Lead / Manager"
   },
   {
@@ -9892,37 +9913,6 @@
     "extracted_certs": [],
     "english_level": "Not Specified",
     "experience_years": "Senior"
-  },
-  {
-    "id": "linkedin_4449066591",
-    "title": "Cyber Incident Responder",
-    "company": "Life at Viettel Cyber Security",
-    "location": "Hanoi, Hanoi, Vietnam",
-    "url": "https://vn.linkedin.com/jobs/view/cyber-incident-responder-at-life-at-viettel-cyber-security-4449066591",
-    "source": "LinkedIn",
-    "raw_description": "POSTED AT 19/04/2025 18:14:10\nCyber Incident Responder\nDepartment\nTrung tâm Giám sát và Phản ứng trên không gian mạng\nLocation\nHanoi\nEmployment type\nFull-time\nWork experience\nExperienced\nEnd date\nApplication until 31/12/2026\nSecurity\nOverview\nViettel Cyber Security One Member Limited Liability Company (VCS) focuses on the implementation, research, and in-depth development of information security products and solutions, while also providing cybersecurity (CS) products and services to large domestic and international organizations and enterprises.\nSome Notable Achievements Of VCS\nThe Champion of Pwn2Own 2023 & 2024. Previously, VCS consistently ranked in the Top Five positions at Pwn2Own Tokyo 2020, Vancouver 2021, and Toronto 2022.\nIn addition to Pwn2Own, VCS has consistently made its mark and topped numerous prestigious cybersecurity attack rankings and competitions worldwide, including those held by Microsoft, Bugcrowd, Google, Oracle, and others.\nVCS has exploited over 400 Zero-day security vulnerabilities on major platforms and systems of Microsoft, Oracle, Jenkins, and others.\nReceived 11 awards at the Cybersecurity Excellence Awards 2023, surpassing more than 800 nominations from leading global cybersecurity solution providers.\nGlobal InfoSec Awards 2023 (Cyber Defense Magazine)\nIT World Awards 2023: https://globeeawards.com/technology/winners/\nViettel Cyber Security excelled in achieving the Gold award in the Best Cyber Security Company in Asia category for 2023.\n07 Gold awards for products: Network Security Monitoring Solution (VCS-CyM), Abnormal Behavior Analysis Solution (VCS-KIAN), Network Security Orchestration, Automation and Response Solution (VCS-CyCir), Endpoint Anomaly Detection Solution (VCS-aJiant), Secure Remote Working Solution for Enterprises (VCS M-Suite); Cyber Threat Intelligence Solution (VCS-Threat Intelligence); Network Security Vulnerability Management and Control Solution (VCS-V2S).\n03 Gold award for services: Managed Security Services (MSS), Penetration Testing Service (Pentest), IoT Security Assessment Service.\nAbout Security Operation Center is responsible for monitoring and handling information security issues to detect, analyze, respond to, prevent, and investigate security incidents, ensuring cybersecurity for an organization. The SOC currently manages and provides services to nearly 100 clients, including government ministries and agencies, and multi-industry organizations and enterprises both domestically and internationally.\nResponsibilities\nJob Description:\n– Investigate, analyze, and respond to cybersecurity incidents occurring on the organization’s IT infrastructure.\n– Identify specific vulnerabilities and weaknesses and provide recommendations for quick and thorough remediation.\n– Hunt across the entire system, identifying compromised components based on the TTPs (Techniques, Tactics, Procedures) of attack groups.\n– Conduct in-depth analysis of hacker tools used in attacks (Malware, Webshell, Hacktool, etc.).\nQualifications\nEducational Background:\n– Bachelor’s degree in: Information Security; Information Technology, Computer Science, Mathematics-Informatics…\n– English proficiency equivalent to TOEIC 650 or higher\nRequirements/Competencies:\n– Knowledge and methods for incident response and handling\n– Knowledge of intrusion detection methods and techniques to identify intrusion attacks based on the host and network layers\n– Knowledge of cyber attack phases (e.g., reconnaissance, scanning, enumeration, gaining access, privilege escalation, maintaining access, covering tracks…)\n– Ability to recognize and differentiate between various types of vulnerabilities and related attacks\n– Knowledge of application security risks (e.g., OWASP Top 10)\n– Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, malware, XSS, SQLi, Injection, hijacking…)\n– Knowledge of malware analysis methods\nPreferred\n– Participation in Malware Reverse Engineering/Web Security courses.\n– Certifications such as CEH, OSCP, GREM, GCTI…\nSoft Skills\n– Good teamwork skills and ability to work well under pressure\n– Information seeking skills\n– Compliance with discipline, punctuality, and level of commitment\nBenefits & perks\nCompetitive annual total income package\nOpportunity to work with diverse domestic and international clients\nAnnual salary review in March\nMIC health and personal accident insurance (coverage up to 600 million VND/year)\nAnnual health check-up\nAwards recognizing performance and timely outstanding contributions\n100% sponsorship for in-depth international professional certification based on position (in case of unsuccessful attempt, don’t worry, VCS will support 50% of the exam fee), special bonuses for employees achieving international professional certifications\nContinuous investment in the latest and most up-to-date learning materials in the field of Information Security from leading global vendors and institutes\n100% of employees are provided with an Udemy eLearning account – learn anytime, anywhere\nFree participation in professional knowledge sharing programs and seminars from leading domestic and international speakers\nWorking in a Grade A office – Landmark 72 building with a green space complex and a private area for gym and entertainment (billiards, PES, café, reading, Pingpong)\n30-minute relaxation daily with Happy hours (4:00 PM – 4:30 PM)\nSports activities: Football, Billiards, Poker, PES clubs, etc\n12 days of annual leave according to Labor Law and 3 days of company vacation, traditional holiday on 22/12\nPersonal birthday celebrations: Gifts and birthday cake from the Company\nParticipation in company events: Quarterly team building activities, monthly birthday celebrations, Year End Party, vacations, International Women’s Day (March 8th), Vietnamese Women’s Day (October 20th) (female employees recieve ½ day off), Viettel Group birthday on June 1st, etc\nAPPLICATION FORM\nAPPLY THIS JOB\nPlease enable JavaScript in your browser to complete this form.\nPlease enable JavaScript in your browser to complete this form.\nFull name *\nEmail *\nPhone number *\nLinkedIn/GitHub\nPortfolio\nSend form *\nWebsite / URL *\nAgree to Personal Data Protection Policy\nIn accordance with the provisions of the Law on Protection of Personal Data No. 91/2025/QH15 dated June 26, 2025, by checking the boxes below, the Candidate confirms that they have read, understood, and agree to allow Viettel Cyber Security One Member Limited Liability Company (VCS) to process their personal data for each specific purpose stated below. If the Candidate does not agree, we regret that we cannot process the application. The Candidate may withdraw their consent at any time through Customer Service channels, including the hotline +84 382 360 360 or email vcs.care@viettel.com.vn.\nAcceptance of the purposes for processing the Candidate's personal data and our Statement on Processing and Protection of Personal Data of Recruitment Candidates: *\n1. Executing the full recruitment and onboarding cycle: from screening, background checks, and assessments to contract finalization, talent pool management, and internal reporting.\nView our Personal Data Protection Policy\nRelated jobs\nCyber Incident Responder\nExperienced\nView detail Cyber Incident Responder\nSecurity Engineer\nHanoi\nSpecialist\nView detail Security Engineer\nSoc Manager ( Japan)\nHanoi\nExperienced\nView detail Soc Manager ( Japan)\nAI RESEARCH\nHanoi\nSenior\nView detail AI RESEARCH\nNetwork Security Audit\nHanoi\nHo Chi Minh City Experienced\nView detail Network Security Audit\nPentest Manager\nHanoi\nExperienced\nView detail Pentest Manager\nView more jobs",
-    "salary": "Thỏa thuận",
-    "posted_date": "2 months ago",
-    "posted_timestamp": 1788126461,
-    "posted_date_display": "30/08/2026 (2 tháng trước)",
-    "tags": [
-      "Incident Response"
-    ],
-    "track": "Security Engineering & Infrastructure",
-    "extracted_skills": [
-      "Malware Analysis / Reverse Engineering",
-      "Incident Response",
-      "CI/CD Pipelines",
-      "OWASP Top 10",
-      "Penetration Testing"
-    ],
-    "extracted_certs": [
-      "SANS GCFA / GCIH / GREM",
-      "OSCP / OSDF",
-      "CEH"
-    ],
-    "english_level": "Not Specified",
-    "experience_years": "Lead / Manager"
   },
   {
     "id": "cissp_fb_3812053632294801",
